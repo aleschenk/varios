@@ -1,0 +1,4119 @@
+Categoria: Anglo, Nacional y Latino
+	Radio: 80 Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/571_80_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/571_80_Nacional_E_Internacional_48.mp3
+
+	Radio: 90 Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/955_90_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/955_90_Nacional_E_Internacional_48.mp3
+
+	Radio: Argentinos en Inglés
+	ACC: http://buecrplb01.cienradios.com.ar/810_Argentinos_en_Ingles_32000.aac
+	MP3: http://s_mobile.cienradios.com/810_Argentinos_en_Ingles_48.mp3
+
+	Radio: Egresados 1975
+	ACC: http://buecrplb01.cienradios.com.ar/868_Egresados_1975_32000.aac
+	MP3: http://s_mobile.cienradios.com/868_Egresados_1975_48.mp3
+
+	Radio: Egresados 1976
+	ACC: http://buecrplb01.cienradios.com.ar/867_Egresados_1976_32000.aac
+	MP3: http://s_mobile.cienradios.com/867_Egresados_1976_48.mp3
+
+	Radio: Egresados 1977
+	ACC: http://buecrplb01.cienradios.com.ar/866_Egresados_1977_32000.aac
+	MP3: http://s_mobile.cienradios.com/866_Egresados_1977_48.mp3
+
+	Radio: Egresados 1978
+	ACC: http://buecrplb01.cienradios.com.ar/865_Egresados_1978_32000.aac
+	MP3: http://s_mobile.cienradios.com/865_Egresados_1978_48.mp3
+
+	Radio: Egresados 1979
+	ACC: http://buecrplb01.cienradios.com.ar/864_Egresados_1979_32000.aac
+	MP3: http://s_mobile.cienradios.com/864_Egresados_1979_48.mp3
+
+	Radio: Egresados 1980
+	ACC: http://buecrplb01.cienradios.com.ar/606_Egresados_1980_32000.aac
+	MP3: http://s_mobile.cienradios.com/606_Egresados_1980_48.mp3
+
+	Radio: Egresados 1981
+	ACC: http://buecrplb01.cienradios.com.ar/607_Egresados_1981_32000.aac
+	MP3: http://s_mobile.cienradios.com/607_Egresados_1981_48.mp3
+
+	Radio: Egresados 1982
+	ACC: http://buecrplb01.cienradios.com.ar/608_Egresados_1982_32000.aac
+	MP3: http://s_mobile.cienradios.com/608_Egresados_1982_48.mp3
+
+	Radio: Egresados 1983
+	ACC: http://buecrplb01.cienradios.com.ar/609_Egresados_1983_32000.aac
+	MP3: http://s_mobile.cienradios.com/609_Egresados_1983_48.mp3
+
+	Radio: Egresados 1984
+	ACC: http://buecrplb01.cienradios.com.ar/828_Egresados_1984_32000.aac
+	MP3: http://s_mobile.cienradios.com/828_Egresados_1984_48.mp3
+
+	Radio: Egresados 1985
+	ACC: http://buecrplb01.cienradios.com.ar/830_Egresados_1985_32000.aac
+	MP3: http://s_mobile.cienradios.com/830_Egresados_1985_48.mp3
+
+	Radio: Egresados 1986
+	ACC: http://buecrplb01.cienradios.com.ar/831_Egresados_1986_32000.aac
+	MP3: http://s_mobile.cienradios.com/831_Egresados_1986_48.mp3
+
+	Radio: Egresados 1987
+	ACC: http://buecrplb01.cienradios.com.ar/832_Egresados_1987_32000.aac
+	MP3: http://s_mobile.cienradios.com/832_Egresados_1987_48.mp3
+
+	Radio: Egresados 1988
+	ACC: http://buecrplb01.cienradios.com.ar/834_Egresados_1988_32000.aac
+	MP3: http://s_mobile.cienradios.com/834_Egresados_1988_48.mp3
+
+	Radio: Egresados 1989
+	ACC: http://buecrplb01.cienradios.com.ar/835_Egresados_1989_32000.aac
+	MP3: http://s_mobile.cienradios.com/835_Egresados_1989_48.mp3
+
+	Radio: Egresados 1990
+	ACC: http://buecrplb01.cienradios.com.ar/838_Egresados_1990_32000.aac
+	MP3: http://s_mobile.cienradios.com/838_Egresados_1990_48.mp3
+
+	Radio: Egresados 1991
+	ACC: http://buecrplb01.cienradios.com.ar/844_Egresados_1991_32000.aac
+	MP3: http://s_mobile.cienradios.com/844_Egresados_1991_48.mp3
+
+	Radio: Egresados 1992
+	ACC: http://buecrplb01.cienradios.com.ar/850_Egresados_1992_32000.aac
+	MP3: http://s_mobile.cienradios.com/850_Egresados_1992_48.mp3
+
+	Radio: Egresados 1993
+	ACC: http://buecrplb01.cienradios.com.ar/851_Egresados_1993_32000.aac
+	MP3: http://s_mobile.cienradios.com/851_Egresados_1993_48.mp3
+
+	Radio: Egresados 1994
+	ACC: http://buecrplb01.cienradios.com.ar/853_Egresados_1994_32000.aac
+	MP3: http://s_mobile.cienradios.com/853_Egresados_1994_48.mp3
+
+	Radio: Egresados 1995
+	ACC: http://buecrplb01.cienradios.com.ar/857_Egresados_1995_32000.aac
+	MP3: http://s_mobile.cienradios.com/857_Egresados_1995_48.mp3
+
+	Radio: Egresados 1996
+	ACC: http://buecrplb01.cienradios.com.ar/858_Egresados_1996_32000.aac
+	MP3: http://s_mobile.cienradios.com/858_Egresados_1996_48.mp3
+
+	Radio: Egresados 1997
+	ACC: http://buecrplb01.cienradios.com.ar/860_Egresados_1997_32000.aac
+	MP3: http://s_mobile.cienradios.com/860_Egresados_1997_48.mp3
+
+	Radio: Egresados 1998
+	ACC: http://buecrplb01.cienradios.com.ar/861_Egresados_1998_32000.aac
+	MP3: http://s_mobile.cienradios.com/861_Egresados_1998_48.mp3
+
+	Radio: Egresados 1999
+	ACC: http://buecrplb01.cienradios.com.ar/862_Egresados_1999_32000.aac
+	MP3: http://s_mobile.cienradios.com/862_Egresados_1999_48.mp3
+
+	Radio: Egresados 2000
+	ACC: http://buecrplb01.cienradios.com.ar/863_Egresados_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/863_Egresados_2000_48.mp3
+
+	Radio: Gen
+	ACC: http://buecrplb01.cienradios.com.ar/658_Gen_32000.aac
+	MP3: http://s_mobile.cienradios.com/658_Gen_48.mp3
+
+	Radio: Nuevos Clásicos Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/725_Nuevos_Clasicos_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/725_Nuevos_Clasicos_Nacional_E_Internacional_48.mp3
+
+	Radio: Radio Cerfoglio
+	ACC: http://buecrplb01.cienradios.com.ar/1220_Radio_Cerfoglio_32000.aac
+	MP3: http://s_mobile.cienradios.com/1220_Radio_Cerfoglio_48.mp3
+
+	Radio: Radio El Pelado
+	ACC: http://buecrplb01.cienradios.com.ar/754_Radio_El_Pelado_32000.aac
+	MP3: http://s_mobile.cienradios.com/754_Radio_El_Pelado_48.mp3
+
+	Radio: Hot 100 España
+	ACC: http://buecrplb01.cienradios.com.ar/672_Hot_100_Espana_32000.aac
+	MP3: http://s_mobile.cienradios.com/672_Hot_100_Espana_48.mp3
+
+	Radio: Hot 100 Europa
+	ACC: http://buecrplb01.cienradios.com.ar/898_Hot_100_Europa_32000.aac
+	MP3: http://s_mobile.cienradios.com/898_Hot_100_Europa_48.mp3
+
+	Radio: Hot 100 México
+	ACC: http://buecrplb01.cienradios.com.ar/882_Hot_100_Mexico_32000.aac
+	MP3: http://s_mobile.cienradios.com/882_Hot_100_Mexico_48.mp3
+
+	Radio: Miss 15
+	ACC: http://buecrplb01.cienradios.com.ar/718_Miss_15_32000.aac
+	MP3: http://s_mobile.cienradios.com/718_Miss_15_48.mp3
+
+	Radio: Gabo
+	ACC: http://buecrplb01.cienradios.com.ar/1365_Gabo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1365_Gabo_48.mp3
+
+	Radio: Latina
+	ACC: http://buecrplb01.cienradios.com.ar/689_Latina_32000.aac
+	MP3: http://s_mobile.cienradios.com/689_Latina_48.mp3
+
+	Radio: Letras y Canciones
+	ACC: http://buecrplb01.cienradios.com.ar/587_Letras_y_Canciones_32000.aac
+	MP3: http://s_mobile.cienradios.com/587_Letras_y_Canciones_48.mp3
+
+	Radio: Pasión por la Vida
+	ACC: http://buecrplb01.cienradios.com.ar/950_Pasion_por_la_Vida_32000.aac
+	MP3: http://s_mobile.cienradios.com/950_Pasion_por_la_Vida_48.mp3
+
+	Radio: Quiero
+	ACC: http://buecrplb01.cienradios.com.ar/744_Quiero_32000.aac
+	MP3: http://s_mobile.cienradios.com/744_Quiero_48.mp3
+
+	Radio: Rock Latinoamericano
+	ACC: http://buecrplb01.cienradios.com.ar/964_Rock_Latinoamericano_32000.aac
+	MP3: http://s_mobile.cienradios.com/964_Rock_Latinoamericano_48.mp3
+
+	Radio: Sí
+	ACC: http://buecrplb01.cienradios.com.ar/770_Si_32000.aac
+	MP3: http://s_mobile.cienradios.com/770_Si_48.mp3
+
+	Radio: Campus 21
+	ACC: http://buecrplb01.cienradios.com.ar/871_Campus_21_32000.aac
+	MP3: http://s_mobile.cienradios.com/871_Campus_21_48.mp3
+
+	Radio: Hot 100
+	ACC: http://buecrplb01.cienradios.com.ar/667_Hot_100_32000.aac
+	MP3: http://s_mobile.cienradios.com/667_Hot_100_48.mp3
+
+	Radio: Lo Mejor Del 2000
+	ACC: http://buecrplb01.cienradios.com.ar/698_Lo_Mejor_De_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/698_Lo_Mejor_De_2000_48.mp3
+
+	Radio: Lo Mejor Del 2001
+	ACC: http://buecrplb01.cienradios.com.ar/693_Lo_Mejor_De_2001_32000.aac
+	MP3: http://s_mobile.cienradios.com/693_Lo_Mejor_De_2001_48.mp3
+
+	Radio: Lo Mejor Del 2002
+	ACC: http://buecrplb01.cienradios.com.ar/694_Lo_Mejor_De_2002_32000.aac
+	MP3: http://s_mobile.cienradios.com/694_Lo_Mejor_De_2002_48.mp3
+
+	Radio: Lo Mejor Del 2003
+	ACC: http://buecrplb01.cienradios.com.ar/695_Lo_Mejor_De_2003_32000.aac
+	MP3: http://s_mobile.cienradios.com/695_Lo_Mejor_De_2003_48.mp3
+
+	Radio: Lo Mejor Del 2004
+	ACC: http://buecrplb01.cienradios.com.ar/696_Lo_Mejor_De_2004_32000.aac
+	MP3: http://s_mobile.cienradios.com/696_Lo_Mejor_De_2004_48.mp3
+
+	Radio: Lo Mejor Del 2005
+	ACC: http://buecrplb01.cienradios.com.ar/699_Lo_Mejor_De_2005_32000.aac
+	MP3: http://s_mobile.cienradios.com/699_Lo_Mejor_De_2005_48.mp3
+
+	Radio: Lo Mejor Del 2006
+	ACC: http://buecrplb01.cienradios.com.ar/697_Lo_Mejor_De_2006_32000.aac
+	MP3: http://s_mobile.cienradios.com/697_Lo_Mejor_De_2006_48.mp3
+
+	Radio: Lo Mejor Del 2007
+	ACC: http://buecrplb01.cienradios.com.ar/700_Lo_Mejor_De_2007_32000.aac
+	MP3: http://s_mobile.cienradios.com/700_Lo_Mejor_De_2007_48.mp3
+
+	Radio: Lo Mejor Del 2008
+	ACC: http://buecrplb01.cienradios.com.ar/701_Lo_Mejor_De_2008_32000.aac
+	MP3: http://s_mobile.cienradios.com/701_Lo_Mejor_De_2008_48.mp3
+
+	Radio: Lo Mejor Del 2009
+	ACC: http://buecrplb01.cienradios.com.ar/702_Lo_Mejor_De_2009_32000.aac
+	MP3: http://s_mobile.cienradios.com/702_Lo_Mejor_De_2009_48.mp3
+
+	Radio: Lo Mejor del 2010
+	ACC: http://buecrplb01.cienradios.com.ar/610_Lo_Mejor_de_2010_32000.aac
+	MP3: http://s_mobile.cienradios.com/610_Lo_Mejor_de_2010_48.mp3
+
+	Radio: Lo Mejor del 2011
+	ACC: http://buecrplb01.cienradios.com.ar/822_Lo_Mejor_de_2011_32000.aac
+	MP3: http://s_mobile.cienradios.com/822_Lo_Mejor_de_2011_48.mp3
+
+	Radio: Lo Mejor del 2012
+	ACC: http://buecrplb01.cienradios.com.ar/976_Lo_Mejor_de_2012_32000.aac
+	MP3: http://s_mobile.cienradios.com/976_Lo_Mejor_de_2012_48.mp3
+
+	Radio: Lo Mejor del 2013
+	ACC: http://buecrplb01.cienradios.com.ar/1078_Lo_Mejor_de_2013_32000.aac
+	MP3: http://s_mobile.cienradios.com/1078_Lo_Mejor_de_2013_48.mp3
+
+	Radio: Lo Mejor del 2014
+	ACC: http://buecrplb01.cienradios.com.ar/1294_Lo_Mejor_del_2014_32000.aac
+	MP3: http://s_mobile.cienradios.com/1294_Lo_Mejor_del_2014_48.mp3
+
+	Radio: Los 100 de la 100 2000
+	ACC: http://buecrplb01.cienradios.com.ar/941_Los_100_de_la_100_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/941_Los_100_de_la_100_2000_48.mp3
+
+	Radio: Los 100 de la 100 2001
+	ACC: http://buecrplb01.cienradios.com.ar/939_Los_100_de_la_100_2001_32000.aac
+	MP3: http://s_mobile.cienradios.com/939_Los_100_de_la_100_2001_48.mp3
+
+	Radio: Los 100 de la 100 2002
+	ACC: http://buecrplb01.cienradios.com.ar/937_Los_100_de_la_100_2002_32000.aac
+	MP3: http://s_mobile.cienradios.com/937_Los_100_de_la_100_2002_48.mp3
+
+	Radio: Los 100 de la 100 2003
+	ACC: http://buecrplb01.cienradios.com.ar/935_Los_100_de_la_100_2003_32000.aac
+	MP3: http://s_mobile.cienradios.com/935_Los_100_de_la_100_2003_48.mp3
+
+	Radio: Los 100 de la 100 2004
+	ACC: http://buecrplb01.cienradios.com.ar/934_Los_100_de_la_100_2004_32000.aac
+	MP3: http://s_mobile.cienradios.com/934_Los_100_de_la_100_2004_48.mp3
+
+	Radio: Los 100 de la 100 2005
+	ACC: http://buecrplb01.cienradios.com.ar/930_Los_100_de_la_100_2005_32000.aac
+	MP3: http://s_mobile.cienradios.com/930_Los_100_de_la_100_2005_48.mp3
+
+	Radio: Los 100 de la 100 2006
+	ACC: http://buecrplb01.cienradios.com.ar/929_Los_100_de_la_100_2006_32000.aac
+	MP3: http://s_mobile.cienradios.com/929_Los_100_de_la_100_2006_48.mp3
+
+	Radio: Los 100 de la 100 2007
+	ACC: http://buecrplb01.cienradios.com.ar/928_Los_100_de_la_100_2007_32000.aac
+	MP3: http://s_mobile.cienradios.com/928_Los_100_de_la_100_2007_48.mp3
+
+	Radio: Los 100 de la 100 2008
+	ACC: http://buecrplb01.cienradios.com.ar/933_Los_100_de_la_100_2008_32000.aac
+	MP3: http://s_mobile.cienradios.com/933_Los_100_de_la_100_2008_48.mp3
+
+	Radio: Los 100 De La 100 2009
+	ACC: http://buecrplb01.cienradios.com.ar/703_Los_100_De_La_100_2009_32000.aac
+	MP3: http://s_mobile.cienradios.com/703_Los_100_De_La_100_2009_48.mp3
+
+	Radio: Los 100 De La 100 2010
+	ACC: http://buecrplb01.cienradios.com.ar/704_Los_100_De_La_100_2010_32000.aac
+	MP3: http://s_mobile.cienradios.com/704_Los_100_De_La_100_2010_48.mp3
+
+	Radio: Los 100 de la 100 2011
+	ACC: http://buecrplb01.cienradios.com.ar/925_Los_100_de_la_100_2011_32000.aac
+	MP3: http://s_mobile.cienradios.com/925_Los_100_de_la_100_2011_48.mp3
+
+	Radio: Los 100 de la 100 2012
+	ACC: http://buecrplb01.cienradios.com.ar/1063_Los_100_de_la_100_2012_32000.aac
+	MP3: http://s_mobile.cienradios.com/1063_Los_100_de_la_100_2012_48.mp3
+
+	Radio: Los 100 de la 100 2013
+	ACC: http://buecrplb01.cienradios.com.ar/1084_Los_100_de_la_100_2013_32000.aac
+	MP3: http://s_mobile.cienradios.com/1084_Los_100_de_la_100_2013_48.mp3
+
+	Radio: Los 100 de la 100 2014
+	ACC: http://buecrplb01.cienradios.com.ar/1295_Los_100_de_la_100_2014_32000.aac
+	MP3: http://s_mobile.cienradios.com/1295_Los_100_de_la_100_2014_48.mp3
+
+	Radio: Los 100 de La 100 2015
+	ACC: http://buecrplb01.cienradios.com.ar/1410_Los_100_de_la_100_2015_32000.aac
+	MP3: http://s_mobile.cienradios.com/1410_Los_100_de_la_100_2015_48.mp3
+
+	Radio: Radio Lalo
+	ACC: http://buecrplb01.cienradios.com.ar/688_Radio_Lalo_32000.aac
+	MP3: http://s_mobile.cienradios.com/688_Radio_Lalo_48.mp3
+
+	Radio: Radio Mundo Gaturro
+	ACC: http://buecrplb01.cienradios.com.ar/869_Radio_Mundo_Gaturro_32000.aac
+	MP3: http://s_mobile.cienradios.com/869_Radio_Mundo_Gaturro_48.mp3
+
+	Radio: Retromix
+	ACC: http://buecrplb01.cienradios.com.ar/592_Retromix_32000.aac
+	MP3: http://s_mobile.cienradios.com/592_Retromix_48.mp3
+
+	Radio: Teen
+	ACC: http://buecrplb01.cienradios.com.ar/643_Teen_32000.aac
+	MP3: http://s_mobile.cienradios.com/643_Teen_48.mp3
+
+	Radio: Top 40
+	ACC: http://buecrplb01.cienradios.com.ar/1083_Top_40_32000.aac
+	MP3: http://s_mobile.cienradios.com/1083_Top_40_48.mp3
+
+Categoria: Años y Décadas
+	Radio: Egresados 1975
+	ACC: http://buecrplb01.cienradios.com.ar/868_Egresados_1975_32000.aac
+	MP3: http://s_mobile.cienradios.com/868_Egresados_1975_48.mp3
+
+	Radio: Egresados 1976
+	ACC: http://buecrplb01.cienradios.com.ar/867_Egresados_1976_32000.aac
+	MP3: http://s_mobile.cienradios.com/867_Egresados_1976_48.mp3
+
+	Radio: Egresados 1977
+	ACC: http://buecrplb01.cienradios.com.ar/866_Egresados_1977_32000.aac
+	MP3: http://s_mobile.cienradios.com/866_Egresados_1977_48.mp3
+
+	Radio: Egresados 1978
+	ACC: http://buecrplb01.cienradios.com.ar/865_Egresados_1978_32000.aac
+	MP3: http://s_mobile.cienradios.com/865_Egresados_1978_48.mp3
+
+	Radio: Egresados 1979
+	ACC: http://buecrplb01.cienradios.com.ar/864_Egresados_1979_32000.aac
+	MP3: http://s_mobile.cienradios.com/864_Egresados_1979_48.mp3
+
+	Radio: Egresados 1980
+	ACC: http://buecrplb01.cienradios.com.ar/606_Egresados_1980_32000.aac
+	MP3: http://s_mobile.cienradios.com/606_Egresados_1980_48.mp3
+
+	Radio: Egresados 1981
+	ACC: http://buecrplb01.cienradios.com.ar/607_Egresados_1981_32000.aac
+	MP3: http://s_mobile.cienradios.com/607_Egresados_1981_48.mp3
+
+	Radio: Egresados 1982
+	ACC: http://buecrplb01.cienradios.com.ar/608_Egresados_1982_32000.aac
+	MP3: http://s_mobile.cienradios.com/608_Egresados_1982_48.mp3
+
+	Radio: Egresados 1983
+	ACC: http://buecrplb01.cienradios.com.ar/609_Egresados_1983_32000.aac
+	MP3: http://s_mobile.cienradios.com/609_Egresados_1983_48.mp3
+
+	Radio: Egresados 1984
+	ACC: http://buecrplb01.cienradios.com.ar/828_Egresados_1984_32000.aac
+	MP3: http://s_mobile.cienradios.com/828_Egresados_1984_48.mp3
+
+	Radio: Egresados 1985
+	ACC: http://buecrplb01.cienradios.com.ar/830_Egresados_1985_32000.aac
+	MP3: http://s_mobile.cienradios.com/830_Egresados_1985_48.mp3
+
+	Radio: Egresados 1986
+	ACC: http://buecrplb01.cienradios.com.ar/831_Egresados_1986_32000.aac
+	MP3: http://s_mobile.cienradios.com/831_Egresados_1986_48.mp3
+
+	Radio: Egresados 1987
+	ACC: http://buecrplb01.cienradios.com.ar/832_Egresados_1987_32000.aac
+	MP3: http://s_mobile.cienradios.com/832_Egresados_1987_48.mp3
+
+	Radio: Egresados 1988
+	ACC: http://buecrplb01.cienradios.com.ar/834_Egresados_1988_32000.aac
+	MP3: http://s_mobile.cienradios.com/834_Egresados_1988_48.mp3
+
+	Radio: Egresados 1989
+	ACC: http://buecrplb01.cienradios.com.ar/835_Egresados_1989_32000.aac
+	MP3: http://s_mobile.cienradios.com/835_Egresados_1989_48.mp3
+
+	Radio: Egresados 1990
+	ACC: http://buecrplb01.cienradios.com.ar/838_Egresados_1990_32000.aac
+	MP3: http://s_mobile.cienradios.com/838_Egresados_1990_48.mp3
+
+	Radio: Egresados 1991
+	ACC: http://buecrplb01.cienradios.com.ar/844_Egresados_1991_32000.aac
+	MP3: http://s_mobile.cienradios.com/844_Egresados_1991_48.mp3
+
+	Radio: Egresados 1992
+	ACC: http://buecrplb01.cienradios.com.ar/850_Egresados_1992_32000.aac
+	MP3: http://s_mobile.cienradios.com/850_Egresados_1992_48.mp3
+
+	Radio: Egresados 1993
+	ACC: http://buecrplb01.cienradios.com.ar/851_Egresados_1993_32000.aac
+	MP3: http://s_mobile.cienradios.com/851_Egresados_1993_48.mp3
+
+	Radio: Egresados 1994
+	ACC: http://buecrplb01.cienradios.com.ar/853_Egresados_1994_32000.aac
+	MP3: http://s_mobile.cienradios.com/853_Egresados_1994_48.mp3
+
+	Radio: Egresados 1995
+	ACC: http://buecrplb01.cienradios.com.ar/857_Egresados_1995_32000.aac
+	MP3: http://s_mobile.cienradios.com/857_Egresados_1995_48.mp3
+
+	Radio: Egresados 1996
+	ACC: http://buecrplb01.cienradios.com.ar/858_Egresados_1996_32000.aac
+	MP3: http://s_mobile.cienradios.com/858_Egresados_1996_48.mp3
+
+	Radio: Egresados 1997
+	ACC: http://buecrplb01.cienradios.com.ar/860_Egresados_1997_32000.aac
+	MP3: http://s_mobile.cienradios.com/860_Egresados_1997_48.mp3
+
+	Radio: Egresados 1998
+	ACC: http://buecrplb01.cienradios.com.ar/861_Egresados_1998_32000.aac
+	MP3: http://s_mobile.cienradios.com/861_Egresados_1998_48.mp3
+
+	Radio: Egresados 1999
+	ACC: http://buecrplb01.cienradios.com.ar/862_Egresados_1999_32000.aac
+	MP3: http://s_mobile.cienradios.com/862_Egresados_1999_48.mp3
+
+	Radio: Egresados 2000
+	ACC: http://buecrplb01.cienradios.com.ar/863_Egresados_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/863_Egresados_2000_48.mp3
+
+	Radio: Lo Mejor Del 2000
+	ACC: http://buecrplb01.cienradios.com.ar/698_Lo_Mejor_De_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/698_Lo_Mejor_De_2000_48.mp3
+
+	Radio: Lo Mejor Del 2001
+	ACC: http://buecrplb01.cienradios.com.ar/693_Lo_Mejor_De_2001_32000.aac
+	MP3: http://s_mobile.cienradios.com/693_Lo_Mejor_De_2001_48.mp3
+
+	Radio: Lo Mejor Del 2002
+	ACC: http://buecrplb01.cienradios.com.ar/694_Lo_Mejor_De_2002_32000.aac
+	MP3: http://s_mobile.cienradios.com/694_Lo_Mejor_De_2002_48.mp3
+
+	Radio: Lo Mejor Del 2003
+	ACC: http://buecrplb01.cienradios.com.ar/695_Lo_Mejor_De_2003_32000.aac
+	MP3: http://s_mobile.cienradios.com/695_Lo_Mejor_De_2003_48.mp3
+
+	Radio: Lo Mejor Del 2004
+	ACC: http://buecrplb01.cienradios.com.ar/696_Lo_Mejor_De_2004_32000.aac
+	MP3: http://s_mobile.cienradios.com/696_Lo_Mejor_De_2004_48.mp3
+
+	Radio: Lo Mejor Del 2005
+	ACC: http://buecrplb01.cienradios.com.ar/699_Lo_Mejor_De_2005_32000.aac
+	MP3: http://s_mobile.cienradios.com/699_Lo_Mejor_De_2005_48.mp3
+
+	Radio: Lo Mejor Del 2006
+	ACC: http://buecrplb01.cienradios.com.ar/697_Lo_Mejor_De_2006_32000.aac
+	MP3: http://s_mobile.cienradios.com/697_Lo_Mejor_De_2006_48.mp3
+
+	Radio: Lo Mejor Del 2007
+	ACC: http://buecrplb01.cienradios.com.ar/700_Lo_Mejor_De_2007_32000.aac
+	MP3: http://s_mobile.cienradios.com/700_Lo_Mejor_De_2007_48.mp3
+
+	Radio: Lo Mejor Del 2008
+	ACC: http://buecrplb01.cienradios.com.ar/701_Lo_Mejor_De_2008_32000.aac
+	MP3: http://s_mobile.cienradios.com/701_Lo_Mejor_De_2008_48.mp3
+
+	Radio: Lo Mejor Del 2009
+	ACC: http://buecrplb01.cienradios.com.ar/702_Lo_Mejor_De_2009_32000.aac
+	MP3: http://s_mobile.cienradios.com/702_Lo_Mejor_De_2009_48.mp3
+
+	Radio: Lo Mejor del 2010
+	ACC: http://buecrplb01.cienradios.com.ar/610_Lo_Mejor_de_2010_32000.aac
+	MP3: http://s_mobile.cienradios.com/610_Lo_Mejor_de_2010_48.mp3
+
+	Radio: Lo Mejor del 2011
+	ACC: http://buecrplb01.cienradios.com.ar/822_Lo_Mejor_de_2011_32000.aac
+	MP3: http://s_mobile.cienradios.com/822_Lo_Mejor_de_2011_48.mp3
+
+	Radio: Lo Mejor del 2012
+	ACC: http://buecrplb01.cienradios.com.ar/976_Lo_Mejor_de_2012_32000.aac
+	MP3: http://s_mobile.cienradios.com/976_Lo_Mejor_de_2012_48.mp3
+
+	Radio: Lo Mejor del 2013
+	ACC: http://buecrplb01.cienradios.com.ar/1078_Lo_Mejor_de_2013_32000.aac
+	MP3: http://s_mobile.cienradios.com/1078_Lo_Mejor_de_2013_48.mp3
+
+	Radio: Lo Mejor del 2014
+	ACC: http://buecrplb01.cienradios.com.ar/1294_Lo_Mejor_del_2014_32000.aac
+	MP3: http://s_mobile.cienradios.com/1294_Lo_Mejor_del_2014_48.mp3
+
+	Radio: Los 100 de la 100 2000
+	ACC: http://buecrplb01.cienradios.com.ar/941_Los_100_de_la_100_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/941_Los_100_de_la_100_2000_48.mp3
+
+	Radio: Los 100 de la 100 2001
+	ACC: http://buecrplb01.cienradios.com.ar/939_Los_100_de_la_100_2001_32000.aac
+	MP3: http://s_mobile.cienradios.com/939_Los_100_de_la_100_2001_48.mp3
+
+	Radio: Los 100 de la 100 2002
+	ACC: http://buecrplb01.cienradios.com.ar/937_Los_100_de_la_100_2002_32000.aac
+	MP3: http://s_mobile.cienradios.com/937_Los_100_de_la_100_2002_48.mp3
+
+	Radio: Los 100 de la 100 2003
+	ACC: http://buecrplb01.cienradios.com.ar/935_Los_100_de_la_100_2003_32000.aac
+	MP3: http://s_mobile.cienradios.com/935_Los_100_de_la_100_2003_48.mp3
+
+	Radio: Los 100 de la 100 2004
+	ACC: http://buecrplb01.cienradios.com.ar/934_Los_100_de_la_100_2004_32000.aac
+	MP3: http://s_mobile.cienradios.com/934_Los_100_de_la_100_2004_48.mp3
+
+	Radio: Los 100 de la 100 2005
+	ACC: http://buecrplb01.cienradios.com.ar/930_Los_100_de_la_100_2005_32000.aac
+	MP3: http://s_mobile.cienradios.com/930_Los_100_de_la_100_2005_48.mp3
+
+	Radio: Los 100 de la 100 2006
+	ACC: http://buecrplb01.cienradios.com.ar/929_Los_100_de_la_100_2006_32000.aac
+	MP3: http://s_mobile.cienradios.com/929_Los_100_de_la_100_2006_48.mp3
+
+	Radio: Los 100 de la 100 2007
+	ACC: http://buecrplb01.cienradios.com.ar/928_Los_100_de_la_100_2007_32000.aac
+	MP3: http://s_mobile.cienradios.com/928_Los_100_de_la_100_2007_48.mp3
+
+	Radio: Los 100 de la 100 2008
+	ACC: http://buecrplb01.cienradios.com.ar/933_Los_100_de_la_100_2008_32000.aac
+	MP3: http://s_mobile.cienradios.com/933_Los_100_de_la_100_2008_48.mp3
+
+	Radio: Los 100 De La 100 2009
+	ACC: http://buecrplb01.cienradios.com.ar/703_Los_100_De_La_100_2009_32000.aac
+	MP3: http://s_mobile.cienradios.com/703_Los_100_De_La_100_2009_48.mp3
+
+	Radio: Los 100 De La 100 2010
+	ACC: http://buecrplb01.cienradios.com.ar/704_Los_100_De_La_100_2010_32000.aac
+	MP3: http://s_mobile.cienradios.com/704_Los_100_De_La_100_2010_48.mp3
+
+	Radio: Los 100 de la 100 2011
+	ACC: http://buecrplb01.cienradios.com.ar/925_Los_100_de_la_100_2011_32000.aac
+	MP3: http://s_mobile.cienradios.com/925_Los_100_de_la_100_2011_48.mp3
+
+	Radio: Los 100 de la 100 2012
+	ACC: http://buecrplb01.cienradios.com.ar/1063_Los_100_de_la_100_2012_32000.aac
+	MP3: http://s_mobile.cienradios.com/1063_Los_100_de_la_100_2012_48.mp3
+
+	Radio: Los 100 de la 100 2013
+	ACC: http://buecrplb01.cienradios.com.ar/1084_Los_100_de_la_100_2013_32000.aac
+	MP3: http://s_mobile.cienradios.com/1084_Los_100_de_la_100_2013_48.mp3
+
+	Radio: Los 100 de la 100 2014
+	ACC: http://buecrplb01.cienradios.com.ar/1295_Los_100_de_la_100_2014_32000.aac
+	MP3: http://s_mobile.cienradios.com/1295_Los_100_de_la_100_2014_48.mp3
+
+	Radio: Los 100 de La 100 2015
+	ACC: http://buecrplb01.cienradios.com.ar/1410_Los_100_de_la_100_2015_32000.aac
+	MP3: http://s_mobile.cienradios.com/1410_Los_100_de_la_100_2015_48.mp3
+
+	Radio: 50
+	ACC: http://buecrplb01.cienradios.com.ar/611_50_32000.aac
+	MP3: http://s_mobile.cienradios.com/611_50_48.mp3
+
+	Radio: 60
+	ACC: http://buecrplb01.cienradios.com.ar/612_60_32000.aac
+	MP3: http://s_mobile.cienradios.com/612_60_48.mp3
+
+	Radio: 70 Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/613_70_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/613_70_Internacional_48.mp3
+
+	Radio: 80 90 Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/792_80_90_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/792_80_90_Internacional_48.mp3
+
+	Radio: 80 90 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/589_80_90_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/589_80_90_Nacional_48.mp3
+
+	Radio: 80 Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/808_80_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/808_80_Internacional_48.mp3
+
+	Radio: 80 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/575_80_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/575_80_Nacional_48.mp3
+
+	Radio: 80 Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/571_80_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/571_80_Nacional_E_Internacional_48.mp3
+
+	Radio: 90 Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/633_90_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/633_90_Internacional_48.mp3
+
+	Radio: 90 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/634_90_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/634_90_Nacional_48.mp3
+
+	Radio: 90 Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/955_90_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/955_90_Nacional_E_Internacional_48.mp3
+
+	Radio: Lentos 2000
+	ACC: http://buecrplb01.cienradios.com.ar/936_Lentos_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/936_Lentos_2000_48.mp3
+
+	Radio: Lentos 60
+	ACC: http://buecrplb01.cienradios.com.ar/690_Lentos_60_32000.aac
+	MP3: http://s_mobile.cienradios.com/690_Lentos_60_48.mp3
+
+	Radio: Lentos 70
+	ACC: http://buecrplb01.cienradios.com.ar/691_Lentos_70_32000.aac
+	MP3: http://s_mobile.cienradios.com/691_Lentos_70_48.mp3
+
+	Radio: Lentos 80
+	ACC: http://buecrplb01.cienradios.com.ar/586_Lentos_80_32000.aac
+	MP3: http://s_mobile.cienradios.com/586_Lentos_80_48.mp3
+
+	Radio: Lentos 90
+	ACC: http://buecrplb01.cienradios.com.ar/692_Lentos_90_32000.aac
+	MP3: http://s_mobile.cienradios.com/692_Lentos_90_48.mp3
+
+	Radio: Los Numero 1 de los 70 USA
+	ACC: http://buecrplb01.cienradios.com.ar/1076_Los_Numero_1_de_los_70_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/1076_Los_Numero_1_de_los_70_USA_48.mp3
+
+	Radio: Los Numero 1 de los 80 UK
+	ACC: http://buecrplb01.cienradios.com.ar/1034_Los_Numero_1_de_los_80_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/1034_Los_Numero_1_de_los_80_UK_48.mp3
+
+	Radio: Los Numero 1 de los 80 USA
+	ACC: http://buecrplb01.cienradios.com.ar/1025_Los_Numero_1_de_los_80_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/1025_Los_Numero_1_de_los_80_USA_48.mp3
+
+	Radio: Los Numero 1 de los 90 UK
+	ACC: http://buecrplb01.cienradios.com.ar/1047_Los_Numero_1_de_los_90_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/1047_Los_Numero_1_de_los_90_UK_48.mp3
+
+	Radio: Los Numero 1 de los 90 USA
+	ACC: http://buecrplb01.cienradios.com.ar/1030_Los_Numero_1_de_los_90_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/1030_Los_Numero_1_de_los_90_USA_48.mp3
+
+	Radio: Nuevos Clásicos Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/590_Nuevos_Clasicos_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/590_Nuevos_Clasicos_Internacional_48.mp3
+
+	Radio: Nuevos Clásicos Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/726_Nuevos_Clasicos_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/726_Nuevos_Clasicos_Nacional_48.mp3
+
+	Radio: Nuevos Clásicos Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/725_Nuevos_Clasicos_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/725_Nuevos_Clasicos_Nacional_E_Internacional_48.mp3
+
+	Radio: Romántica 2000
+	ACC: http://buecrplb01.cienradios.com.ar/766_Romantica_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/766_Romantica_2000_48.mp3
+
+	Radio: Romántica 70
+	ACC: http://buecrplb01.cienradios.com.ar/628_Romantica_70_32000.aac
+	MP3: http://s_mobile.cienradios.com/628_Romantica_70_48.mp3
+
+	Radio: Romántica 90
+	ACC: http://buecrplb01.cienradios.com.ar/593_Romantica_90_32000.aac
+	MP3: http://s_mobile.cienradios.com/593_Romantica_90_48.mp3
+
+	Radio: Britpop
+	ACC: http://buecrplb01.cienradios.com.ar/625_Britpop_32000.aac
+	MP3: http://s_mobile.cienradios.com/625_Britpop_48.mp3
+
+	Radio: Nirvana y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/912_Nirvana_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/912_Nirvana_y_Art_Rel_48.mp3
+
+	Radio: No Doubt y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1010_No_Doubt_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1010_No_Doubt_y_Art_Rel_48.mp3
+
+	Radio: Oasis y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/885_Oasis_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/885_Oasis_y_Art_Rel_48.mp3
+
+	Radio: Depeche Mode y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/963_Depeche_Mode_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/963_Depeche_Mode_y_Art_Rel_48.mp3
+
+	Radio: Erasure y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/855_Erasure_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/855_Erasure_y_Art_Rel_48.mp3
+
+	Radio: Madonna y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/711_Madonna_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/711_Madonna_y_Artistas_Relacionados_48.mp3
+
+	Radio: Michael Jackson y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/714_Michael_Jackson_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/714_Michael_Jackson_y_Artistas_Relacionados_48.mp3
+
+	Radio: Abba y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/620_Abba_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/620_Abba_y_Art_Relac_48.mp3
+
+	Radio: Bee Gees y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/954_Bee_Gees_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/954_Bee_Gees_y_Art_Rel_48.mp3
+
+	Radio: The Beatles y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/638_The_Beatles_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/638_The_Beatles_y_Artistas_Relacionados_48.mp3
+
+	Radio: Viejitos Piolas
+	ACC: http://buecrplb01.cienradios.com.ar/784_Viejitos_Piolas_32000.aac
+	MP3: http://s_mobile.cienradios.com/784_Viejitos_Piolas_48.mp3
+
+Categoria: Bienestar
+	Radio: Blend
+	ACC: http://buecrplb01.cienradios.com.ar/615_Blend_32000.aac
+	MP3: http://s_mobile.cienradios.com/615_Blend_48.mp3
+
+	Radio: Bossa Nova
+	ACC: http://buecrplb01.cienradios.com.ar/577_Bossa_Nova_32000.aac
+	MP3: http://s_mobile.cienradios.com/577_Bossa_Nova_48.mp3
+
+	Radio: Chill Out
+	ACC: http://buecrplb01.cienradios.com.ar/786_Chillout_32000.aac
+	MP3: http://s_mobile.cienradios.com/786_Chillout_48.mp3
+
+	Radio: Fado
+	ACC: http://buecrplb01.cienradios.com.ar/1415_Fado_32000.aac
+	MP3: http://s_mobile.cienradios.com/1415_Fado_48.mp3
+
+	Radio: New Age
+	ACC: http://buecrplb01.cienradios.com.ar/722_New_Age_32000.aac
+	MP3: http://s_mobile.cienradios.com/722_New_Age_48.mp3
+
+	Radio: Reiki
+	ACC: http://buecrplb01.cienradios.com.ar/761_Reiki_32000.aac
+	MP3: http://s_mobile.cienradios.com/761_Reiki_48.mp3
+
+	Radio: Relax y Meditación
+	ACC: http://buecrplb01.cienradios.com.ar/1074_Relax_y_Meditacion_32000.aac
+	MP3: http://s_mobile.cienradios.com/1074_Relax_y_Meditacion_48.mp3
+
+	Radio: Smooth Jazz
+	ACC: http://buecrplb01.cienradios.com.ar/771_Smooth_Jazz_32000.aac
+	MP3: http://s_mobile.cienradios.com/771_Smooth_Jazz_48.mp3
+
+	Radio: Yoga
+	ACC: http://buecrplb01.cienradios.com.ar/785_Yoga_32000.aac
+	MP3: http://s_mobile.cienradios.com/785_Yoga_48.mp3
+
+	Radio: Bach
+	ACC: http://buecrplb01.cienradios.com.ar/821_Bach_32000.aac
+	MP3: http://s_mobile.cienradios.com/821_Bach_48.mp3
+
+	Radio: Clásica Para Meditar
+	ACC: http://buecrplb01.cienradios.com.ar/1002_Clasica_Para_Meditar_32000.aac
+	MP3: http://s_mobile.cienradios.com/1002_Clasica_Para_Meditar_48.mp3
+
+	Radio: Mozart
+	ACC: http://buecrplb01.cienradios.com.ar/720_Mozart_32000.aac
+	MP3: http://s_mobile.cienradios.com/720_Mozart_48.mp3
+
+	Radio: Piano Classic
+	ACC: http://buecrplb01.cienradios.com.ar/1001_Piano_Classic_32000.aac
+	MP3: http://s_mobile.cienradios.com/1001_Piano_Classic_48.mp3
+
+	Radio: Radio Olé
+	ACC: http://buecrplb01.cienradios.com.ar/993_radiole_32000.aac
+	MP3: http://s_mobile.cienradios.com/993_radiole_48.mp3
+
+Categoria: Clásico
+	Radio: Amadeus
+	ACC: http://buecrplb01.cienradios.com.ar/1019_Amadeus_32000.aac
+	MP3: http://s_mobile.cienradios.com/1019_Amadeus_48.mp3
+
+	Radio: Bach
+	ACC: http://buecrplb01.cienradios.com.ar/821_Bach_32000.aac
+	MP3: http://s_mobile.cienradios.com/821_Bach_48.mp3
+
+	Radio: Beethoven
+	ACC: http://buecrplb01.cienradios.com.ar/748_Beethoven_32000.aac
+	MP3: http://s_mobile.cienradios.com/748_Beethoven_48.mp3
+
+	Radio: Chopin
+	ACC: http://buecrplb01.cienradios.com.ar/1043_Chopin_32000.aac
+	MP3: http://s_mobile.cienradios.com/1043_Chopin_48.mp3
+
+    Radio: Clásica
+	ACC: http://buecrplb01.cienradios.com.ar/642_Clasica_32000.aac
+	MP3: http://s_mobile.cienradios.com/642_Clasica_48.mp3
+
+	Radio: Clásica Para Meditar
+	ACC: http://buecrplb01.cienradios.com.ar/1002_Clasica_Para_Meditar_32000.aac
+	MP3: http://s_mobile.cienradios.com/1002_Clasica_Para_Meditar_48.mp3
+
+	Radio: Classic Cinema
+	ACC: http://buecrplb01.cienradios.com.ar/798_Classic_Cinema_32000.aac
+	MP3: http://s_mobile.cienradios.com/798_Classic_Cinema_48.mp3
+
+	Radio: Mozart
+	ACC: http://buecrplb01.cienradios.com.ar/720_Mozart_32000.aac
+	MP3: http://s_mobile.cienradios.com/720_Mozart_48.mp3
+
+	Radio: Mundo Clásico
+	ACC: http://buecrplb01.cienradios.com.ar/1179_Mundo_Clasico_32000.aac
+	MP3: http://s_mobile.cienradios.com/1179_Mundo_Clasico_48.mp3
+
+	Radio: Piano Classic
+	ACC: http://buecrplb01.cienradios.com.ar/1001_Piano_Classic_32000.aac
+	MP3: http://s_mobile.cienradios.com/1001_Piano_Classic_48.mp3
+
+	Radio: Andrea Bocelli y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1040_Andrea_Bocelli_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1040_Andrea_Bocelli_y_Art_Rel_48.mp3
+
+	Radio: Divas De La Opera
+	ACC: http://buecrplb01.cienradios.com.ar/650_Divas_De_La_Opera_32000.aac
+	MP3: http://s_mobile.cienradios.com/650_Divas_De_La_Opera_48.mp3
+
+	Radio: Héroes De La Opera
+	ACC: http://buecrplb01.cienradios.com.ar/666_Heroes_De_La_Opera_32000.aac
+	MP3: http://s_mobile.cienradios.com/666_Heroes_De_La_Opera_48.mp3
+
+	Radio: Los Tenores
+	ACC: http://buecrplb01.cienradios.com.ar/708_Los_Tenores_32000.aac
+	MP3: http://s_mobile.cienradios.com/708_Los_Tenores_48.mp3
+
+	Radio: Luciano Pavarotti y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1015_Luciano_Pavarotti_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1015_Luciano_Pavarotti_y_Art_Rel_48.mp3
+
+	Radio: Maria Callas y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1023_Maria_Callas_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1023_Maria_Callas_y_Art_Rel_48.mp3
+
+	Radio: Ópera
+	ACC: http://buecrplb01.cienradios.com.ar/727_Opera_32000.aac
+	MP3: http://s_mobile.cienradios.com/727_Opera_48.mp3
+
+	Radio: Ópera Alemana
+	ACC: http://buecrplb01.cienradios.com.ar/728_Opera_Alemana_32000.aac
+	MP3: http://s_mobile.cienradios.com/728_Opera_Alemana_48.mp3
+
+	Radio: Ópera Francesa
+	ACC: http://buecrplb01.cienradios.com.ar/729_Opera_Francesa_32000.aac
+	MP3: http://s_mobile.cienradios.com/729_Opera_Francesa_48.mp3
+
+	Radio: Ópera Italiana
+	ACC: http://buecrplb01.cienradios.com.ar/730_Opera_Italiana_32000.aac
+	MP3: http://s_mobile.cienradios.com/730_Opera_Italiana_48.mp3
+
+	Radio: Ópera Pop
+	ACC: http://buecrplb01.cienradios.com.ar/1050_Opera_Pop_32000.aac
+	MP3: http://s_mobile.cienradios.com/1050_Opera_Pop_48.mp3
+
+	Radio: Ópera Romántica
+	ACC: http://buecrplb01.cienradios.com.ar/731_Opera_Romantica_32000.aac
+	MP3: http://s_mobile.cienradios.com/731_Opera_Romantica_48.mp3
+
+	Radio: Ópera Rusa
+	ACC: http://buecrplb01.cienradios.com.ar/820_Opera_Rusa_32000.aac
+	MP3: http://s_mobile.cienradios.com/820_Opera_Rusa_48.mp3
+
+	Radio: Puccini
+	ACC: http://buecrplb01.cienradios.com.ar/742_Puccini_32000.aac
+	MP3: http://s_mobile.cienradios.com/742_Puccini_48.mp3
+
+	Radio: Verdi
+	ACC: http://buecrplb01.cienradios.com.ar/783_Verdi_32000.aac
+	MP3: http://s_mobile.cienradios.com/783_Verdi_48.mp3
+
+Categoria: Día a Día
+	Radio: 1 Hora de Gimnasia
+	ACC: http://buecrplb01.cienradios.com.ar/1277_1_Hora_de_Gimnasia_32000.aac
+	MP3: http://s_mobile.cienradios.com/1277_1_Hora_de_Gimnasia_48.mp3
+
+	Radio: 1 Hora de Ritmos Caribeños
+	ACC: http://buecrplb01.cienradios.com.ar/1268_1_Hora_de_Ritmos_Caribenos_32000.aac
+	MP3: http://s_mobile.cienradios.com/1268_1_Hora_de_Ritmos_Caribenos_48.mp3
+
+	Radio: 1 Hora de Zumba
+	ACC: http://buecrplb01.cienradios.com.ar/1230_1_Hora_de_Zumba_32000.aac
+	MP3: http://s_mobile.cienradios.com/1230_1_Hora_de_Zumba_48.mp3
+
+	Radio: 100 Canciones Románticas
+	ACC: http://buecrplb01.cienradios.com.ar/1265_20_Canciones_Romanticas_32000.aac
+	MP3: http://s_mobile.cienradios.com/1265_20_Canciones_Romanticas_48.mp3
+
+	Radio: 15 Canciones de Animales
+	ACC: http://buecrplb01.cienradios.com.ar/1366_15_Canciones_de_Animales_32000.aac
+	MP3: http://s_mobile.cienradios.com/1366_15_Canciones_de_Animales_48.mp3
+
+	Radio: 15 Canciones de Peliculas Romanticas
+	ACC: http://buecrplb01.cienradios.com.ar/1347_15_Canciones_de_Peliculas_Romanticas_32000.aac
+	MP3: http://s_mobile.cienradios.com/1347_15_Canciones_de_Peliculas_Romanticas_48.mp3
+
+	Radio: 20 Artistas Latinos
+	ACC: http://buecrplb01.cienradios.com.ar/1278_20_Artistas_Latinos_32000.aac
+	MP3: http://s_mobile.cienradios.com/1278_20_Artistas_Latinos_48.mp3
+
+	Radio: 20 Artistas Pop
+	ACC: http://buecrplb01.cienradios.com.ar/1212_20_Artistas_Pop_32000.aac
+	MP3: http://s_mobile.cienradios.com/1212_20_Artistas_Pop_48.mp3
+
+	Radio: 20 Canciones de Fiesta
+	ACC: http://buecrplb01.cienradios.com.ar/1286_20_Canciones_de_Fiesta_32000.aac
+	MP3: http://s_mobile.cienradios.com/1286_20_Canciones_de_Fiesta_48.mp3
+
+	Radio: 20 Lentos para Amar
+	ACC: http://buecrplb01.cienradios.com.ar/1329_20_Lentos_para_Amar_32000.aac
+	MP3: http://s_mobile.cienradios.com/1329_20_Lentos_para_Amar_48.mp3
+
+	Radio: 22 Momentos
+	ACC: http://buecrplb01.cienradios.com.ar/1370_22_Momentos_32000.aac
+	MP3: http://s_mobile.cienradios.com/1370_22_Momentos_48.mp3
+
+	Radio: 25 Canciones para Almorzar
+	ACC: http://buecrplb01.cienradios.com.ar/1396_25_Canciones_para_Almorzar_32000.aac
+	MP3: http://s_mobile.cienradios.com/1396_25_Canciones_para_Almorzar_48.mp3
+
+	Radio: 50 Sombras
+	ACC: http://buecrplb01.cienradios.com.ar/1338_50_Sombras_32000.aac
+	MP3: http://s_mobile.cienradios.com/1338_50_Sombras_48.mp3
+
+	Radio: A la Sombra
+	ACC: http://buecrplb01.cienradios.com.ar/1331_A_la_Sombra_32000.aac
+	MP3: http://s_mobile.cienradios.com/1331_A_la_Sombra_48.mp3
+
+	Radio: Adrenalina
+	ACC: http://buecrplb01.cienradios.com.ar/1325_Adrenalina_32000.aac
+	MP3: http://s_mobile.cienradios.com/1325_Adrenalina_48.mp3
+
+	Radio: Al Aire Libre
+	ACC: http://buecrplb01.cienradios.com.ar/1336_Al_Aire_Libre_32000.aac
+	MP3: http://s_mobile.cienradios.com/1336_Al_Aire_Libre_48.mp3
+
+	Radio: Amo la Música
+	ACC: http://buecrplb01.cienradios.com.ar/1252_Amo_la_Musica_32000.aac
+	MP3: http://s_mobile.cienradios.com/1252_Amo_la_Musica_48.mp3
+
+	Radio: AntiDomingo
+	ACC: http://buecrplb01.cienradios.com.ar/1263_AntiDomingo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1263_AntiDomingo_48.mp3
+
+	Radio: Aries
+	ACC: http://buecrplb01.cienradios.com.ar/1351_Aries_32000.aac
+	MP3: http://s_mobile.cienradios.com/1351_Aries_48.mp3
+
+	Radio: Bailando Electro
+	ACC: http://buecrplb01.cienradios.com.ar/1401_Bailando_Electro_32000.aac
+	MP3: http://s_mobile.cienradios.com/1401_Bailando_Electro_48.mp3
+
+	Radio: Bailando Latino
+	ACC: http://buecrplb01.cienradios.com.ar/1398_Bailando_Latino_32000.aac
+	MP3: http://s_mobile.cienradios.com/1398_Bailando_Latino_48.mp3
+
+	Radio: Bailando Retro
+	ACC: http://buecrplb01.cienradios.com.ar/1395_Bailando_Retro_32000.aac
+	MP3: http://s_mobile.cienradios.com/1395_Bailando_Retro_48.mp3
+
+	Radio: Bailando Rock and Roll
+	ACC: http://buecrplb01.cienradios.com.ar/1392_Bailando_Rock_and_Roll_32000.aac
+	MP3: http://s_mobile.cienradios.com/1392_Bailando_Rock_and_Roll_48.mp3
+
+	Radio: Bazinga
+	ACC: http://buecrplb01.cienradios.com.ar/1380_Bazinga_32000.aac
+	MP3: http://s_mobile.cienradios.com/1380_Bazinga_48.mp3
+
+	Radio: Best Friends Forever
+	ACC: http://buecrplb01.cienradios.com.ar/1373_Best_Friends_Forever_32000.aac
+	MP3: http://s_mobile.cienradios.com/1373_Best_Friends_Forever_48.mp3
+
+	Radio: Bici
+	ACC: http://buecrplb01.cienradios.com.ar/1267_Bici_32000.aac
+	MP3: http://s_mobile.cienradios.com/1267_Bici_48.mp3
+
+	Radio: Buena Onda
+	ACC: http://buecrplb01.cienradios.com.ar/1376_Buena_Onda_32000.aac
+	MP3: http://s_mobile.cienradios.com/1376_Buena_Onda_48.mp3
+
+	Radio: Canciones de la Ducha
+	ACC: http://buecrplb01.cienradios.com.ar/1232_Canciones_de_la_Ducha_32000.aac
+	MP3: http://s_mobile.cienradios.com/1232_Canciones_de_la_Ducha_48.mp3
+
+	Radio: Canciones para Viajar
+	ACC: http://buecrplb01.cienradios.com.ar/1284_Canciones_para_Viajar_32000.aac
+	MP3: http://s_mobile.cienradios.com/1284_Canciones_para_Viajar_48.mp3
+
+	Radio: Chocolatada
+	ACC: http://buecrplb01.cienradios.com.ar/1384_Chocolatada_32000.aac
+	MP3: http://s_mobile.cienradios.com/1384_Chocolatada_48.mp3
+
+	Radio: Costumbres Argentinas
+	ACC: http://buecrplb01.cienradios.com.ar/1292_Costumbres_Argentinas_32000.aac
+	MP3: http://s_mobile.cienradios.com/1292_Costumbres_Argentinas_48.mp3
+
+	Radio: Crossfit
+	ACC: http://buecrplb01.cienradios.com.ar/1360_Crossfit_32000.aac
+	MP3: http://s_mobile.cienradios.com/1360_Crossfit_48.mp3
+
+	Radio: Daiquiri
+	ACC: http://buecrplb01.cienradios.com.ar/1374_Daiquiri_32000.aac
+	MP3: http://s_mobile.cienradios.com/1374_Daiquiri_48.mp3
+
+	Radio: Del Cassette
+	ACC: http://buecrplb01.cienradios.com.ar/1371_Del_Cassette_32000.aac
+	MP3: http://s_mobile.cienradios.com/1371_Del_Cassette_48.mp3
+
+	Radio: Desenchufado
+	ACC: http://buecrplb01.cienradios.com.ar/1302_Desenchufado_32000.aac
+	MP3: http://s_mobile.cienradios.com/1302_Desenchufado_48.mp3
+
+	Radio: Discman
+	ACC: http://buecrplb01.cienradios.com.ar/1402_Discman_32000.aac
+	MP3: http://s_mobile.cienradios.com/1402_Discman_48.mp3
+
+	Radio: Domingo en Casa
+	ACC: http://buecrplb01.cienradios.com.ar/1253_Domingo_en_Casa_32000.aac
+	MP3: http://s_mobile.cienradios.com/1253_Domingo_en_Casa_48.mp3
+
+	Radio: En la Oficina
+	ACC: http://buecrplb01.cienradios.com.ar/1211_En_la_Oficina_32000.aac
+	MP3: http://s_mobile.cienradios.com/1211_En_la_Oficina_48.mp3
+
+	Radio: En Línea
+	ACC: http://buecrplb01.cienradios.com.ar/1249_En_Linea_32000.aac
+	MP3: http://s_mobile.cienradios.com/1249_En_Linea_48.mp3
+
+    Radio: Entrenando
+	AAC: http://buecrplb01.cienradios.com.ar/1204_Entrenando_32000.aac
+	MP3: http://s_mobile.cienradios.com/1204_Entrenando_48.mp3
+
+	Radio: Escapada
+	ACC: http://buecrplb01.cienradios.com.ar/1266_Escapada_32000.aac
+	MP3: http://s_mobile.cienradios.com/1266_Escapada_48.mp3
+
+	Radio: Estudiando
+	ACC: http://buecrplb01.cienradios.com.ar/1385_Estudiando_32000.aac
+	MP3: http://s_mobile.cienradios.com/1385_Estudiando_48.mp3
+
+	Radio: Estudio con Rock
+	ACC: http://buecrplb01.cienradios.com.ar/1354_Estudio_con_Rock_32000.aac
+	MP3: http://s_mobile.cienradios.com/1354_Estudio_con_Rock_48.mp3
+
+	Radio: Felicidad
+	AAC: http://buecrplb01.cienradios.com.ar/1210_Felicidad_32000.aac
+	MP3: http://s_mobile.cienradios.com/1210_Felicidad_48.mp3
+
+	Radio: Feriado Puente
+	ACC: http://buecrplb01.cienradios.com.ar/1352_Feriado_Puente_32000.aac
+	MP3: http://s_mobile.cienradios.com/1352_Feriado_Puente_48.mp3
+
+	Radio: Fernet
+	ACC: http://buecrplb01.cienradios.com.ar/1358_Fernet_32000.aac
+	MP3: http://s_mobile.cienradios.com/1358_Fernet_48.mp3
+
+	Radio: Fiesta de Egresados
+	ACC: http://buecrplb01.cienradios.com.ar/1251_Fiesta_de_Egresados_32000.aac
+	MP3: http://s_mobile.cienradios.com/1251_Fiesta_de_Egresados_48.mp3
+
+	Radio: Finde Largo
+	ACC: http://buecrplb01.cienradios.com.ar/1348_Finde_Largo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1348_Finde_Largo_48.mp3
+
+	Radio: Géminis
+	ACC: http://buecrplb01.cienradios.com.ar/1390_Geminis_32000.aac
+	MP3: http://s_mobile.cienradios.com/1390_Geminis_48.mp3
+
+	Radio: Gym en Casa
+	ACC: http://buecrplb01.cienradios.com.ar/1222_Gym_en_Casa_32000.aac
+	MP3: http://s_mobile.cienradios.com/1222_Gym_en_Casa_48.mp3
+
+	Radio: Haciendo Ruido
+	ACC: http://buecrplb01.cienradios.com.ar/1386_Haciendo_Ruido_32000.aac
+	MP3: http://s_mobile.cienradios.com/1386_Haciendo_Ruido_48.mp3
+
+	Radio: Hashtag
+	ACC: http://buecrplb01.cienradios.com.ar/1344_Hashtag_32000.aac
+	MP3: http://s_mobile.cienradios.com/1344_Hashtag_48.mp3
+
+	Radio: Hora Libre
+	ACC: http://buecrplb01.cienradios.com.ar/1346_Hora_Libre_32000.aac
+	MP3: http://s_mobile.cienradios.com/1346_Hora_Libre_48.mp3
+
+	Radio: Hot Hot Hot
+	ACC: http://buecrplb01.cienradios.com.ar/1208_Hot_Hot_Hot_32000.aac
+	MP3: http://s_mobile.cienradios.com/1208_Hot_Hot_Hot_48.mp3
+
+	Radio: Junio
+	ACC: http://buecrplb01.cienradios.com.ar/1391_Junio_32000.aac
+	MP3: http://s_mobile.cienradios.com/1391_Junio_48.mp3
+
+	Radio: La Argentinidad al Palo
+	ACC: http://buecrplb01.cienradios.com.ar/1257_La_Argentinidad_al_Palo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1257_La_Argentinidad_al_Palo_48.mp3
+
+	Radio: Las Mil y Una Noches
+	ACC: http://buecrplb01.cienradios.com.ar/1342_Las_Mil_y_Una_Noches_32000.aac
+	MP3: http://s_mobile.cienradios.com/1342_Las_Mil_y_Una_Noches_48.mp3
+
+	Radio: Libre Soy
+	ACC: http://buecrplb01.cienradios.com.ar/1359_Libre_Soy_32000.aac
+	MP3: http://s_mobile.cienradios.com/1359_Libre_Soy_48.mp3
+
+	Radio: Lluvia
+	ACC: http://buecrplb01.cienradios.com.ar/1116_Lluvia_32000.aac
+	MP3: http://s_mobile.cienradios.com/1116_Lluvia_48.mp3
+
+	Radio: Lo Más Compartido
+	ACC: http://buecrplb01.cienradios.com.ar/1276_Lo_Mas_Compartido_32000.aac
+	MP3: http://s_mobile.cienradios.com/1276_Lo_Mas_Compartido_48.mp3
+
+	Radio: Luna Llena
+	ACC: http://buecrplb01.cienradios.com.ar/1303_Luna_Llena_32000.aac
+	MP3: http://s_mobile.cienradios.com/1303_Luna_Llena_48.mp3
+
+	Radio: Mayo
+	ACC: http://buecrplb01.cienradios.com.ar/1389_Mayo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1389_Mayo_48.mp3
+
+	Radio: Me Animo
+	ACC: http://buecrplb01.cienradios.com.ar/1381_Me_Animo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1381_Me_Animo_48.mp3
+
+	Radio: Me Gusta
+	ACC: http://buecrplb01.cienradios.com.ar/1255_Me_Gusta_32000.aac
+	MP3: http://s_mobile.cienradios.com/1255_Me_Gusta_48.mp3
+
+	Radio: Mejor
+	ACC: http://buecrplb01.cienradios.com.ar/1218_Mejor_32000.aac
+	MP3: http://s_mobile.cienradios.com/1218_Mejor_48.mp3
+
+	Radio: Mi Lugar en el Mundo
+	ACC: http://buecrplb01.cienradios.com.ar/1310_Mi_Lugar_en_el_Mundo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1310_Mi_Lugar_en_el_Mundo_48.mp3
+
+	Radio: Mis Mejores Amigos
+	ACC: http://buecrplb01.cienradios.com.ar/1241_Mis_Mejores_Amigos_32000.aac
+	MP3: http://s_mobile.cienradios.com/1241_Mis_Mejores_Amigos_48.mp3
+
+	Radio: Mitad de Semana
+	ACC: http://buecrplb01.cienradios.com.ar/1248_Mitad_de_Semana_32000.aac
+	MP3: http://s_mobile.cienradios.com/1248_Mitad_de_Semana_48.mp3
+
+	Radio: Música para tu Asado
+	ACC: http://buecrplb01.cienradios.com.ar/1187_Musica_para_tu_Asado_32000.aac
+	MP3: http://s_mobile.cienradios.com/1187_Musica_para_tu_Asado_48.mp3
+
+	Radio: Nacido en los 90
+	ACC: http://buecrplb01.cienradios.com.ar/1239_Nacido_en_los_90_32000.aac
+	MP3: http://s_mobile.cienradios.com/1239_Nacido_en_los_90_48.mp3
+
+	Radio: Noche de Amigas
+	ACC: http://buecrplb01.cienradios.com.ar/1357_Noche_de_Amigas_32000.aac
+	MP3: http://s_mobile.cienradios.com/1357_Noche_de_Amigas_48.mp3
+
+	Radio: Noche de Sábado
+	ACC: http://buecrplb01.cienradios.com.ar/1240_Noche_de_Sabado_32000.aac
+	MP3: http://s_mobile.cienradios.com/1240_Noche_de_Sabado_48.mp3
+
+	Radio: Nueva Música
+	ACC: http://buecrplb01.cienradios.com.ar/1235_Nueva_Musica_32000.aac
+	MP3: http://s_mobile.cienradios.com/1235_Nueva_Musica_48.mp3
+
+	Radio: Oficina Anglo
+	ACC: http://buecrplb01.cienradios.com.ar/1400_Oficina_Anglo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1400_Oficina_Anglo_48.mp3
+
+	Radio: Oficina Latina
+	ACC: http://buecrplb01.cienradios.com.ar/1379_Oficina_Latina_32000.aac
+	MP3: http://s_mobile.cienradios.com/1379_Oficina_Latina_48.mp3
+
+	Radio: Oficina Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/1394_Oficina_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/1394_Oficina_Nacional_48.mp3
+
+	Radio: OMG
+	ACC: http://buecrplb01.cienradios.com.ar/1323_OMG_32000.aac
+	MP3: http://s_mobile.cienradios.com/1323_OMG_48.mp3
+
+	Radio: Otoño
+	ACC: http://buecrplb01.cienradios.com.ar/1350_Otono_32000.aac
+	MP3: http://s_mobile.cienradios.com/1350_Otono_48.mp3
+
+	Radio: Pizza Conmigo
+	ACC: http://buecrplb01.cienradios.com.ar/1261_Pizza_Conmigo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1261_Pizza_Conmigo_48.mp3
+
+	Radio: Pop for Kids
+	ACC: http://buecrplb01.cienradios.com.ar/1353_Pop_for_Kids_32000.aac
+	MP3: http://s_mobile.cienradios.com/1353_Pop_for_Kids_48.mp3
+
+	Radio: Premios Latinos
+	ACC: http://buecrplb01.cienradios.com.ar/1368_Premios_Latinos_32000.aac
+	MP3: http://s_mobile.cienradios.com/1368_Premios_Latinos_48.mp3
+
+	Radio: Previa Retro
+	ACC: http://buecrplb01.cienradios.com.ar/1262_Previa_Retro_32000.aac
+	MP3: http://s_mobile.cienradios.com/1262_Previa_Retro_48.mp3
+
+	Radio: Proyectando
+	ACC: http://buecrplb01.cienradios.com.ar/1330_Proyectando_32000.aac
+	MP3: http://s_mobile.cienradios.com/1330_Proyectando_48.mp3
+
+	Radio: Quiero Vacaciones
+	ACC: http://buecrplb01.cienradios.com.ar/1231_Quiero_Vacaciones_32000.aac
+	MP3: http://s_mobile.cienradios.com/1231_Quiero_Vacaciones_48.mp3
+
+	Radio: Rápido y Furioso
+	ACC: http://buecrplb01.cienradios.com.ar/1361_Rapido_y_Furioso_32000.aac
+	MP3: http://s_mobile.cienradios.com/1361_Rapido_y_Furioso_48.mp3
+
+	Radio: Reset
+	ACC: http://buecrplb01.cienradios.com.ar/1242_Reset_32000.aac
+	MP3: http://s_mobile.cienradios.com/1242_Reset_48.mp3
+
+	Radio: Rocktámbulo
+	ACC: http://buecrplb01.cienradios.com.ar/1399_Rocktambulo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1399_Rocktambulo_48.mp3
+
+	Radio: Rollers
+	ACC: http://buecrplb01.cienradios.com.ar/1173_Rollers_32000.aac
+	MP3: http://s_mobile.cienradios.com/1173_Rollers_48.mp3
+
+	Radio: Veranos Pasados
+	ACC: http://buecrplb01.cienradios.com.ar/1326_Veranos_Pasados_32000.aac
+	MP3: http://s_mobile.cienradios.com/1326_Veranos_Pasados_48.mp3
+
+	Radio: Sin Estridencias
+	ACC: http://buecrplb01.cienradios.com.ar/1387_Sin_Estridencias_32000.aac
+	MP3: http://s_mobile.cienradios.com/1387_Sin_Estridencias_48.mp3
+
+	Radio: Tarde de Mates
+	ACC: http://buecrplb01.cienradios.com.ar/1375_Tarde_de_Mates_32000.aac
+	MP3: http://s_mobile.cienradios.com/1375_Tarde_de_Mates_48.mp3
+
+	Radio: Tauro
+	ACC: http://buecrplb01.cienradios.com.ar/1369_Tauro_32000.aac
+	MP3: http://s_mobile.cienradios.com/1369_Tauro_48.mp3
+
+	Radio: Te Amo
+	ACC: http://buecrplb01.cienradios.com.ar/1224_Te_Amo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1224_Te_Amo_48.mp3
+
+	Radio: TGIF
+	ACC: http://buecrplb01.cienradios.com.ar/1237_TGIF_32000.aac
+	MP3: http://s_mobile.cienradios.com/1237_TGIF_48.mp3
+
+	Radio: Tirá para Arriba
+	ACC: http://buecrplb01.cienradios.com.ar/1244_Tira_para_Arriba_32000.aac
+	MP3: http://s_mobile.cienradios.com/1244_Tira_para_Arriba_48.mp3
+
+	Radio: Trabajador
+	ACC: http://buecrplb01.cienradios.com.ar/1367_Trabajador_32000.aac
+	MP3: http://s_mobile.cienradios.com/1367_Trabajador_48.mp3
+
+	Radio: Trabajo con Rock
+	ACC: http://buecrplb01.cienradios.com.ar/1355_Trabajo_con_Rock_32000.aac
+	MP3: http://s_mobile.cienradios.com/1355_Trabajo_con_Rock_48.mp3
+
+	Radio: Tranqui
+	ACC: http://buecrplb01.cienradios.com.ar/1217_Tranqui_32000.aac
+	MP3: http://s_mobile.cienradios.com/1217_Tranqui_48.mp3
+
+	Radio: Trending Topic
+	ACC: http://buecrplb01.cienradios.com.ar/1124_Trending_Topic_32000.aac
+	MP3: http://s_mobile.cienradios.com/1124_Trending_Topic_48.mp3
+
+	Radio: Un Fuego
+	ACC: http://buecrplb01.cienradios.com.ar/1186_UnFuego_32000.aac
+	MP3: http://s_mobile.cienradios.com/1186_UnFuego_48.mp3
+
+	Radio: Vinilo
+	ACC: http://buecrplb01.cienradios.com.ar/1393_Vinilo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1393_Vinilo_48.mp3
+
+	Radio: Walkman
+	ACC: http://buecrplb01.cienradios.com.ar/1397_Walkman_32000.aac
+	MP3: http://s_mobile.cienradios.com/1397_Walkman_48.mp3
+
+	Radio: Wasapear
+	ACC: http://buecrplb01.cienradios.com.ar/1219_Wasapear_32000.aac
+	MP3: http://s_mobile.cienradios.com/1219_Wasapear_48.mp3
+
+	Radio: Winter is Coming
+	ACC: http://buecrplb01.cienradios.com.ar/1388_Winter_is_Coming_32000.aac
+	MP3: http://s_mobile.cienradios.com/1388_Winter_is_Coming_48.mp3
+
+	Radio: Ya me Voy
+	ACC: http://buecrplb01.cienradios.com.ar/1271_Ya_me_Voy_32000.aac
+	MP3: http://s_mobile.cienradios.com/1271_Ya_me_Voy_48.mp3
+
+	Radio: YouTubers
+	ACC: http://buecrplb01.cienradios.com.ar/1382_YouTubers_32000.aac
+	MP3: http://s_mobile.cienradios.com/1382_YouTubers_48.mp3
+
+Categoria: Electro/Dance
+	Radio: Ad Republic
+	ACC: http://buecrplb01.cienradios.com.ar/977_Ad_Republic_32000.aac
+	MP3: http://s_mobile.cienradios.com/977_Ad_Republic_48.mp3
+
+	Radio: Avicii y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1363_Avicii_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1363_Avicii_y_Art_Rel_48.mp3
+
+	Radio: Chill Out
+	ACC: http://buecrplb01.cienradios.com.ar/786_Chillout_32000.aac
+	MP3: http://s_mobile.cienradios.com/786_Chillout_48.mp3
+
+	Radio: David Guetta y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/946_David_Guetta_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/946_David_Guetta_y_Art_Rel_48.mp3
+
+	Radio: Electronic Tango
+	ACC: http://buecrplb01.cienradios.com.ar/568_Electronic_Tango_32000.aac
+	MP3: http://s_mobile.cienradios.com/568_Electronic_Tango_48.mp3
+
+	Radio: Electrónico
+	ACC: http://buecrplb01.cienradios.com.ar/580_Electronico_32000.aac
+	MP3: http://s_mobile.cienradios.com/580_Electronico_48.mp3
+
+	Radio: Hottest DJs
+	ACC: http://buecrplb01.cienradios.com.ar/1029_Hottest_DJs_32000.aac
+	MP3: http://s_mobile.cienradios.com/1029_Hottest_DJs_48.mp3
+
+	Radio: Radio Dero
+	ACC: http://buecrplb01.cienradios.com.ar/605_Radio_Dero_32000.aac
+	MP3: http://s_mobile.cienradios.com/605_Radio_Dero_48.mp3
+
+	Radio: Tango Electrónico
+	ACC: http://buecrplb01.cienradios.com.ar/567_Tango_Electronico_32000.aac
+	MP3: http://s_mobile.cienradios.com/567_Tango_Electronico_48.mp3
+
+	Radio: Black Eyed Peas y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/883_Black_Eyed_Peas_32000.aac
+	MP3: http://s_mobile.cienradios.com/883_Black_Eyed_Peas_48.mp3
+
+	Radio: Celebration
+	ACC: http://buecrplb01.cienradios.com.ar/796_Celebration_32000.aac
+	MP3: http://s_mobile.cienradios.com/796_Celebration_48.mp3
+
+	Radio: Depeche Mode y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/963_Depeche_Mode_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/963_Depeche_Mode_y_Art_Rel_48.mp3
+
+	Radio: Erasure y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/855_Erasure_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/855_Erasure_y_Art_Rel_48.mp3
+
+	Radio: Fiesta Dance
+	ACC: http://buecrplb01.cienradios.com.ar/1041_Fiesta_Dance_32000.aac
+	MP3: http://s_mobile.cienradios.com/1041_Fiesta_Dance_48.mp3
+
+	Radio: Hot 100 Dance
+	ACC: http://buecrplb01.cienradios.com.ar/671_Hot_100_Dance_32000.aac
+	MP3: http://s_mobile.cienradios.com/671_Hot_100_Dance_48.mp3
+
+	Radio: Lady Gaga y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/876_Lady_Gaga_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/876_Lady_Gaga_y_Art_Rel_48.mp3
+
+	Radio: New Party Radio
+	ACC: http://buecrplb01.cienradios.com.ar/723_New_Party_Radio_32000.aac
+	MP3: http://s_mobile.cienradios.com/723_New_Party_Radio_48.mp3
+
+	Radio: Party Dance
+	ACC: http://buecrplb01.cienradios.com.ar/734_Party_Dance_32000.aac
+	MP3: http://s_mobile.cienradios.com/734_Party_Dance_48.mp3
+
+	Radio: Pitbull y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1282_Pitbull_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1282_Pitbull_y_Art_Rel_48.mp3
+
+	Radio: Rihanna y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/994_Rihanna_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/994_Rihanna_y_Art_Rel_48.mp3
+
+Categoria: Infantil
+	Radio: Maria Elena Walsh y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/790_Maria_Elena_Walsh_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/790_Maria_Elena_Walsh_y_Art_Rel_48.mp3
+
+	Radio: Mini Radio
+	ACC: http://buecrplb01.cienradios.com.ar/716_Mini_Radio_32000.aac
+	MP3: http://s_mobile.cienradios.com/716_Mini_Radio_48.mp3
+
+	Radio: Princesas
+	ACC: http://buecrplb01.cienradios.com.ar/741_Princesas_32000.aac
+	MP3: http://s_mobile.cienradios.com/741_Princesas_48.mp3
+
+	Radio: Radio Mundo Gaturro
+	ACC: http://buecrplb01.cienradios.com.ar/869_Radio_Mundo_Gaturro_32000.aac
+	MP3: http://s_mobile.cienradios.com/869_Radio_Mundo_Gaturro_48.mp3
+
+	Radio: Big Time Rush y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/992_Big_Time_Rush_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/992_Big_Time_Rush_y_Art_Rel_48.mp3
+
+	Radio: I Teen
+	ACC: http://buecrplb01.cienradios.com.ar/908_I_Teen_32000.aac
+	MP3: http://s_mobile.cienradios.com/908_I_Teen_48.mp3
+
+	Radio: Jonas Brothers y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/684_Jonas_Brothers_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/684_Jonas_Brothers_y_Artistas_Relacionados_48.mp3
+
+	Radio: Justin Bieber y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1085_Justin_Bieber_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/1085_Justin_Bieber_y_Art_Relac_48.mp3
+
+	Radio: One Direction y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/990_One_Direction_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/990_One_Direction_y_Art_Rel_48.mp3
+
+	Radio: Selena Gómez y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/818_Selena_Gomez_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/818_Selena_Gomez_y_Art_Rel_48.mp3
+
+	Radio: Teen Girls
+	ACC: http://buecrplb01.cienradios.com.ar/905_Teen_Girls_32000.aac
+	MP3: http://s_mobile.cienradios.com/905_Teen_Girls_48.mp3
+
+	Radio: Teen Series y Peliculas
+	ACC: http://buecrplb01.cienradios.com.ar/1032_Teen_Series_y_Peliculas_32000.aac
+	MP3: http://s_mobile.cienradios.com/1032_Teen_Series_y_Peliculas_48.mp3
+
+Categoria: Jazz y Vocal
+	Radio: Blend
+	ACC: http://buecrplb01.cienradios.com.ar/615_Blend_32000.aac
+	MP3: http://s_mobile.cienradios.com/615_Blend_48.mp3
+
+	Radio: Frank Sinatra y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/687_Frank_Sinatra_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/687_Frank_Sinatra_y_Artistas_Relacionados_48.mp3
+
+	Radio: Jazz
+	ACC: http://buecrplb01.cienradios.com.ar/681_Jazz_32000.aac
+	MP3: http://s_mobile.cienradios.com/681_Jazz_48.mp3
+
+	Radio: Lounge
+	ACC: http://buecrplb01.cienradios.com.ar/709_Lounge_32000.aac
+	MP3: http://s_mobile.cienradios.com/709_Lounge_48.mp3
+
+	Radio: Michael Buble y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/945_Michael_Buble_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/945_Michael_Buble_y_Art_Rel_48.mp3
+
+	Radio: Neo Soul
+	ACC: http://buecrplb01.cienradios.com.ar/1075_Neo_Soul_32000.aac
+	MP3: http://s_mobile.cienradios.com/1075_Neo_Soul_48.mp3
+
+	Radio: Norah Jones y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1012_Norah_Jones_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1012_Norah_Jones_y_Art_Rel_48.mp3
+
+	Radio: Smooth Jazz
+	ACC: http://buecrplb01.cienradios.com.ar/771_Smooth_Jazz_32000.aac
+	MP3: http://s_mobile.cienradios.com/771_Smooth_Jazz_48.mp3
+
+	Radio: 50
+	ACC: http://buecrplb01.cienradios.com.ar/611_50_32000.aac
+	MP3: http://s_mobile.cienradios.com/611_50_48.mp3
+
+	Radio: 60
+	ACC: http://buecrplb01.cienradios.com.ar/612_60_32000.aac
+	MP3: http://s_mobile.cienradios.com/612_60_48.mp3
+
+	Radio: Grandes Voces
+	ACC: http://buecrplb01.cienradios.com.ar/599_Grandes_Voces_32000.aac
+	MP3: http://s_mobile.cienradios.com/599_Grandes_Voces_48.mp3
+
+	Radio: Radio Lape
+	ACC: http://buecrplb01.cienradios.com.ar/753_Radio_Lape_32000.aac
+	MP3: http://s_mobile.cienradios.com/753_Radio_Lape_48.mp3
+
+Categoria: Latino
+	Radio: Abel Pintos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1096_Abel_Pintos_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1096_Abel_Pintos_y_Art_Rel_48.mp3
+
+	Radio: Abraham Mateo y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1258_Abraham_Mateo_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1258_Abraham_Mateo_y_Art_Rel_48.mp3
+
+	Radio: Agapornis y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1185_Agapornis_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1185_Agapornis_y_Art_Rel_48.mp3
+
+	Radio: Alejandro Sanz y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/635_Alejandro_Sanz_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/635_Alejandro_Sanz_y_Artistas_Relacionados_48.mp3
+
+	Radio: Axel y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/618_Axel_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/618_Axel_y_Artistas_Relacionados_48.mp3
+
+	Radio: Calle 13 y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1027_Calle_13_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1027_Calle_13_y_Art_Rel_48.mp3
+
+	Radio: Carlos Baute y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1051_Carlos_Baute_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1051_Carlos_Baute_y_Art_Rel_48.mp3
+
+	Radio: Cristian Castro y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/921_Cristian_Castro_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/921_Cristian_Castro_y_Art_Rel_48.mp3
+
+	Radio: David Bisbal y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/856_David_Bisbal_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/856_David_Bisbal_y_Art_Rel_48.mp3
+
+	Radio: Diego Torres y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/649_Diego_Torres_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/649_Diego_Torres_y_Artistas_Relacionados_48.mp3
+
+	Radio: Enrique Iglesias y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/922_Enrique_Iglesias_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/922_Enrique_Iglesias_y_Art_Rel_48.mp3
+
+	Radio: Eros Ramazzotti y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/923_Eros_Ramazzotti_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/923_Eros_Ramazzotti_y_Art_Rel_48.mp3
+
+	Radio: Hot 100 España
+	ACC: http://buecrplb01.cienradios.com.ar/672_Hot_100_Espana_32000.aac
+	MP3: http://s_mobile.cienradios.com/672_Hot_100_Espana_48.mp3
+
+	Radio: Hot 100 Latino
+	ACC: http://buecrplb01.cienradios.com.ar/931_Hot_100_Latino_32000.aac
+	MP3: http://s_mobile.cienradios.com/931_Hot_100_Latino_48.mp3
+
+	Radio: Hot 100 México
+	ACC: http://buecrplb01.cienradios.com.ar/882_Hot_100_Mexico_32000.aac
+	MP3: http://s_mobile.cienradios.com/882_Hot_100_Mexico_48.mp3
+
+	Radio: Juanes y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/685_Juanes_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/685_Juanes_y_Artistas_Relacionados_48.mp3
+
+	Radio: Julieta Venegas y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/686_Julieta_Venegas_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/686_Julieta_Venegas_y_Artistas_Relacionados_48.mp3
+
+	Radio: Kevin Johansen y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1018_Kevin_Johansen_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1018_Kevin_Johansen_y_Art_Rel_48.mp3
+
+	Radio: La Oreja de Van Gogh y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/972_La_Oreja_de_Van_Gogh_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/972_La_Oreja_de_Van_Gogh_y_Art_Rel_48.mp3
+
+	Radio: Latina
+	ACC: http://buecrplb01.cienradios.com.ar/689_Latina_32000.aac
+	MP3: http://s_mobile.cienradios.com/689_Latina_48.mp3
+
+	Radio: Laura Pausini y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1052_Laura_Pausini_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1052_Laura_Pausini_y_Art_Rel_48.mp3
+
+	Radio: Luis Miguel y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/710_Luis_Miguel_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/710_Luis_Miguel_y_Artistas_Relacionados_48.mp3
+
+	Radio: Mana y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/712_Mana_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/712_Mana_y_Artistas_Relacionados_48.mp3
+
+	Radio: Miranda y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/920_Miranda_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/920_Miranda_y_Art_Rel_48.mp3
+
+	Radio: Pablo Alborán y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1250_Pablo_Alboran_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1250_Pablo_Alboran_y_Art_Rel_48.mp3
+
+	Radio: Quiero
+	ACC: http://buecrplb01.cienradios.com.ar/744_Quiero_32000.aac
+	MP3: http://s_mobile.cienradios.com/744_Quiero_48.mp3
+
+	Radio: Reik y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/985_Reik_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/985_Reik_y_Art_Rel_48.mp3
+
+	Radio: Ricardo Arjona y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/788_Ricardo_Arjona_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/788_Ricardo_Arjona_y_Artistas_Relacionados_48.mp3
+
+	Radio: Ricardo Montaner y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/719_Ricardo_Montaner_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/719_Ricardo_Montaner_y_Artistas_Relacionados_48.mp3
+
+	Radio: Ricky Martin y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/762_Ricky_Martin_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/762_Ricky_Martin_y_Artistas_Relacionados_48.mp3
+
+	Radio: Romántica
+	ACC: http://buecrplb01.cienradios.com.ar/1081_Romantica_32000.aac
+	MP3: http://s_mobile.cienradios.com/1081_Romantica_48.mp3
+
+	Radio: Romeo Santos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1092_Romeo_Santos_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1092_Romeo_Santos_y_Art_Rel_48.mp3
+
+	Radio: Rosana y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/880_Rosana_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/880_Rosana_y_Art_Rel_48.mp3
+
+	Radio: Shakira y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/746_Shakira_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/746_Shakira_y_Artistas_Relacionados_48.mp3
+
+	Radio: Teen
+	ACC: http://buecrplb01.cienradios.com.ar/643_Teen_32000.aac
+	MP3: http://s_mobile.cienradios.com/643_Teen_48.mp3
+
+	Radio: Thalia y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1017_Thalia_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1017_Thalia_y_Art_Rel_48.mp3
+
+	Radio: Top 40
+	ACC: http://buecrplb01.cienradios.com.ar/1083_Top_40_32000.aac
+	MP3: http://s_mobile.cienradios.com/1083_Top_40_48.mp3
+
+	Radio: Alejandro Lerner y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1033_Alejandro_Lerner_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1033_Alejandro_Lerner_y_Art_Rel_48.mp3
+
+	Radio: Andrea Bocelli y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1040_Andrea_Bocelli_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1040_Andrea_Bocelli_y_Art_Rel_48.mp3
+
+	Radio: Boleros
+	ACC: http://buecrplb01.cienradios.com.ar/576_Boleros_32000.aac
+	MP3: http://s_mobile.cienradios.com/576_Boleros_48.mp3
+
+	Radio: Bossa Nova
+	ACC: http://buecrplb01.cienradios.com.ar/577_Bossa_Nova_32000.aac
+	MP3: http://s_mobile.cienradios.com/577_Bossa_Nova_48.mp3
+
+	Radio: Cacho Castaña y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/837_Cacho_Castana_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/837_Cacho_Castana_y_Art_Rel_48.mp3
+
+	Radio: Cadena Latina
+	ACC: http://buecrplb01.cienradios.com.ar/640_Cadena_Latina_32000.aac
+	MP3: http://s_mobile.cienradios.com/640_Cadena_Latina_48.mp3
+
+	Radio: Caetano Veloso y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/952_Caetano_Veloso_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/952_Caetano_Veloso_y_Art_Rel_48.mp3
+
+	Radio: Canciones Son Amores
+	ACC: http://buecrplb01.cienradios.com.ar/795_Canciones_Son_Amores_32000.aac
+	MP3: http://s_mobile.cienradios.com/795_Canciones_Son_Amores_48.mp3
+
+	Radio: Chayanne y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/797_Chayanne_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/797_Chayanne_y_Artistas_Relacionados_48.mp3
+
+	Radio: Enamorados
+	ACC: http://buecrplb01.cienradios.com.ar/802_Enamorados_32000.aac
+	MP3: http://s_mobile.cienradios.com/802_Enamorados_48.mp3
+
+	Radio: Gabo
+	ACC: http://buecrplb01.cienradios.com.ar/1365_Gabo_32000.aac
+	MP3: http://s_mobile.cienradios.com/1365_Gabo_48.mp3
+
+	Radio: Gloria Estefan y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/958_Gloria_Estefan_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/958_Gloria_Estefan_y_Art_Rel_48.mp3
+
+	Radio: Hot 100 Romántica
+	ACC: http://buecrplb01.cienradios.com.ar/677_Hot_100_Romantica_32000.aac
+	MP3: http://s_mobile.cienradios.com/677_Hot_100_Romantica_48.mp3
+
+	Radio: Ismael Serrano y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1035_Ismael_Serrano_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1035_Ismael_Serrano_y_Art_Rel_48.mp3
+
+	Radio: Joan Manuel Serrat y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/721_Joan_Manuel_Serrat_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/721_Joan_Manuel_Serrat_y_Artistas_Relacionados_48.mp3
+
+	Radio: Joaquin Sabina y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/767_Joaquin_Sabina_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/767_Joaquin_Sabina_y_Artistas_Relacionados_48.mp3
+
+	Radio: Juan Luis Guerra y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/909_Juan_L_Guerra_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/909_Juan_L_Guerra_y_Art_Rel_48.mp3
+
+	Radio: Letras y Canciones
+	ACC: http://buecrplb01.cienradios.com.ar/587_Letras_y_Canciones_32000.aac
+	MP3: http://s_mobile.cienradios.com/587_Letras_y_Canciones_48.mp3
+
+	Radio: Noche Latina
+	ACC: http://buecrplb01.cienradios.com.ar/724_Noche_Latina_32000.aac
+	MP3: http://s_mobile.cienradios.com/724_Noche_Latina_48.mp3
+
+	Radio: Romántica 2000
+	ACC: http://buecrplb01.cienradios.com.ar/766_Romantica_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/766_Romantica_2000_48.mp3
+
+	Radio: Romántica 70
+	ACC: http://buecrplb01.cienradios.com.ar/628_Romantica_70_32000.aac
+	MP3: http://s_mobile.cienradios.com/628_Romantica_70_48.mp3
+
+	Radio: Romántica 90
+	ACC: http://buecrplb01.cienradios.com.ar/593_Romantica_90_32000.aac
+	MP3: http://s_mobile.cienradios.com/593_Romantica_90_48.mp3
+
+	Radio: Bachata
+	ACC: http://buecrplb01.cienradios.com.ar/998_Bachata_32000.aac
+	MP3: http://s_mobile.cienradios.com/998_Bachata_48.mp3
+
+	Radio: Hot 100 Salsa y Bachata
+	ACC: http://buecrplb01.cienradios.com.ar/910_Hot_100_Salsa_y_Bachata_32000.aac
+	MP3: http://s_mobile.cienradios.com/910_Hot_100_Salsa_y_Bachata_48.mp3
+
+	Radio: Salsa
+	ACC: http://buecrplb01.cienradios.com.ar/594_Salsa_32000.aac
+	MP3: http://s_mobile.cienradios.com/594_Salsa_48.mp3
+
+	Radio: Hot 100 Reggaetón
+	ACC: http://buecrplb01.cienradios.com.ar/675_Hot_100_Reggaeton_32000.aac
+	MP3: http://s_mobile.cienradios.com/675_Hot_100_Reggaeton_48.mp3
+
+	Radio: La R
+	ACC: http://buecrplb01.cienradios.com.ar/585_La_R_32000.aac
+	MP3: http://s_mobile.cienradios.com/585_La_R_48.mp3
+
+	Radio: Reggaetón
+	ACC: http://buecrplb01.cienradios.com.ar/759_Reggaeton_32000.aac
+	MP3: http://s_mobile.cienradios.com/759_Reggaeton_48.mp3
+
+	Radio: Reggaetón Romántico
+	ACC: http://buecrplb01.cienradios.com.ar/760_Reggaeton_Romantico_32000.aac
+	MP3: http://s_mobile.cienradios.com/760_Reggaeton_Romantico_48.mp3
+
+	Radio: Cuarteto
+	ACC: http://buecrplb01.cienradios.com.ar/578_Cuarteto_32000.aac
+	MP3: http://s_mobile.cienradios.com/578_Cuarteto_48.mp3
+
+	Radio: Cumbia
+	ACC: http://buecrplb01.cienradios.com.ar/779_Cumbia_32000.aac
+	MP3: http://s_mobile.cienradios.com/779_Cumbia_48.mp3
+
+	Radio: La Musica De Siempre
+	ACC: http://buecrplb01.cienradios.com.ar/584_La_Musica_De_Siempre_32000.aac
+	MP3: http://s_mobile.cienradios.com/584_La_Musica_De_Siempre_48.mp3
+
+	Radio: León Gieco y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/907_Leon_Gieco_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/907_Leon_Gieco_y_Art_Rel_48.mp3
+
+	Radio: Los Nocheros y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/706_Los_Nocheros_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/706_Los_Nocheros_y_Art_Relac_48.mp3
+
+	Radio: Maria Elena Walsh y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/790_Maria_Elena_Walsh_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/790_Maria_Elena_Walsh_y_Art_Rel_48.mp3
+
+	Radio: Mercedes Sosa y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/713_Mercedes_Sosa_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/713_Mercedes_Sosa_y_Artistas_Relacionados_48.mp3
+
+	Radio: Pimpinela y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/996_Pimpinela_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/996_Pimpinela_y_Art_Rel_48.mp3
+
+	Radio: Sandro y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/769_Sandro_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/769_Sandro_y_Artistas_Relacionados_48.mp3
+
+	Radio: Serrat Sabina
+	ACC: http://buecrplb01.cienradios.com.ar/881_Serrat_Sabina_32000.aac
+	MP3: http://s_mobile.cienradios.com/881_Serrat_Sabina_48.mp3
+
+	Radio: Viejitos Piolas
+	ACC: http://buecrplb01.cienradios.com.ar/784_Viejitos_Piolas_32000.aac
+	MP3: http://s_mobile.cienradios.com/784_Viejitos_Piolas_48.mp3
+
+	Radio: La Sole y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1028_La_Sole_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1028_La_Sole_y_Art_Rel_48.mp3
+
+	Radio: Fito Paez y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/654_Fito_Paez_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/654_Fito_Paez_y_Artistas_Relacionados_48.mp3
+
+	Radio: Vicentico y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1044_Vicentico_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1044_Vicentico_y_Art_Rel_48.mp3
+
+Categoria: Música del Mundo
+	Radio: Bachata
+	ACC: http://buecrplb01.cienradios.com.ar/998_Bachata_32000.aac
+	MP3: http://s_mobile.cienradios.com/998_Bachata_48.mp3
+
+	Radio: Brasil
+	ACC: http://buecrplb01.cienradios.com.ar/639_Brasil_32000.aac
+	MP3: http://s_mobile.cienradios.com/639_Brasil_48.mp3
+
+	Radio: Cuarteto
+	ACC: http://buecrplb01.cienradios.com.ar/578_Cuarteto_32000.aac
+	MP3: http://s_mobile.cienradios.com/578_Cuarteto_48.mp3
+
+	Radio: Cumbia
+	ACC: http://buecrplb01.cienradios.com.ar/779_Cumbia_32000.aac
+	MP3: http://s_mobile.cienradios.com/779_Cumbia_48.mp3
+
+	Radio: Fado
+	ACC: http://buecrplb01.cienradios.com.ar/1415_Fado_32000.aac
+	MP3: http://s_mobile.cienradios.com/1415_Fado_48.mp3
+
+	Radio: Folklore
+	ACC: http://buecrplb01.cienradios.com.ar/582_Folklore_32000.aac
+	MP3: http://s_mobile.cienradios.com/582_Folklore_48.mp3
+
+	Radio: Hot 100 J Pop
+	ACC: http://buecrplb01.cienradios.com.ar/894_Hot_100_J_Pop_32000.aac
+	MP3: http://s_mobile.cienradios.com/894_Hot_100_J_Pop_48.mp3
+
+	Radio: K Pop
+	ACC: http://buecrplb01.cienradios.com.ar/947_K_Pop_32000.aac
+	MP3: http://s_mobile.cienradios.com/947_K_Pop_48.mp3
+
+	Radio: New Age
+	ACC: http://buecrplb01.cienradios.com.ar/722_New_Age_32000.aac
+	MP3: http://s_mobile.cienradios.com/722_New_Age_48.mp3
+
+	Radio: Putumayo
+	ACC: http://buecrplb01.cienradios.com.ar/833_Putumayo_32000.aac
+	MP3: http://s_mobile.cienradios.com/833_Putumayo_48.mp3
+
+	Radio: Reggae
+	ACC: http://buecrplb01.cienradios.com.ar/758_Reggae_32000.aac
+	MP3: http://s_mobile.cienradios.com/758_Reggae_48.mp3
+
+	Radio: Reggaetón
+	ACC: http://buecrplb01.cienradios.com.ar/759_Reggaeton_32000.aac
+	MP3: http://s_mobile.cienradios.com/759_Reggaeton_48.mp3
+
+	Radio: Salsa
+	ACC: http://buecrplb01.cienradios.com.ar/594_Salsa_32000.aac
+	MP3: http://s_mobile.cienradios.com/594_Salsa_48.mp3
+
+	Radio: Samba
+	ACC: http://buecrplb01.cienradios.com.ar/768_Samba_32000.aac
+	MP3: http://s_mobile.cienradios.com/768_Samba_48.mp3
+
+	Radio: Tango
+	ACC: http://buecrplb01.cienradios.com.ar/596_Tango_32000.aac
+	MP3: http://s_mobile.cienradios.com/596_Tango_48.mp3
+
+	Radio: Hot 100 Alemania
+	ACC: http://buecrplb01.cienradios.com.ar/669_Hot_100_Alemania_32000.aac
+	MP3: http://s_mobile.cienradios.com/669_Hot_100_Alemania_48.mp3
+
+	Radio: Hot 100 Canadá
+	ACC: http://buecrplb01.cienradios.com.ar/893_Hot_100_Canada_32000.aac
+	MP3: http://s_mobile.cienradios.com/893_Hot_100_Canada_48.mp3
+
+	Radio: Hot 100 España
+	ACC: http://buecrplb01.cienradios.com.ar/672_Hot_100_Espana_32000.aac
+	MP3: http://s_mobile.cienradios.com/672_Hot_100_Espana_48.mp3
+
+	Radio: Hot 100 Europa
+	ACC: http://buecrplb01.cienradios.com.ar/898_Hot_100_Europa_32000.aac
+	MP3: http://s_mobile.cienradios.com/898_Hot_100_Europa_48.mp3
+
+	Radio: Hot 100 México
+	ACC: http://buecrplb01.cienradios.com.ar/882_Hot_100_Mexico_32000.aac
+	MP3: http://s_mobile.cienradios.com/882_Hot_100_Mexico_48.mp3
+
+	Radio: Hot 100 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/674_Hot_100_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/674_Hot_100_Nacional_48.mp3
+
+	Radio: Hot 100 UK
+	ACC: http://buecrplb01.cienradios.com.ar/891_Hot_100_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/891_Hot_100_UK_48.mp3
+
+	Radio: Hot 100 USA
+	ACC: http://buecrplb01.cienradios.com.ar/896_Hot_100_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/896_Hot_100_USA_48.mp3
+
+	Radio: Top Europa
+	ACC: http://buecrplb01.cienradios.com.ar/776_Top_Europa_32000.aac
+	MP3: http://s_mobile.cienradios.com/776_Top_Europa_48.mp3
+
+	Radio: Top Uk
+	ACC: http://buecrplb01.cienradios.com.ar/781_Top_Uk_32000.aac
+	MP3: http://s_mobile.cienradios.com/781_Top_Uk_48.mp3
+
+	Radio: Top USA
+	ACC: http://buecrplb01.cienradios.com.ar/777_Top_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/777_Top_USA_48.mp3
+
+	Radio: Bossa Nova
+	ACC: http://buecrplb01.cienradios.com.ar/577_Bossa_Nova_32000.aac
+	MP3: http://s_mobile.cienradios.com/577_Bossa_Nova_48.mp3
+
+	Radio: Caetano Veloso y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/952_Caetano_Veloso_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/952_Caetano_Veloso_y_Art_Rel_48.mp3
+
+	Radio: Maluco Beleza
+	ACC: http://buecrplb01.cienradios.com.ar/629_Maluco_Beleza_32000.aac
+	MP3: http://s_mobile.cienradios.com/629_Maluco_Beleza_48.mp3
+
+	Radio: MPB
+	ACC: http://buecrplb01.cienradios.com.ar/588_MPB_32000.aac
+	MP3: http://s_mobile.cienradios.com/588_MPB_48.mp3
+
+	Radio: Alejandro Sanz y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/635_Alejandro_Sanz_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/635_Alejandro_Sanz_y_Artistas_Relacionados_48.mp3
+
+	Radio: David Bisbal y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/856_David_Bisbal_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/856_David_Bisbal_y_Art_Rel_48.mp3
+
+	Radio: Enrique Iglesias y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/922_Enrique_Iglesias_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/922_Enrique_Iglesias_y_Art_Rel_48.mp3
+
+	Radio: Ismael Serrano y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1035_Ismael_Serrano_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1035_Ismael_Serrano_y_Art_Rel_48.mp3
+
+	Radio: Joan Manuel Serrat y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/721_Joan_Manuel_Serrat_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/721_Joan_Manuel_Serrat_y_Artistas_Relacionados_48.mp3
+
+	Radio: Joaquin Sabina y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/767_Joaquin_Sabina_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/767_Joaquin_Sabina_y_Artistas_Relacionados_48.mp3
+
+	Radio: La Oreja de Van Gogh y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/972_La_Oreja_de_Van_Gogh_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/972_La_Oreja_de_Van_Gogh_y_Art_Rel_48.mp3
+
+	Radio: Pablo Alborán y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1250_Pablo_Alboran_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1250_Pablo_Alboran_y_Art_Rel_48.mp3
+
+	Radio: Rosana y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/880_Rosana_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/880_Rosana_y_Art_Rel_48.mp3
+
+	Radio: Serrat Sabina
+	ACC: http://buecrplb01.cienradios.com.ar/881_Serrat_Sabina_32000.aac
+	MP3: http://s_mobile.cienradios.com/881_Serrat_Sabina_48.mp3
+
+    Radio: Andrea Bocelli y Artistas Relacionados
+        AAC: http://buecrplb01.cienradios.com.ar/1040_Andrea_Bocelli_y_Art_Rel_32000.aac
+        MP3: http://s_mobile.cienradios.com/1040_Andrea_Bocelli_y_Art_Rel_48.mp3
+
+	Radio: Eros Ramazzotti y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/923_Eros_Ramazzotti_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/923_Eros_Ramazzotti_y_Art_Rel_48.mp3
+
+	Radio: Laura Pausini y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1052_Laura_Pausini_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1052_Laura_Pausini_y_Art_Rel_48.mp3
+
+	Radio: Luciano Pavarotti y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1015_Luciano_Pavarotti_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1015_Luciano_Pavarotti_y_Art_Rel_48.mp3
+
+	Radio: Ópera Italiana
+	ACC: http://buecrplb01.cienradios.com.ar/730_Opera_Italiana_32000.aac
+	MP3: http://s_mobile.cienradios.com/730_Opera_Italiana_48.mp3
+
+	Radio: Puccini
+	ACC: http://buecrplb01.cienradios.com.ar/742_Puccini_32000.aac
+	MP3: http://s_mobile.cienradios.com/742_Puccini_48.mp3
+
+	Radio: Verdi
+	ACC: http://buecrplb01.cienradios.com.ar/783_Verdi_32000.aac
+	MP3: http://s_mobile.cienradios.com/783_Verdi_48.mp3
+
+	Radio: Ópera Rusa
+	ACC: http://buecrplb01.cienradios.com.ar/820_Opera_Rusa_32000.aac
+	MP3: http://s_mobile.cienradios.com/820_Opera_Rusa_48.mp3
+
+	Radio: 80 90 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/589_80_90_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/589_80_90_Nacional_48.mp3
+
+	Radio: 80 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/575_80_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/575_80_Nacional_48.mp3
+
+	Radio: 90 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/634_90_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/634_90_Nacional_48.mp3
+
+	Radio: Agapornis y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1185_Agapornis_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1185_Agapornis_y_Art_Rel_48.mp3
+
+	Radio: Covers Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/932_Covers_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/932_Covers_Nacional_48.mp3
+
+	Radio: Del Lago
+	ACC: http://buecrplb01.cienradios.com.ar/825_Del_Lago_32000.aac
+	MP3: http://s_mobile.cienradios.com/825_Del_Lago_48.mp3
+
+	Radio: Folklore Salteño
+	ACC: http://buecrplb01.cienradios.com.ar/1039_Folklore_Salteno_32000.aac
+	MP3: http://s_mobile.cienradios.com/1039_Folklore_Salteno_48.mp3
+
+	Radio: Heavy Metal Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/1022_Heavy_Metal_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/1022_Heavy_Metal_Nacional_48.mp3
+
+	Radio: Kapanga y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1067_Kapanga_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1067_Kapanga_y_Art_Rel_48.mp3
+
+	Radio: Mitre y el Campo
+	ACC: http://buecrplb01.cienradios.com.ar/991_Mitre_y_el_Campo_32000.aac
+	MP3: http://s_mobile.cienradios.com/991_Mitre_y_el_Campo_48.mp3
+
+	Radio: Nuevos Clásicos Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/726_Nuevos_Clasicos_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/726_Nuevos_Clasicos_Nacional_48.mp3
+
+	Radio: Reggae Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/974_Reggae_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/974_Reggae_Nacional_48.mp3
+
+	Radio: Rock Alternativo Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/826_Rock_Alternativo_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/826_Rock_Alternativo_Nacional_48.mp3
+
+	Radio: Rock Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/597_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/597_Nacional_48.mp3
+
+	Radio: ViaRosario
+	ACC: http://buecrplb01.cienradios.com.ar/1404_ViaRosario_32000.aac
+	MP3: http://s_mobile.cienradios.com/1404_ViaRosario_48.mp3
+
+	Radio: Vivo Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/953_Vivo_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/953_Vivo_Nacional_48.mp3
+
+	Radio: Abel Pintos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1096_Abel_Pintos_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1096_Abel_Pintos_y_Art_Rel_48.mp3
+
+	Radio: Chaqueno Palavecino y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1009_Chaqueno_Palavecino_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1009_Chaqueno_Palavecino_y_Art_Rel_48.mp3
+
+	Radio: La Sole y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1028_La_Sole_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1028_La_Sole_y_Art_Rel_48.mp3
+
+	Radio: León Gieco y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/907_Leon_Gieco_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/907_Leon_Gieco_y_Art_Rel_48.mp3
+
+	Radio: Los Chalchaleros y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/705_Los_Chalchaleros_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/705_Los_Chalchaleros_y_Artistas_Relacionados_48.mp3
+
+	Radio: Los Nocheros y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/706_Los_Nocheros_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/706_Los_Nocheros_y_Art_Relac_48.mp3
+
+	Radio: Maria Elena Walsh y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/790_Maria_Elena_Walsh_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/790_Maria_Elena_Walsh_y_Art_Rel_48.mp3
+
+	Radio: Mercedes Sosa y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/713_Mercedes_Sosa_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/713_Mercedes_Sosa_y_Artistas_Relacionados_48.mp3
+
+	Radio: All About Tango
+	ACC: http://buecrplb01.cienradios.com.ar/566_All_About_Tango_32000.aac
+	MP3: http://s_mobile.cienradios.com/566_All_About_Tango_48.mp3
+
+	Radio: Cacho Castaña y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/837_Cacho_Castana_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/837_Cacho_Castana_y_Art_Rel_48.mp3
+
+	Radio: Electronic Tango
+	ACC: http://buecrplb01.cienradios.com.ar/568_Electronic_Tango_32000.aac
+	MP3: http://s_mobile.cienradios.com/568_Electronic_Tango_48.mp3
+
+	Radio: Grandes del Tango
+	ACC: http://buecrplb01.cienradios.com.ar/569_Grandes_del_Tango_32000.aac
+	MP3: http://s_mobile.cienradios.com/569_Grandes_del_Tango_48.mp3
+
+	Radio: Greatest Tango
+	ACC: http://buecrplb01.cienradios.com.ar/570_Greatest_Tango_32000.aac
+	MP3: http://s_mobile.cienradios.com/570_Greatest_Tango_48.mp3
+
+	Radio: Piazzolla y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/737_Piazzolla_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/737_Piazzolla_y_Artistas_Relacionados_48.mp3
+
+	Radio: Tango Electrónico
+	ACC: http://buecrplb01.cienradios.com.ar/567_Tango_Electronico_32000.aac
+	MP3: http://s_mobile.cienradios.com/567_Tango_Electronico_48.mp3
+
+	Radio: Todo Tango
+	ACC: http://buecrplb01.cienradios.com.ar/804_Todo_Tango_32000.aac
+	MP3: http://s_mobile.cienradios.com/804_Todo_Tango_48.mp3
+
+	Radio: Bob Dylan y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/965_Bob_Dylan_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/965_Bob_Dylan_y_Art_Rel_48.mp3
+
+	Radio: Creedence y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/827_Creedence_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/827_Creedence_y_Art_Rel_48.mp3
+
+	Radio: Elvis Presley y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/651_Elvis_Presley_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/651_Elvis_Presley_y_Artistas_Relacionados_48.mp3
+
+	Radio: Hot 100 Country
+	ACC: http://buecrplb01.cienradios.com.ar/670_Hot_100_Country_32000.aac
+	MP3: http://s_mobile.cienradios.com/670_Hot_100_Country_48.mp3
+
+	Radio: Taylor Swift y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1213_Taylor_Swift_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1213_Taylor_Swift_y_Art_Rel_48.mp3
+
+Categoria: Música y Noticias
+	Radio: Mitre y el Campo
+	ACC: http://buecrplb01.cienradios.com.ar/991_Mitre_y_el_Campo_32000.aac
+	MP3: http://s_mobile.cienradios.com/991_Mitre_y_el_Campo_48.mp3
+
+	Radio: Ad Republic
+	ACC: http://buecrplb01.cienradios.com.ar/977_Ad_Republic_32000.aac
+	MP3: http://s_mobile.cienradios.com/977_Ad_Republic_48.mp3
+
+	Radio: Del Lago
+	ACC: http://buecrplb01.cienradios.com.ar/825_Del_Lago_32000.aac
+	MP3: http://s_mobile.cienradios.com/825_Del_Lago_48.mp3
+
+	Radio: Radio Olé
+	ACC: http://buecrplb01.cienradios.com.ar/993_radiole_32000.aac
+	MP3: http://s_mobile.cienradios.com/993_radiole_48.mp3
+
+	Radio: Rumbos
+	ACC: http://buecrplb01.cienradios.com.ar/1412_Rumbos_32000.aac
+	MP3: http://s_mobile.cienradios.com/1412_Rumbos_48.mp3
+
+	Radio: ViaRosario
+	ACC: http://buecrplb01.cienradios.com.ar/1404_ViaRosario_32000.aac
+	MP3: http://s_mobile.cienradios.com/1404_ViaRosario_48.mp3
+
+Categoria: Películas y TV
+	Radio: 50 Sombras
+	ACC: http://buecrplb01.cienradios.com.ar/1338_50_Sombras_32000.aac
+	MP3: http://s_mobile.cienradios.com/1338_50_Sombras_48.mp3
+
+	Radio: Classic Cinema
+	ACC: http://buecrplb01.cienradios.com.ar/798_Classic_Cinema_32000.aac
+	MP3: http://s_mobile.cienradios.com/798_Classic_Cinema_48.mp3
+
+	Radio: Grandes Voces
+	ACC: http://buecrplb01.cienradios.com.ar/599_Grandes_Voces_32000.aac
+	MP3: http://s_mobile.cienradios.com/599_Grandes_Voces_48.mp3
+
+	Radio: Películas
+	ACC: http://buecrplb01.cienradios.com.ar/591_Peliculas_32000.aac
+	MP3: http://s_mobile.cienradios.com/591_Peliculas_48.mp3
+
+	Radio: Tarantino
+	ACC: http://buecrplb01.cienradios.com.ar/1024_Tarantino_32000.aac
+	MP3: http://s_mobile.cienradios.com/1024_Tarantino_48.mp3
+
+	Radio: Teen Series y Peliculas
+	ACC: http://buecrplb01.cienradios.com.ar/1032_Teen_Series_y_Peliculas_32000.aac
+	MP3: http://s_mobile.cienradios.com/1032_Teen_Series_y_Peliculas_48.mp3
+
+	Radio: Glee y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/847_Glee_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/847_Glee_y_Art_Rel_48.mp3
+
+	Radio: Jonas Brothers y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/684_Jonas_Brothers_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/684_Jonas_Brothers_y_Artistas_Relacionados_48.mp3
+
+	Radio: Las Mil y Una Noches
+	ACC: http://buecrplb01.cienradios.com.ar/1342_Las_Mil_y_Una_Noches_32000.aac
+	MP3: http://s_mobile.cienradios.com/1342_Las_Mil_y_Una_Noches_48.mp3
+
+	Radio: Miley Cyrus y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/715_Miley_Cyrus_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/715_Miley_Cyrus_y_Artistas_Relacionados_48.mp3
+
+	Radio: Quiero
+	ACC: http://buecrplb01.cienradios.com.ar/744_Quiero_32000.aac
+	MP3: http://s_mobile.cienradios.com/744_Quiero_48.mp3
+
+Categoria: Personalidades
+	Radio: Radio Cerfoglio
+	ACC: http://buecrplb01.cienradios.com.ar/1220_Radio_Cerfoglio_32000.aac
+	MP3: http://s_mobile.cienradios.com/1220_Radio_Cerfoglio_48.mp3
+
+	Radio: Radio Dero
+	ACC: http://buecrplb01.cienradios.com.ar/605_Radio_Dero_32000.aac
+	MP3: http://s_mobile.cienradios.com/605_Radio_Dero_48.mp3
+
+	Radio: Radio El Pelado
+	ACC: http://buecrplb01.cienradios.com.ar/754_Radio_El_Pelado_32000.aac
+	MP3: http://s_mobile.cienradios.com/754_Radio_El_Pelado_48.mp3
+
+	Radio: Radio Lalo
+	ACC: http://buecrplb01.cienradios.com.ar/688_Radio_Lalo_32000.aac
+	MP3: http://s_mobile.cienradios.com/688_Radio_Lalo_48.mp3
+
+	Radio: Radio Lape
+	ACC: http://buecrplb01.cienradios.com.ar/753_Radio_Lape_32000.aac
+	MP3: http://s_mobile.cienradios.com/753_Radio_Lape_48.mp3
+
+Categoria: Pop
+	Radio: 90 Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/633_90_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/633_90_Internacional_48.mp3
+
+	Radio: 90 Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/955_90_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/955_90_Nacional_E_Internacional_48.mp3
+
+	Radio: Barbra Streisand y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1055_Barbra_Streisand_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1055_Barbra_Streisand_y_Art_Rel_48.mp3
+
+	Radio: Celebration
+	ACC: http://buecrplb01.cienradios.com.ar/796_Celebration_32000.aac
+	MP3: http://s_mobile.cienradios.com/796_Celebration_48.mp3
+
+	Radio: Celine Dion y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1004_Celine_Dion_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1004_Celine_Dion_y_Art_Rel_48.mp3
+
+	Radio: Del Lago
+	ACC: http://buecrplb01.cienradios.com.ar/825_Del_Lago_32000.aac
+	MP3: http://s_mobile.cienradios.com/825_Del_Lago_48.mp3
+
+	Radio: Egresados 1990
+	ACC: http://buecrplb01.cienradios.com.ar/838_Egresados_1990_32000.aac
+	MP3: http://s_mobile.cienradios.com/838_Egresados_1990_48.mp3
+
+	Radio: Egresados 1991
+	ACC: http://buecrplb01.cienradios.com.ar/844_Egresados_1991_32000.aac
+	MP3: http://s_mobile.cienradios.com/844_Egresados_1991_48.mp3
+
+	Radio: Egresados 1992
+	ACC: http://buecrplb01.cienradios.com.ar/850_Egresados_1992_32000.aac
+	MP3: http://s_mobile.cienradios.com/850_Egresados_1992_48.mp3
+
+	Radio: Egresados 1993
+	ACC: http://buecrplb01.cienradios.com.ar/851_Egresados_1993_32000.aac
+	MP3: http://s_mobile.cienradios.com/851_Egresados_1993_48.mp3
+
+	Radio: Egresados 1994
+	ACC: http://buecrplb01.cienradios.com.ar/853_Egresados_1994_32000.aac
+	MP3: http://s_mobile.cienradios.com/853_Egresados_1994_48.mp3
+
+	Radio: Egresados 1995
+	ACC: http://buecrplb01.cienradios.com.ar/857_Egresados_1995_32000.aac
+	MP3: http://s_mobile.cienradios.com/857_Egresados_1995_48.mp3
+
+	Radio: Egresados 1996
+	ACC: http://buecrplb01.cienradios.com.ar/858_Egresados_1996_32000.aac
+	MP3: http://s_mobile.cienradios.com/858_Egresados_1996_48.mp3
+
+	Radio: Egresados 1997
+	ACC: http://buecrplb01.cienradios.com.ar/860_Egresados_1997_32000.aac
+	MP3: http://s_mobile.cienradios.com/860_Egresados_1997_48.mp3
+
+	Radio: Egresados 1998
+	ACC: http://buecrplb01.cienradios.com.ar/861_Egresados_1998_32000.aac
+	MP3: http://s_mobile.cienradios.com/861_Egresados_1998_48.mp3
+
+	Radio: Egresados 1999
+	ACC: http://buecrplb01.cienradios.com.ar/862_Egresados_1999_32000.aac
+	MP3: http://s_mobile.cienradios.com/862_Egresados_1999_48.mp3
+
+	Radio: Egresados 2000
+	ACC: http://buecrplb01.cienradios.com.ar/863_Egresados_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/863_Egresados_2000_48.mp3
+
+	Radio: Ellas
+	ACC: http://buecrplb01.cienradios.com.ar/581_Ellas_32000.aac
+	MP3: http://s_mobile.cienradios.com/581_Ellas_48.mp3
+
+	Radio: Ellos
+	ACC: http://buecrplb01.cienradios.com.ar/801_Ellos_32000.aac
+	MP3: http://s_mobile.cienradios.com/801_Ellos_48.mp3
+
+	Radio: Erasure y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/855_Erasure_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/855_Erasure_y_Art_Rel_48.mp3
+
+	Radio: Los Numero 1 de los 90 UK
+	ACC: http://buecrplb01.cienradios.com.ar/1047_Los_Numero_1_de_los_90_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/1047_Los_Numero_1_de_los_90_UK_48.mp3
+
+	Radio: Los Numero 1 de los 90 USA
+	ACC: http://buecrplb01.cienradios.com.ar/1030_Los_Numero_1_de_los_90_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/1030_Los_Numero_1_de_los_90_USA_48.mp3
+
+	Radio: Madonna y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/711_Madonna_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/711_Madonna_y_Artistas_Relacionados_48.mp3
+
+	Radio: Michael Jackson y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/714_Michael_Jackson_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/714_Michael_Jackson_y_Artistas_Relacionados_48.mp3
+
+	Radio: Pop
+	ACC: http://buecrplb01.cienradios.com.ar/1225_Pop_32000.aac
+	MP3: http://s_mobile.cienradios.com/1225_Pop_48.mp3
+
+	Radio: Radio Cerfoglio
+	ACC: http://buecrplb01.cienradios.com.ar/1220_Radio_Cerfoglio_32000.aac
+	MP3: http://s_mobile.cienradios.com/1220_Radio_Cerfoglio_48.mp3
+
+	Radio: Retromix
+	ACC: http://buecrplb01.cienradios.com.ar/592_Retromix_32000.aac
+	MP3: http://s_mobile.cienradios.com/592_Retromix_48.mp3
+
+	Radio: Whitney Houston y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/943_Whitney_Houston_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/943_Whitney_Houston_y_Art_Rel_48.mp3
+
+	Radio: Adele y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/948_Adele_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/948_Adele_y_Art_Rel_48.mp3
+
+	Radio: Adulto Contemporáneo
+	ACC: http://buecrplb01.cienradios.com.ar/793_Adulto_Contemporaneo_32000.aac
+	MP3: http://s_mobile.cienradios.com/793_Adulto_Contemporaneo_48.mp3
+
+	Radio: Beyoncé y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/986_Beyonce_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/986_Beyonce_y_Art_Rel_48.mp3
+
+	Radio: Black Eyed Peas y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/883_Black_Eyed_Peas_32000.aac
+	MP3: http://s_mobile.cienradios.com/883_Black_Eyed_Peas_48.mp3
+
+	Radio: Bruno Mars y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1364_Bruno_Mars_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1364_Bruno_Mars_y_Art_Rel_48.mp3
+
+	Radio: Campus 21
+	ACC: http://buecrplb01.cienradios.com.ar/871_Campus_21_32000.aac
+	MP3: http://s_mobile.cienradios.com/871_Campus_21_48.mp3
+
+	Radio: Coldplay y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/877_Coldplay_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/877_Coldplay_y_Art_Rel_48.mp3
+
+	Radio: Demi Lovato y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/875_Demi_Lovato_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/875_Demi_Lovato_y_Art_Rel_48.mp3
+
+	Radio: Estrenos
+	ACC: http://buecrplb01.cienradios.com.ar/751_Estrenos_32000.aac
+	MP3: http://s_mobile.cienradios.com/751_Estrenos_48.mp3
+
+	Radio: Glee y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/847_Glee_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/847_Glee_y_Art_Rel_48.mp3
+
+	Radio: Hot 100
+	ACC: http://buecrplb01.cienradios.com.ar/667_Hot_100_32000.aac
+	MP3: http://s_mobile.cienradios.com/667_Hot_100_48.mp3
+
+	Radio: Hot 100 Adulto Contemporáneo
+	ACC: http://buecrplb01.cienradios.com.ar/668_Hot_100_Adulto_Contemporaneo_32000.aac
+	MP3: http://s_mobile.cienradios.com/668_Hot_100_Adulto_Contemporaneo_48.mp3
+
+	Radio: Hot 100 Alemania
+	ACC: http://buecrplb01.cienradios.com.ar/669_Hot_100_Alemania_32000.aac
+	MP3: http://s_mobile.cienradios.com/669_Hot_100_Alemania_48.mp3
+
+	Radio: Hot 100 Canadá
+	ACC: http://buecrplb01.cienradios.com.ar/893_Hot_100_Canada_32000.aac
+	MP3: http://s_mobile.cienradios.com/893_Hot_100_Canada_48.mp3
+
+	Radio: Hot 100 España
+	ACC: http://buecrplb01.cienradios.com.ar/672_Hot_100_Espana_32000.aac
+	MP3: http://s_mobile.cienradios.com/672_Hot_100_Espana_48.mp3
+
+	Radio: Hot 100 Europa
+	ACC: http://buecrplb01.cienradios.com.ar/898_Hot_100_Europa_32000.aac
+	MP3: http://s_mobile.cienradios.com/898_Hot_100_Europa_48.mp3
+
+	Radio: Hot 100 México
+	ACC: http://buecrplb01.cienradios.com.ar/882_Hot_100_Mexico_32000.aac
+	MP3: http://s_mobile.cienradios.com/882_Hot_100_Mexico_48.mp3
+
+	Radio: Hot 100 Teen
+	ACC: http://buecrplb01.cienradios.com.ar/679_Hot_100_Teen_32000.aac
+	MP3: http://s_mobile.cienradios.com/679_Hot_100_Teen_48.mp3
+
+	Radio: Hot 100 UK
+	ACC: http://buecrplb01.cienradios.com.ar/891_Hot_100_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/891_Hot_100_UK_48.mp3
+
+	Radio: Hot 100 USA
+	ACC: http://buecrplb01.cienradios.com.ar/896_Hot_100_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/896_Hot_100_USA_48.mp3
+
+	Radio: I Teen
+	ACC: http://buecrplb01.cienradios.com.ar/908_I_Teen_32000.aac
+	MP3: http://s_mobile.cienradios.com/908_I_Teen_48.mp3
+
+	Radio: James Blunt y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/942_James_Blunt_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/942_James_Blunt_y_Art_Rel_48.mp3
+
+	Radio: Jonas Brothers y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/684_Jonas_Brothers_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/684_Jonas_Brothers_y_Artistas_Relacionados_48.mp3
+
+	Radio: Joss Stone y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1026_Joss_Stone_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1026_Joss_Stone_y_Art_Rel_48.mp3
+
+	Radio: Justin Bieber y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1085_Justin_Bieber_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/1085_Justin_Bieber_y_Art_Relac_48.mp3
+
+	Radio: Katy Perry y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/873_Katy_Perry_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/873_Katy_Perry_y_Art_Rel_48.mp3
+
+	Radio: Keane y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/927_Keane_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/927_Keane_y_Art_Rel_48.mp3
+
+	Radio: Lady Gaga y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/876_Lady_Gaga_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/876_Lady_Gaga_y_Art_Rel_48.mp3
+
+	Radio: New Party Radio
+	ACC: http://buecrplb01.cienradios.com.ar/723_New_Party_Radio_32000.aac
+	MP3: http://s_mobile.cienradios.com/723_New_Party_Radio_48.mp3
+
+	Radio: Pitbull y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1282_Pitbull_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1282_Pitbull_y_Art_Rel_48.mp3
+
+	Radio: Rihanna y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/994_Rihanna_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/994_Rihanna_y_Art_Rel_48.mp3
+
+	Radio: Rumbos
+	ACC: http://buecrplb01.cienradios.com.ar/1412_Rumbos_32000.aac
+	MP3: http://s_mobile.cienradios.com/1412_Rumbos_48.mp3
+
+	Radio: Selena Gómez y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/818_Selena_Gomez_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/818_Selena_Gomez_y_Art_Rel_48.mp3
+
+ 	Radio: Selfie Radio
+ 	ACC: http://buecrplb01.cienradios.com.ar/1086_Selfie_Radio_32000.aac
+ 	MP3: http://s_mobile.cienradios.com/1086_Selfie_Radio_48.mp3
+
+	Radio: Taylor Swift y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1213_Taylor_Swift_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1213_Taylor_Swift_y_Art_Rel_48.mp3
+
+	Radio: Teen
+	ACC: http://buecrplb01.cienradios.com.ar/643_Teen_32000.aac
+	MP3: http://s_mobile.cienradios.com/643_Teen_48.mp3
+
+	Radio: Top 40
+	ACC: http://buecrplb01.cienradios.com.ar/1083_Top_40_32000.aac
+	MP3: http://s_mobile.cienradios.com/1083_Top_40_48.mp3
+
+	Radio: Top Europa
+	ACC: http://buecrplb01.cienradios.com.ar/776_Top_Europa_32000.aac
+	MP3: http://s_mobile.cienradios.com/776_Top_Europa_48.mp3
+
+	Radio: Top Uk
+	ACC: http://buecrplb01.cienradios.com.ar/781_Top_Uk_32000.aac
+	MP3: http://s_mobile.cienradios.com/781_Top_Uk_48.mp3
+
+	Radio: Top USA
+	ACC: http://buecrplb01.cienradios.com.ar/777_Top_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/777_Top_USA_48.mp3
+
+	Radio: Abraham Mateo y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1258_Abraham_Mateo_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1258_Abraham_Mateo_y_Art_Rel_48.mp3
+
+	Radio: Big Time Rush y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/992_Big_Time_Rush_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/992_Big_Time_Rush_y_Art_Rel_48.mp3
+
+	Radio: K Pop
+	ACC: http://buecrplb01.cienradios.com.ar/947_K_Pop_32000.aac
+	MP3: http://s_mobile.cienradios.com/947_K_Pop_48.mp3
+
+	Radio: Maroon 5 y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1008_Maroon_5_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1008_Maroon_5_y_Art_Rel_48.mp3
+
+	Radio: Miley Cyrus y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/715_Miley_Cyrus_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/715_Miley_Cyrus_y_Artistas_Relacionados_48.mp3
+
+	Radio: Miranda y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/920_Miranda_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/920_Miranda_y_Art_Rel_48.mp3
+
+	Radio: Miss 15
+	ACC: http://buecrplb01.cienradios.com.ar/718_Miss_15_32000.aac
+	MP3: http://s_mobile.cienradios.com/718_Miss_15_48.mp3
+
+	Radio: One Direction y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/990_One_Direction_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/990_One_Direction_y_Art_Rel_48.mp3
+
+	Radio: Princesas
+	ACC: http://buecrplb01.cienradios.com.ar/741_Princesas_32000.aac
+	MP3: http://s_mobile.cienradios.com/741_Princesas_48.mp3
+
+	Radio: Teen Girls
+	ACC: http://buecrplb01.cienradios.com.ar/905_Teen_Girls_32000.aac
+	MP3: http://s_mobile.cienradios.com/905_Teen_Girls_48.mp3
+
+	Radio: Teen Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/773_Teen_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/773_Teen_Internacional_48.mp3
+
+	Radio: Teen Series y Peliculas
+	ACC: http://buecrplb01.cienradios.com.ar/1032_Teen_Series_y_Peliculas_32000.aac
+	MP3: http://s_mobile.cienradios.com/1032_Teen_Series_y_Peliculas_48.mp3
+
+	Radio: Amy Winehouse y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/854_Amy_Winehouse_32000.aac
+	MP3: http://s_mobile.cienradios.com/854_Amy_Winehouse_48.mp3
+
+	Radio: Carly Simon y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1053_Carly_Simon_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1053_Carly_Simon_y_Art_Rel_48.mp3
+
+	Radio: Ed Sheeran y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1269_Ed_Sheeran_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1269_Ed_Sheeran_y_Art_Rel_48.mp3
+
+	Radio: Elton John y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/903_Elton_John_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/903_Elton_John_y_Art_Rel_48.mp3
+
+	Radio: Lentos 2000
+	ACC: http://buecrplb01.cienradios.com.ar/936_Lentos_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/936_Lentos_2000_48.mp3
+
+	Radio: Lounge
+	ACC: http://buecrplb01.cienradios.com.ar/709_Lounge_32000.aac
+	MP3: http://s_mobile.cienradios.com/709_Lounge_48.mp3
+
+	Radio: Michael Buble y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/945_Michael_Buble_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/945_Michael_Buble_y_Art_Rel_48.mp3
+
+	Radio: Neo Soul
+	ACC: http://buecrplb01.cienradios.com.ar/1075_Neo_Soul_32000.aac
+	MP3: http://s_mobile.cienradios.com/1075_Neo_Soul_48.mp3
+
+	Radio: Norah Jones y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1012_Norah_Jones_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1012_Norah_Jones_y_Art_Rel_48.mp3
+
+	Radio: Prince y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/740_Prince_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/740_Prince_y_Artistas_Relacionados_48.mp3
+
+	Radio: Sting y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/962_Sting_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/962_Sting_y_Art_Rel_48.mp3
+
+	Radio: New Order y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/915_New_Order_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/915_New_Order_y_Art_Rel_48.mp3
+
+	Radio: Tan Bionica y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1087_Tan_Bionica_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1087_Tan_Bionica_y_Art_Rel_48.mp3
+
+	Radio: Enamorados
+	ACC: http://buecrplb01.cienradios.com.ar/802_Enamorados_32000.aac
+	MP3: http://s_mobile.cienradios.com/802_Enamorados_48.mp3
+
+	Radio: Lentos
+	ACC: http://buecrplb01.cienradios.com.ar/794_Lentos_32000.aac
+	MP3: http://s_mobile.cienradios.com/794_Lentos_48.mp3
+
+	Radio: Lentos 60
+	ACC: http://buecrplb01.cienradios.com.ar/690_Lentos_60_32000.aac
+	MP3: http://s_mobile.cienradios.com/690_Lentos_60_48.mp3
+
+	Radio: Lentos 70
+	ACC: http://buecrplb01.cienradios.com.ar/691_Lentos_70_32000.aac
+	MP3: http://s_mobile.cienradios.com/691_Lentos_70_48.mp3
+
+	Radio: Lentos 80
+	ACC: http://buecrplb01.cienradios.com.ar/586_Lentos_80_32000.aac
+	MP3: http://s_mobile.cienradios.com/586_Lentos_80_48.mp3
+
+	Radio: Lentos 90
+	ACC: http://buecrplb01.cienradios.com.ar/692_Lentos_90_32000.aac
+	MP3: http://s_mobile.cienradios.com/692_Lentos_90_48.mp3
+
+	Radio: Abba y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/620_Abba_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/620_Abba_y_Art_Relac_48.mp3
+
+	Radio: Bee Gees y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/954_Bee_Gees_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/954_Bee_Gees_y_Art_Rel_48.mp3
+
+	Radio: Egresados 1975
+	ACC: http://buecrplb01.cienradios.com.ar/868_Egresados_1975_32000.aac
+	MP3: http://s_mobile.cienradios.com/868_Egresados_1975_48.mp3
+
+	Radio: Egresados 1976
+	ACC: http://buecrplb01.cienradios.com.ar/867_Egresados_1976_32000.aac
+	MP3: http://s_mobile.cienradios.com/867_Egresados_1976_48.mp3
+
+	Radio: Egresados 1977
+	ACC: http://buecrplb01.cienradios.com.ar/866_Egresados_1977_32000.aac
+	MP3: http://s_mobile.cienradios.com/866_Egresados_1977_48.mp3
+
+	Radio: Egresados 1978
+	ACC: http://buecrplb01.cienradios.com.ar/865_Egresados_1978_32000.aac
+	MP3: http://s_mobile.cienradios.com/865_Egresados_1978_48.mp3
+
+	Radio: Egresados 1979
+	ACC: http://buecrplb01.cienradios.com.ar/864_Egresados_1979_32000.aac
+	MP3: http://s_mobile.cienradios.com/864_Egresados_1979_48.mp3
+
+	Radio: Los Numero 1 de los 70 USA
+	ACC: http://buecrplb01.cienradios.com.ar/1076_Los_Numero_1_de_los_70_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/1076_Los_Numero_1_de_los_70_USA_48.mp3
+
+	Radio: Party Dance
+	ACC: http://buecrplb01.cienradios.com.ar/734_Party_Dance_32000.aac
+	MP3: http://s_mobile.cienradios.com/734_Party_Dance_48.mp3
+
+Categoria: R&B y Hip Hop
+	Radio: Adele y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/948_Adele_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/948_Adele_y_Art_Rel_48.mp3
+
+	Radio: Amy Winehouse y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/854_Amy_Winehouse_32000.aac
+	MP3: http://s_mobile.cienradios.com/854_Amy_Winehouse_48.mp3
+
+	Radio: Beyoncé y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/986_Beyonce_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/986_Beyonce_y_Art_Rel_48.mp3
+
+	Radio: Hot 100 Hip Hop
+	ACC: http://buecrplb01.cienradios.com.ar/673_Hot_100_Hip_Hop_32000.aac
+	MP3: http://s_mobile.cienradios.com/673_Hot_100_Hip_Hop_48.mp3
+
+	Radio: IKV y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1054_IKV_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1054_IKV_y_Art_Rel_48.mp3
+
+	Radio: Joss Stone y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1026_Joss_Stone_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1026_Joss_Stone_y_Art_Rel_48.mp3
+
+	Radio: Michael Jackson y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/714_Michael_Jackson_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/714_Michael_Jackson_y_Artistas_Relacionados_48.mp3
+
+	Radio: Neo Soul
+	ACC: http://buecrplb01.cienradios.com.ar/1075_Neo_Soul_32000.aac
+	MP3: http://s_mobile.cienradios.com/1075_Neo_Soul_48.mp3
+
+	Radio: Prince y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/740_Prince_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/740_Prince_y_Artistas_Relacionados_48.mp3
+
+	Radio: Smooth Jazz
+	ACC: http://buecrplb01.cienradios.com.ar/771_Smooth_Jazz_32000.aac
+	MP3: http://s_mobile.cienradios.com/771_Smooth_Jazz_48.mp3
+
+	Radio: Stevie Wonder y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/926_Stevie_Wonder_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/926_Stevie_Wonder_y_Art_Rel_48.mp3
+
+	Radio: Tina Turner y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/987_Tina_Turner_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/987_Tina_Turner_y_Art_Rel_48.mp3
+
+	Radio: Whitney Houston y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/943_Whitney_Houston_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/943_Whitney_Houston_y_Art_Rel_48.mp3
+
+	Radio: Arte Urbano
+	ACC: http://buecrplb01.cienradios.com.ar/745_Arte_Urbano_32000.aac
+	MP3: http://s_mobile.cienradios.com/745_Arte_Urbano_48.mp3
+
+	Radio: Black Eyed Peas y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/883_Black_Eyed_Peas_32000.aac
+	MP3: http://s_mobile.cienradios.com/883_Black_Eyed_Peas_48.mp3
+
+	Radio: Calle 13 y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1027_Calle_13_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1027_Calle_13_y_Art_Rel_48.mp3
+
+	Radio: Hot 100 USA
+	ACC: http://buecrplb01.cienradios.com.ar/896_Hot_100_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/896_Hot_100_USA_48.mp3
+
+	Radio: Pitbull y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1282_Pitbull_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1282_Pitbull_y_Art_Rel_48.mp3
+
+Categoria: Reggae
+	Radio: Bob Marley y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/617_Bob_Marley_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/617_Bob_Marley_y_Artistas_Relacionados_48.mp3
+
+	Radio: Putumayo
+	ACC: http://buecrplb01.cienradios.com.ar/833_Putumayo_32000.aac
+	MP3: http://s_mobile.cienradios.com/833_Putumayo_48.mp3
+
+	Radio: Reggae
+	ACC: http://buecrplb01.cienradios.com.ar/758_Reggae_32000.aac
+	MP3: http://s_mobile.cienradios.com/758_Reggae_48.mp3
+
+	Radio: Covers Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/932_Covers_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/932_Covers_Nacional_48.mp3
+
+	Radio: Dread Mar I y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1013_Dread_Mar_I_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1013_Dread_Mar_I_y_Art_Rel_48.mp3
+
+	Radio: Los Pericos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/789_Los_Pericos_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/789_Los_Pericos_y_Art_Relac_48.mp3
+
+	Radio: Reggae Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/974_Reggae_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/974_Reggae_Nacional_48.mp3
+
+	Radio: Rock Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/597_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/597_Nacional_48.mp3
+
+	Radio: Top 40
+	ACC: http://buecrplb01.cienradios.com.ar/1083_Top_40_32000.aac
+	MP3: http://s_mobile.cienradios.com/1083_Top_40_48.mp3
+
+Categoria: Religiosas/Espirituales
+	Radio: Bautista
+	ACC: http://buecrplb01.cienradios.com.ar/747_Bautista_32000.aac
+	MP3: http://s_mobile.cienradios.com/747_Bautista_48.mp3
+
+	Radio: Cristiana
+	ACC: http://buecrplb01.cienradios.com.ar/799_Cristiana_32000.aac
+	MP3: http://s_mobile.cienradios.com/799_Cristiana_48.mp3
+
+	Radio: Del Camino
+	ACC: http://buecrplb01.cienradios.com.ar/601_Del_Camino_32000.aac
+	MP3: http://s_mobile.cienradios.com/601_Del_Camino_48.mp3
+
+	Radio: Góspel y Cristiana
+	ACC: http://buecrplb01.cienradios.com.ar/660_Gospel_y_Cristiana_32000.aac
+	MP3: http://s_mobile.cienradios.com/660_Gospel_y_Cristiana_48.mp3
+
+	Radio: Hot 100 Navidad
+	ACC: http://buecrplb01.cienradios.com.ar/919_Hot_100_Navidad_32000.aac
+	MP3: http://s_mobile.cienradios.com/919_Hot_100_Navidad_48.mp3
+
+	Radio: Restauración
+	ACC: http://buecrplb01.cienradios.com.ar/1319_Restauracion_32000.aac
+	MP3: http://s_mobile.cienradios.com/1319_Restauracion_48.mp3
+
+	Radio: Stamateas Para Todos
+	ACC: http://buecrplb01.cienradios.com.ar/823_Stamateas_Para_Todos_32000.aac
+	MP3: http://s_mobile.cienradios.com/823_Stamateas_Para_Todos_48.mp3
+
+	Radio: New Age
+	ACC: http://buecrplb01.cienradios.com.ar/722_New_Age_32000.aac
+	MP3: http://s_mobile.cienradios.com/722_New_Age_48.mp3
+
+	Radio: Reiki
+	ACC: http://buecrplb01.cienradios.com.ar/761_Reiki_32000.aac
+	MP3: http://s_mobile.cienradios.com/761_Reiki_48.mp3
+
+	Radio: Relax y Meditación
+	ACC: http://buecrplb01.cienradios.com.ar/1074_Relax_y_Meditacion_32000.aac
+	MP3: http://s_mobile.cienradios.com/1074_Relax_y_Meditacion_48.mp3
+
+	Radio: Yoga
+	ACC: http://buecrplb01.cienradios.com.ar/785_Yoga_32000.aac
+	MP3: http://s_mobile.cienradios.com/785_Yoga_48.mp3
+
+Categoria: Rock
+	Radio: 50
+	ACC: http://buecrplb01.cienradios.com.ar/611_50_32000.aac
+	MP3: http://s_mobile.cienradios.com/611_50_48.mp3
+
+	Radio: 80 90 Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/792_80_90_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/792_80_90_Internacional_48.mp3
+
+	Radio: 80 Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/808_80_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/808_80_Internacional_48.mp3
+
+	Radio: AC DC y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/624_AC_DC_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/624_AC_DC_y_Artistas_Relacionados_48.mp3
+
+	Radio: Aerosmith y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/829_Aerosmith_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/829_Aerosmith_y_Art_Rel_48.mp3
+
+	Radio: Beach Boys y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/960_Beach_Boys_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/960_Beach_Boys_y_Art_Rel_48.mp3
+
+	Radio: Bee Gees y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/954_Bee_Gees_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/954_Bee_Gees_y_Art_Rel_48.mp3
+
+    Radio: Billy Joel y Artistas Relacionados
+        AAC: http://buecrplb01.cienradios.com.ar/966_Billy_Joel_y_Art_Rel_32000.aac
+        MP3: http://s_mobile.cienradios.com/966_Billy_Joel_y_Art_Rel_48.mp3
+
+	Radio: Bob Dylan y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/965_Bob_Dylan_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/965_Bob_Dylan_y_Art_Rel_48.mp3
+
+	Radio: Bon Jovi y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/913_Bon_Jovi_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/913_Bon_Jovi_y_Art_Rel_48.mp3
+
+	Radio: Britpop
+	ACC: http://buecrplb01.cienradios.com.ar/625_Britpop_32000.aac
+	MP3: http://s_mobile.cienradios.com/625_Britpop_48.mp3
+
+	Radio: Bryan Adams y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/887_Bryan_Adams_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/887_Bryan_Adams_y_Art_Rel_48.mp3
+
+	Radio: Creedence y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/827_Creedence_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/827_Creedence_y_Art_Rel_48.mp3
+
+	Radio: David Bowie y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/892_David_Bowie_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/892_David_Bowie_y_Art_Rel_48.mp3
+
+	Radio: Deep Purple y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/901_Deep_Purple_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/901_Deep_Purple_y_Art_Rel_48.mp3
+
+	Radio: Depeche Mode y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/963_Depeche_Mode_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/963_Depeche_Mode_y_Art_Rel_48.mp3
+
+	Radio: Duran Duran y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/969_Duran_Duran_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/969_Duran_Duran_y_Art_Rel_48.mp3
+
+	Radio: Elton John y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/903_Elton_John_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/903_Elton_John_y_Art_Rel_48.mp3
+
+	Radio: Elvis Presley y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/651_Elvis_Presley_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/651_Elvis_Presley_y_Artistas_Relacionados_48.mp3
+
+	Radio: Eric Clapton y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/879_Eric_Clapton_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/879_Eric_Clapton_y_Art_Rel_48.mp3
+
+	Radio: Foo Fighters y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/961_Foo_Fighters_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/961_Foo_Fighters_y_Art_Rel_48.mp3
+
+	Radio: Gen
+	ACC: http://buecrplb01.cienradios.com.ar/658_Gen_32000.aac
+	MP3: http://s_mobile.cienradios.com/658_Gen_48.mp3
+
+	Radio: Génesis y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/890_Genesis_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/890_Genesis_y_Art_Rel_48.mp3
+
+	Radio: George Harrison y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/911_George_Harrison_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/911_George_Harrison_y_Art_Rel_48.mp3
+
+	Radio: Grandes Del Rock
+	ACC: http://buecrplb01.cienradios.com.ar/662_Grandes_Del_Rock_32000.aac
+	MP3: http://s_mobile.cienradios.com/662_Grandes_Del_Rock_48.mp3
+
+	Radio: Green Day y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1031_Green_Day_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1031_Green_Day_y_Art_Rel_48.mp3
+
+	Radio: Guns N Roses y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/664_Guns_N_Roses_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/664_Guns_N_Roses_y_Artistas_Relacionados_48.mp3
+
+	Radio: Heavy Metal
+	ACC: http://buecrplb01.cienradios.com.ar/665_Heavy_Metal_32000.aac
+	MP3: http://s_mobile.cienradios.com/665_Heavy_Metal_48.mp3
+
+	Radio: Iggy Pop y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1016_Iggy_Pop_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1016_Iggy_Pop_y_Art_Rel_48.mp3
+
+	Radio: John Lennon y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/682_John_Lennon_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/682_John_Lennon_y_Artistas_Relacionados_48.mp3
+
+	Radio: John Paul George and Ringo
+	ACC: http://buecrplb01.cienradios.com.ar/683_John_Paul_George_and_Ringo_32000.aac
+	MP3: http://s_mobile.cienradios.com/683_John_Paul_George_and_Ringo_48.mp3
+
+	Radio: Kiss y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/968_Kiss_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/968_Kiss_y_Art_Rel_48.mp3
+
+	Radio: Led Zeppelin y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/984_Led_Zeppelin_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/984_Led_Zeppelin_y_Art_Rel_48.mp3
+
+	Radio: Lenny Kravitz y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/872_Lenny_Kravitz_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/872_Lenny_Kravitz_y_Art_Rel_48.mp3
+
+	Radio: Metallica y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/967_Metallica_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/967_Metallica_y_Art_Rel_48.mp3
+
+	Radio: New Order y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/915_New_Order_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/915_New_Order_y_Art_Rel_48.mp3
+
+	Radio: Nirvana y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/912_Nirvana_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/912_Nirvana_y_Art_Rel_48.mp3
+
+	Radio: No Doubt y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1010_No_Doubt_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1010_No_Doubt_y_Art_Rel_48.mp3
+
+	Radio: Nuevos Clásicos Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/590_Nuevos_Clasicos_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/590_Nuevos_Clasicos_Internacional_48.mp3
+
+	Radio: Oasis y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/885_Oasis_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/885_Oasis_y_Art_Rel_48.mp3
+
+	Radio: Ozzy Osbourne y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/809_Ozzy_Osbourne_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/809_Ozzy_Osbourne_y_Art_Rel_48.mp3
+
+	Radio: Paul McCartney y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/735_Paul_McCartney_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/735_Paul_McCartney_y_Artistas_Relacionados_48.mp3
+
+	Radio: Pearl Jam y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/895_Pearl_Jam_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/895_Pearl_Jam_y_Art_Rel_48.mp3
+
+	Radio: Peter Gabriel y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/899_Peter_Gabriel_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/899_Peter_Gabriel_y_Art_Rel_48.mp3
+
+	Radio: Pink Floyd y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/626_Pink_Floyd_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/626_Pink_Floyd_y_Artistas_Relacionados_48.mp3
+
+	Radio: Power Ballads
+	ACC: http://buecrplb01.cienradios.com.ar/738_Power_Ballads_32000.aac
+	MP3: http://s_mobile.cienradios.com/738_Power_Ballads_48.mp3
+
+	Radio: Queen y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/743_Queen_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/743_Queen_y_Artistas_Relacionados_48.mp3
+
+	Radio: Radio Lape
+	ACC: http://buecrplb01.cienradios.com.ar/753_Radio_Lape_32000.aac
+	MP3: http://s_mobile.cienradios.com/753_Radio_Lape_48.mp3
+
+	Radio: Radio X
+	ACC: http://buecrplb01.cienradios.com.ar/602_Radio_X_32000.aac
+	MP3: http://s_mobile.cienradios.com/602_Radio_X_48.mp3
+
+	Radio: Red Hot Chili Peppers y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/852_Red_Hot_Chili_Peppers_32000.aac
+	MP3: http://s_mobile.cienradios.com/852_Red_Hot_Chili_Peppers_48.mp3
+
+	Radio: REM y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/970_REM_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/970_REM_y_Artistas_Relacionados_48.mp3
+
+	Radio: Rod Stewart y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/874_Rod_Stewart_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/874_Rod_Stewart_y_Art_Rel_48.mp3
+
+	Radio: Roger Waters y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/949_Roger_Waters_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/949_Roger_Waters_y_Art_Rel_48.mp3
+
+	Radio: Roxette y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/917_Roxette_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/917_Roxette_y_Art_Rel_48.mp3
+
+	Radio: Santana y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1036_Santana_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1036_Santana_y_Art_Rel_48.mp3
+
+	Radio: Stevie Wonder y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/926_Stevie_Wonder_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/926_Stevie_Wonder_y_Art_Rel_48.mp3
+
+	Radio: Sting y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/962_Sting_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/962_Sting_y_Art_Rel_48.mp3
+
+	Radio: Tears For Fears y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/888_Tears_For_Fears_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/888_Tears_For_Fears_y_Art_Rel_48.mp3
+
+	Radio: The Beatles y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/638_The_Beatles_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/638_The_Beatles_y_Artistas_Relacionados_48.mp3
+
+	Radio: The Clash y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1003_The_Clash_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1003_The_Clash_y_Art_Rel_48.mp3
+
+	Radio: The Cure y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/836_The_Cure_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/836_The_Cure_y_Art_Rel_48.mp3
+
+	Radio: The Doors y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/978_The_Doors_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/978_The_Doors_y_Art_Rel_48.mp3
+
+	Radio: The Police y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/775_The_Police_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/775_The_Police_y_Artistas_Relacionados_48.mp3
+
+	Radio: The Ramones y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/757_The_Ramones_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/757_The_Ramones_y_Artistas_Relacionados_48.mp3
+
+	Radio: The Rolling Stones y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/765_The_Rolling_Stones_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/765_The_Rolling_Stones_y_Artistas_Relacionados_48.mp3
+
+	Radio: Tina Turner y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/987_Tina_Turner_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/987_Tina_Turner_y_Art_Rel_48.mp3
+
+	Radio: U2 y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/805_U2_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/805_U2_y_Artistas_Relacionados_48.mp3
+
+	Radio: Arctic Monkeys y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1221_Arctic_Monkeys_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1221_Arctic_Monkeys_y_Art_Rel_48.mp3
+
+	Radio: Coldplay y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/877_Coldplay_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/877_Coldplay_y_Art_Rel_48.mp3
+
+	Radio: Estrenos
+	ACC: http://buecrplb01.cienradios.com.ar/751_Estrenos_32000.aac
+	MP3: http://s_mobile.cienradios.com/751_Estrenos_48.mp3
+
+	Radio: Hot 100 Rock
+	ACC: http://buecrplb01.cienradios.com.ar/676_Hot_100_Rock_32000.aac
+	MP3: http://s_mobile.cienradios.com/676_Hot_100_Rock_48.mp3
+
+	Radio: Keane y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/927_Keane_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/927_Keane_y_Art_Rel_48.mp3
+
+	Radio: Muse y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/980_Muse_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/980_Muse_y_Art_Rel_48.mp3
+
+	Radio: Rock Alternativo
+	ACC: http://buecrplb01.cienradios.com.ar/816_Rock_Alternativo_32000.aac
+	MP3: http://s_mobile.cienradios.com/816_Rock_Alternativo_48.mp3
+
+	Radio: Rock Hits
+	ACC: http://buecrplb01.cienradios.com.ar/764_Rock_Hits_32000.aac
+	MP3: http://s_mobile.cienradios.com/764_Rock_Hits_48.mp3
+
+	Radio: The Killers y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/973_The_Killers_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/973_The_Killers_y_Art_Rel_48.mp3
+
+	Radio: 80 90 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/589_80_90_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/589_80_90_Nacional_48.mp3
+
+	Radio: 80 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/575_80_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/575_80_Nacional_48.mp3
+
+	Radio: 80 Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/571_80_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/571_80_Nacional_E_Internacional_48.mp3
+
+	Radio: 90 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/634_90_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/634_90_Nacional_48.mp3
+
+	Radio: 90 Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/955_90_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/955_90_Nacional_E_Internacional_48.mp3
+
+	Radio: Andres Calamaro y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/641_Andres_Calamaro_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/641_Andres_Calamaro_y_Artistas_Relacionados_48.mp3
+
+	Radio: Attaque 77 y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/636_Attaque_77_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/636_Attaque_77_y_Artistas_Relacionados_48.mp3
+
+	Radio: Auténticos Decadentes y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/940_Autenticos_Decadentes_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/940_Autenticos_Decadentes_y_Art_Rel_48.mp3
+
+	Radio: Babasonicos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/859_Babasonicos_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/859_Babasonicos_y_Art_Rel_48.mp3
+
+	Radio: Bersuit Vergarabat y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/614_Bersuit_Vergarabat_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/614_Bersuit_Vergarabat_y_Art_Relac_48.mp3
+
+	Radio: Catupecu Machu y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/918_Catupecu_Machu_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/918_Catupecu_Machu_y_Art_Rel_48.mp3
+
+	Radio: Charly Garcia y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/644_Charly_Garcia_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/644_Charly_Garcia_y_Artistas_Relacionados_48.mp3
+
+	Radio: Covers Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/932_Covers_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/932_Covers_Nacional_48.mp3
+
+	Radio: Divididos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/604_Divididos_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/604_Divididos_y_Art_Relac_48.mp3
+
+	Radio: Exito a la Vista
+	ACC: http://buecrplb01.cienradios.com.ar/603_Exito_a_la_Vista_32000.aac
+	MP3: http://s_mobile.cienradios.com/603_Exito_a_la_Vista_48.mp3
+
+	Radio: Fabiana Cantilo y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/975_Fabiana_Cantilo_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/975_Fabiana_Cantilo_y_Art_Rel_48.mp3
+
+	Radio: Fito Paez y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/654_Fito_Paez_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/654_Fito_Paez_y_Artistas_Relacionados_48.mp3
+
+	Radio: Gustavo Cerati y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1091_Gustavo_Cerati_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1091_Gustavo_Cerati_y_Art_Rel_48.mp3
+
+	Radio: Heavy Metal Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/1022_Heavy_Metal_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/1022_Heavy_Metal_Nacional_48.mp3
+
+	Radio: Hot 100 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/674_Hot_100_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/674_Hot_100_Nacional_48.mp3
+
+	Radio: IKV y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1054_IKV_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1054_IKV_y_Art_Rel_48.mp3
+
+	Radio: Indie Argentino
+	ACC: http://buecrplb01.cienradios.com.ar/1313_Indie_Argentino_32000.aac
+	MP3: http://s_mobile.cienradios.com/1313_Indie_Argentino_48.mp3
+
+	Radio: Ivan Noble y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/680_Ivan_Noble_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/680_Ivan_Noble_y_Art_Relac_48.mp3
+
+	Radio: Kapanga y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1067_Kapanga_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1067_Kapanga_y_Art_Rel_48.mp3
+
+	Radio: La Renga y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/897_La_Renga_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/897_La_Renga_y_Art_Rel_48.mp3
+
+	Radio: Los Fabulosos Cadillacs y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/653_Los_Fabulosos_Cadillacs_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/653_Los_Fabulosos_Cadillacs_y_Artistas_Relacionados_48.mp3
+
+	Radio: Los Pericos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/789_Los_Pericos_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/789_Los_Pericos_y_Art_Relac_48.mp3
+
+	Radio: Los Piojos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/707_Los_Piojos_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/707_Los_Piojos_y_Artistas_Relacionados_48.mp3
+
+	Radio: Los Redondos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/763_Los_Redondos_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/763_Los_Redondos_y_Artistas_Relacionados_48.mp3
+
+	Radio: Los Tipitos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/944_Los_Tipitos_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/944_Los_Tipitos_y_Art_Rel_48.mp3
+
+	Radio: Matador
+	ACC: http://buecrplb01.cienradios.com.ar/1042_Matador_32000.aac
+	MP3: http://s_mobile.cienradios.com/1042_Matador_48.mp3
+
+	Radio: Nuevos Clásicos Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/726_Nuevos_Clasicos_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/726_Nuevos_Clasicos_Nacional_48.mp3
+
+	Radio: Nuevos Clásicos Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/725_Nuevos_Clasicos_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/725_Nuevos_Clasicos_Nacional_E_Internacional_48.mp3
+
+	Radio: Quiero
+	ACC: http://buecrplb01.cienradios.com.ar/744_Quiero_32000.aac
+	MP3: http://s_mobile.cienradios.com/744_Quiero_48.mp3
+
+	Radio: Radio El Pelado
+	ACC: http://buecrplb01.cienradios.com.ar/754_Radio_El_Pelado_32000.aac
+	MP3: http://s_mobile.cienradios.com/754_Radio_El_Pelado_48.mp3
+
+	Radio: Radio Olé
+	ACC: http://buecrplb01.cienradios.com.ar/993_radiole_32000.aac
+	MP3: http://s_mobile.cienradios.com/993_radiole_48.mp3
+
+	Radio: Rock Alternativo Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/826_Rock_Alternativo_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/826_Rock_Alternativo_Nacional_48.mp3
+
+	Radio: Rock Latinoamericano
+	ACC: http://buecrplb01.cienradios.com.ar/964_Rock_Latinoamericano_32000.aac
+	MP3: http://s_mobile.cienradios.com/964_Rock_Latinoamericano_48.mp3
+
+	Radio: Rock Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/597_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/597_Nacional_48.mp3
+
+	Radio: Sí
+	ACC: http://buecrplb01.cienradios.com.ar/770_Si_32000.aac
+	MP3: http://s_mobile.cienradios.com/770_Si_48.mp3
+
+	Radio: Soda Stereo y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/772_Soda_Stereo_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/772_Soda_Stereo_y_Artistas_Relacionados_48.mp3
+
+	Radio: Tan Bionica y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1087_Tan_Bionica_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1087_Tan_Bionica_y_Art_Rel_48.mp3
+
+	Radio: Vicentico y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1044_Vicentico_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1044_Vicentico_y_Art_Rel_48.mp3
+
+	Radio: Vivo Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/953_Vivo_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/953_Vivo_Nacional_48.mp3
+
+	Radio: No Te Va Gustar y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/951_No_Te_Va_Gustar_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/951_No_Te_Va_Gustar_y_Art_Rel_48.mp3
+
+	Radio: Frank Zappa y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/657_Frank_Zappa_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/657_Frank_Zappa_y_Artistas_Relacionados_48.mp3
+
+	Radio: Freddie Mercury y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1048_Freddie_Mercury_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1048_Freddie_Mercury_y_Art_Rel_48.mp3
+
+	Radio: Ed Sheeran y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1269_Ed_Sheeran_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1269_Ed_Sheeran_y_Art_Rel_48.mp3
+
+	Radio: Hot 100 UK
+	ACC: http://buecrplb01.cienradios.com.ar/891_Hot_100_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/891_Hot_100_UK_48.mp3
+
+	Radio: Los Numero 1 de los 80 UK
+	ACC: http://buecrplb01.cienradios.com.ar/1034_Los_Numero_1_de_los_80_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/1034_Los_Numero_1_de_los_80_UK_48.mp3
+
+	Radio: Los Numero 1 de los 90 UK
+	ACC: http://buecrplb01.cienradios.com.ar/1047_Los_Numero_1_de_los_90_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/1047_Los_Numero_1_de_los_90_UK_48.mp3
+
+	Radio: Top Uk
+	ACC: http://buecrplb01.cienradios.com.ar/781_Top_Uk_32000.aac
+	MP3: http://s_mobile.cienradios.com/781_Top_Uk_48.mp3
+
+	Radio: Calle 13 y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1027_Calle_13_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1027_Calle_13_y_Art_Rel_48.mp3
+
+	Radio: León Gieco y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/907_Leon_Gieco_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/907_Leon_Gieco_y_Art_Rel_48.mp3
+
+	Radio: Pasión por la Vida
+	ACC: http://buecrplb01.cienradios.com.ar/950_Pasion_por_la_Vida_32000.aac
+	MP3: http://s_mobile.cienradios.com/950_Pasion_por_la_Vida_48.mp3
+
+	Radio: Carly Simon y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1053_Carly_Simon_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1053_Carly_Simon_y_Art_Rel_48.mp3
+
+	Radio: Lentos
+	ACC: http://buecrplb01.cienradios.com.ar/794_Lentos_32000.aac
+	MP3: http://s_mobile.cienradios.com/794_Lentos_48.mp3
+
+	Radio: Lentos 2000
+	ACC: http://buecrplb01.cienradios.com.ar/936_Lentos_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/936_Lentos_2000_48.mp3
+
+	Radio: Lentos 60
+	ACC: http://buecrplb01.cienradios.com.ar/690_Lentos_60_32000.aac
+	MP3: http://s_mobile.cienradios.com/690_Lentos_60_48.mp3
+
+	Radio: Lentos 70
+	ACC: http://buecrplb01.cienradios.com.ar/691_Lentos_70_32000.aac
+	MP3: http://s_mobile.cienradios.com/691_Lentos_70_48.mp3
+
+	Radio: Lentos 80
+	ACC: http://buecrplb01.cienradios.com.ar/586_Lentos_80_32000.aac
+	MP3: http://s_mobile.cienradios.com/586_Lentos_80_48.mp3
+
+	Radio: Lentos 90
+	ACC: http://buecrplb01.cienradios.com.ar/692_Lentos_90_32000.aac
+	MP3: http://s_mobile.cienradios.com/692_Lentos_90_48.mp3
+
+	Radio: Erasure y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/855_Erasure_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/855_Erasure_y_Art_Rel_48.mp3
+
+Categoria: Rock & Pop
+	Radio: 80 90 Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/792_80_90_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/792_80_90_Internacional_48.mp3
+
+	Radio: 80 90 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/589_80_90_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/589_80_90_Nacional_48.mp3
+
+	Radio: 80 Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/808_80_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/808_80_Internacional_48.mp3
+
+	Radio: 80 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/575_80_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/575_80_Nacional_48.mp3
+
+	Radio: 80 Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/571_80_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/571_80_Nacional_E_Internacional_48.mp3
+
+	Radio: 90 Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/633_90_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/633_90_Internacional_48.mp3
+
+	Radio: 90 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/634_90_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/634_90_Nacional_48.mp3
+
+	Radio: 90 Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/955_90_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/955_90_Nacional_E_Internacional_48.mp3
+
+	Radio: Del Lago
+	ACC: http://buecrplb01.cienradios.com.ar/825_Del_Lago_32000.aac
+	MP3: http://s_mobile.cienradios.com/825_Del_Lago_48.mp3
+
+	Radio: Gen
+	ACC: http://buecrplb01.cienradios.com.ar/658_Gen_32000.aac
+	MP3: http://s_mobile.cienradios.com/658_Gen_48.mp3
+
+	Radio: Los Numero 1 de los 70 USA
+	ACC: http://buecrplb01.cienradios.com.ar/1076_Los_Numero_1_de_los_70_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/1076_Los_Numero_1_de_los_70_USA_48.mp3
+
+	Radio: Los Numero 1 de los 80 UK
+	ACC: http://buecrplb01.cienradios.com.ar/1034_Los_Numero_1_de_los_80_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/1034_Los_Numero_1_de_los_80_UK_48.mp3
+
+	Radio: Los Numero 1 de los 80 USA
+	ACC: http://buecrplb01.cienradios.com.ar/1025_Los_Numero_1_de_los_80_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/1025_Los_Numero_1_de_los_80_USA_48.mp3
+
+	Radio: Los Numero 1 de los 90 UK
+	ACC: http://buecrplb01.cienradios.com.ar/1047_Los_Numero_1_de_los_90_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/1047_Los_Numero_1_de_los_90_UK_48.mp3
+
+	Radio: Los Numero 1 de los 90 USA
+	ACC: http://buecrplb01.cienradios.com.ar/1030_Los_Numero_1_de_los_90_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/1030_Los_Numero_1_de_los_90_USA_48.mp3
+
+	Radio: Primer Éxito
+	ACC: http://buecrplb01.cienradios.com.ar/739_Primer_Exito_32000.aac
+	MP3: http://s_mobile.cienradios.com/739_Primer_Exito_48.mp3
+
+	Radio: Retromix
+	ACC: http://buecrplb01.cienradios.com.ar/592_Retromix_32000.aac
+	MP3: http://s_mobile.cienradios.com/592_Retromix_48.mp3
+
+	Radio: Un Sólo Éxito
+	ACC: http://buecrplb01.cienradios.com.ar/782_Un_Solo_Exito_32000.aac
+	MP3: http://s_mobile.cienradios.com/782_Un_Solo_Exito_48.mp3
+
+	Radio: Hot 100
+	ACC: http://buecrplb01.cienradios.com.ar/667_Hot_100_32000.aac
+	MP3: http://s_mobile.cienradios.com/667_Hot_100_48.mp3
+
+	Radio: Hot 100 Adulto Contemporáneo
+	ACC: http://buecrplb01.cienradios.com.ar/668_Hot_100_Adulto_Contemporaneo_32000.aac
+	MP3: http://s_mobile.cienradios.com/668_Hot_100_Adulto_Contemporaneo_48.mp3
+
+	Radio: Hot 100 Alemania
+	ACC: http://buecrplb01.cienradios.com.ar/669_Hot_100_Alemania_32000.aac
+	MP3: http://s_mobile.cienradios.com/669_Hot_100_Alemania_48.mp3
+
+	Radio: Hot 100 Canadá
+	ACC: http://buecrplb01.cienradios.com.ar/893_Hot_100_Canada_32000.aac
+	MP3: http://s_mobile.cienradios.com/893_Hot_100_Canada_48.mp3
+
+	Radio: Hot 100 España
+	ACC: http://buecrplb01.cienradios.com.ar/672_Hot_100_Espana_32000.aac
+	MP3: http://s_mobile.cienradios.com/672_Hot_100_Espana_48.mp3
+
+	Radio: Hot 100 Europa
+	ACC: http://buecrplb01.cienradios.com.ar/898_Hot_100_Europa_32000.aac
+	MP3: http://s_mobile.cienradios.com/898_Hot_100_Europa_48.mp3
+
+	Radio: Hot 100 México
+	ACC: http://buecrplb01.cienradios.com.ar/882_Hot_100_Mexico_32000.aac
+	MP3: http://s_mobile.cienradios.com/882_Hot_100_Mexico_48.mp3
+
+	Radio: Hot 100 UK
+	ACC: http://buecrplb01.cienradios.com.ar/891_Hot_100_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/891_Hot_100_UK_48.mp3
+
+	Radio: Hot 100 USA
+	ACC: http://buecrplb01.cienradios.com.ar/896_Hot_100_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/896_Hot_100_USA_48.mp3
+
+	Radio: I Teen
+	ACC: http://buecrplb01.cienradios.com.ar/908_I_Teen_32000.aac
+	MP3: http://s_mobile.cienradios.com/908_I_Teen_48.mp3
+
+	Radio: Lo Mejor Del 2000
+	ACC: http://buecrplb01.cienradios.com.ar/698_Lo_Mejor_De_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/698_Lo_Mejor_De_2000_48.mp3
+
+	Radio: Lo Mejor Del 2001
+	ACC: http://buecrplb01.cienradios.com.ar/693_Lo_Mejor_De_2001_32000.aac
+	MP3: http://s_mobile.cienradios.com/693_Lo_Mejor_De_2001_48.mp3
+
+	Radio: Lo Mejor Del 2002
+	ACC: http://buecrplb01.cienradios.com.ar/694_Lo_Mejor_De_2002_32000.aac
+	MP3: http://s_mobile.cienradios.com/694_Lo_Mejor_De_2002_48.mp3
+
+	Radio: Lo Mejor Del 2003
+	ACC: http://buecrplb01.cienradios.com.ar/695_Lo_Mejor_De_2003_32000.aac
+	MP3: http://s_mobile.cienradios.com/695_Lo_Mejor_De_2003_48.mp3
+
+	Radio: Lo Mejor Del 2004
+	ACC: http://buecrplb01.cienradios.com.ar/696_Lo_Mejor_De_2004_32000.aac
+	MP3: http://s_mobile.cienradios.com/696_Lo_Mejor_De_2004_48.mp3
+
+	Radio: Lo Mejor Del 2005
+	ACC: http://buecrplb01.cienradios.com.ar/699_Lo_Mejor_De_2005_32000.aac
+	MP3: http://s_mobile.cienradios.com/699_Lo_Mejor_De_2005_48.mp3
+
+	Radio: Lo Mejor Del 2006
+	ACC: http://buecrplb01.cienradios.com.ar/697_Lo_Mejor_De_2006_32000.aac
+	MP3: http://s_mobile.cienradios.com/697_Lo_Mejor_De_2006_48.mp3
+
+	Radio: Lo Mejor Del 2007
+	ACC: http://buecrplb01.cienradios.com.ar/700_Lo_Mejor_De_2007_32000.aac
+	MP3: http://s_mobile.cienradios.com/700_Lo_Mejor_De_2007_48.mp3
+
+	Radio: Lo Mejor Del 2008
+	ACC: http://buecrplb01.cienradios.com.ar/701_Lo_Mejor_De_2008_32000.aac
+	MP3: http://s_mobile.cienradios.com/701_Lo_Mejor_De_2008_48.mp3
+
+	Radio: Lo Mejor Del 2009
+	ACC: http://buecrplb01.cienradios.com.ar/702_Lo_Mejor_De_2009_32000.aac
+	MP3: http://s_mobile.cienradios.com/702_Lo_Mejor_De_2009_48.mp3
+
+	Radio: Lo Mejor del 2010
+	ACC: http://buecrplb01.cienradios.com.ar/610_Lo_Mejor_de_2010_32000.aac
+	MP3: http://s_mobile.cienradios.com/610_Lo_Mejor_de_2010_48.mp3
+
+	Radio: Lo Mejor del 2011
+	ACC: http://buecrplb01.cienradios.com.ar/822_Lo_Mejor_de_2011_32000.aac
+	MP3: http://s_mobile.cienradios.com/822_Lo_Mejor_de_2011_48.mp3
+
+	Radio: Lo Mejor del 2012
+	ACC: http://buecrplb01.cienradios.com.ar/976_Lo_Mejor_de_2012_32000.aac
+	MP3: http://s_mobile.cienradios.com/976_Lo_Mejor_de_2012_48.mp3
+
+	Radio: Lo Mejor del 2013
+	ACC: http://buecrplb01.cienradios.com.ar/1078_Lo_Mejor_de_2013_32000.aac
+	MP3: http://s_mobile.cienradios.com/1078_Lo_Mejor_de_2013_48.mp3
+
+	Radio: Lo Mejor del 2014
+	ACC: http://buecrplb01.cienradios.com.ar/1294_Lo_Mejor_del_2014_32000.aac
+	MP3: http://s_mobile.cienradios.com/1294_Lo_Mejor_del_2014_48.mp3
+
+	Radio: Los 100 de la 100 2000
+	ACC: http://buecrplb01.cienradios.com.ar/941_Los_100_de_la_100_2000_32000.aac
+	MP3: http://s_mobile.cienradios.com/941_Los_100_de_la_100_2000_48.mp3
+
+	Radio: Los 100 de la 100 2001
+	ACC: http://buecrplb01.cienradios.com.ar/939_Los_100_de_la_100_2001_32000.aac
+	MP3: http://s_mobile.cienradios.com/939_Los_100_de_la_100_2001_48.mp3
+
+	Radio: Los 100 de la 100 2002
+	ACC: http://buecrplb01.cienradios.com.ar/937_Los_100_de_la_100_2002_32000.aac
+	MP3: http://s_mobile.cienradios.com/937_Los_100_de_la_100_2002_48.mp3
+
+	Radio: Los 100 de la 100 2003
+	ACC: http://buecrplb01.cienradios.com.ar/935_Los_100_de_la_100_2003_32000.aac
+	MP3: http://s_mobile.cienradios.com/935_Los_100_de_la_100_2003_48.mp3
+
+	Radio: Los 100 de la 100 2004
+	ACC: http://buecrplb01.cienradios.com.ar/934_Los_100_de_la_100_2004_32000.aac
+	MP3: http://s_mobile.cienradios.com/934_Los_100_de_la_100_2004_48.mp3
+
+	Radio: Los 100 de la 100 2005
+	ACC: http://buecrplb01.cienradios.com.ar/930_Los_100_de_la_100_2005_32000.aac
+	MP3: http://s_mobile.cienradios.com/930_Los_100_de_la_100_2005_48.mp3
+
+	Radio: Los 100 de la 100 2006
+	ACC: http://buecrplb01.cienradios.com.ar/929_Los_100_de_la_100_2006_32000.aac
+	MP3: http://s_mobile.cienradios.com/929_Los_100_de_la_100_2006_48.mp3
+
+	Radio: Los 100 de la 100 2007
+	ACC: http://buecrplb01.cienradios.com.ar/928_Los_100_de_la_100_2007_32000.aac
+	MP3: http://s_mobile.cienradios.com/928_Los_100_de_la_100_2007_48.mp3
+
+	Radio: Los 100 de la 100 2008
+	ACC: http://buecrplb01.cienradios.com.ar/933_Los_100_de_la_100_2008_32000.aac
+	MP3: http://s_mobile.cienradios.com/933_Los_100_de_la_100_2008_48.mp3
+
+	Radio: Los 100 De La 100 2009
+	ACC: http://buecrplb01.cienradios.com.ar/703_Los_100_De_La_100_2009_32000.aac
+	MP3: http://s_mobile.cienradios.com/703_Los_100_De_La_100_2009_48.mp3
+
+	Radio: Los 100 De La 100 2010
+	ACC: http://buecrplb01.cienradios.com.ar/704_Los_100_De_La_100_2010_32000.aac
+	MP3: http://s_mobile.cienradios.com/704_Los_100_De_La_100_2010_48.mp3
+
+	Radio: Los 100 de la 100 2011
+	ACC: http://buecrplb01.cienradios.com.ar/925_Los_100_de_la_100_2011_32000.aac
+	MP3: http://s_mobile.cienradios.com/925_Los_100_de_la_100_2011_48.mp3
+
+	Radio: Los 100 de la 100 2012
+	ACC: http://buecrplb01.cienradios.com.ar/1063_Los_100_de_la_100_2012_32000.aac
+	MP3: http://s_mobile.cienradios.com/1063_Los_100_de_la_100_2012_48.mp3
+
+	Radio: Los 100 de la 100 2013
+	ACC: http://buecrplb01.cienradios.com.ar/1084_Los_100_de_la_100_2013_32000.aac
+	MP3: http://s_mobile.cienradios.com/1084_Los_100_de_la_100_2013_48.mp3
+
+	Radio: Los 100 de la 100 2014
+	ACC: http://buecrplb01.cienradios.com.ar/1295_Los_100_de_la_100_2014_32000.aac
+	MP3: http://s_mobile.cienradios.com/1295_Los_100_de_la_100_2014_48.mp3
+
+	Radio: Los 100 de La 100 2015
+	ACC: http://buecrplb01.cienradios.com.ar/1410_Los_100_de_la_100_2015_32000.aac
+	MP3: http://s_mobile.cienradios.com/1410_Los_100_de_la_100_2015_48.mp3
+
+	Radio: Top 40
+	ACC: http://buecrplb01.cienradios.com.ar/1083_Top_40_32000.aac
+	MP3: http://s_mobile.cienradios.com/1083_Top_40_48.mp3
+
+	Radio: Top Europa
+	ACC: http://buecrplb01.cienradios.com.ar/776_Top_Europa_32000.aac
+	MP3: http://s_mobile.cienradios.com/776_Top_Europa_48.mp3
+
+	Radio: Top Uk
+	ACC: http://buecrplb01.cienradios.com.ar/781_Top_Uk_32000.aac
+	MP3: http://s_mobile.cienradios.com/781_Top_Uk_48.mp3
+
+	Radio: Top USA
+	ACC: http://buecrplb01.cienradios.com.ar/777_Top_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/777_Top_USA_48.mp3
+
+	Radio: Adulto Contemporáneo
+	ACC: http://buecrplb01.cienradios.com.ar/793_Adulto_Contemporaneo_32000.aac
+	MP3: http://s_mobile.cienradios.com/793_Adulto_Contemporaneo_48.mp3
+
+	Radio: Amy Winehouse y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/854_Amy_Winehouse_32000.aac
+	MP3: http://s_mobile.cienradios.com/854_Amy_Winehouse_48.mp3
+
+	Radio: Billy Joel y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/966_Billy_Joel_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/966_Billy_Joel_y_Art_Rel_48.mp3
+
+	Radio: Bon Jovi y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/913_Bon_Jovi_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/913_Bon_Jovi_y_Art_Rel_48.mp3
+
+	Radio: Britpop
+	ACC: http://buecrplb01.cienradios.com.ar/625_Britpop_32000.aac
+	MP3: http://s_mobile.cienradios.com/625_Britpop_48.mp3
+
+	Radio: Bryan Adams y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/887_Bryan_Adams_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/887_Bryan_Adams_y_Art_Rel_48.mp3
+
+	Radio: Coldplay y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/877_Coldplay_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/877_Coldplay_y_Art_Rel_48.mp3
+
+	Radio: David Bowie y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/892_David_Bowie_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/892_David_Bowie_y_Art_Rel_48.mp3
+
+	Radio: Depeche Mode y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/963_Depeche_Mode_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/963_Depeche_Mode_y_Art_Rel_48.mp3
+
+	Radio: Duran Duran y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/969_Duran_Duran_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/969_Duran_Duran_y_Art_Rel_48.mp3
+
+	Radio: Ed Sheeran y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1269_Ed_Sheeran_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1269_Ed_Sheeran_y_Art_Rel_48.mp3
+
+	Radio: Ellas
+	ACC: http://buecrplb01.cienradios.com.ar/581_Ellas_32000.aac
+	MP3: http://s_mobile.cienradios.com/581_Ellas_48.mp3
+
+	Radio: Ellos
+	ACC: http://buecrplb01.cienradios.com.ar/801_Ellos_32000.aac
+	MP3: http://s_mobile.cienradios.com/801_Ellos_48.mp3
+
+	Radio: Elton John y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/903_Elton_John_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/903_Elton_John_y_Art_Rel_48.mp3
+
+	Radio: Erasure y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/855_Erasure_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/855_Erasure_y_Art_Rel_48.mp3
+
+	Radio: Estrenos
+	ACC: http://buecrplb01.cienradios.com.ar/751_Estrenos_32000.aac
+	MP3: http://s_mobile.cienradios.com/751_Estrenos_48.mp3
+
+	Radio: Freddie Mercury y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1048_Freddie_Mercury_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1048_Freddie_Mercury_y_Art_Rel_48.mp3
+
+	Radio: James Blunt y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/942_James_Blunt_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/942_James_Blunt_y_Art_Rel_48.mp3
+
+	Radio: John Lennon y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/682_John_Lennon_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/682_John_Lennon_y_Artistas_Relacionados_48.mp3
+
+	Radio: John Paul George and Ringo
+	ACC: http://buecrplb01.cienradios.com.ar/683_John_Paul_George_and_Ringo_32000.aac
+	MP3: http://s_mobile.cienradios.com/683_John_Paul_George_and_Ringo_48.mp3
+
+	Radio: Joss Stone y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1026_Joss_Stone_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1026_Joss_Stone_y_Art_Rel_48.mp3
+
+	Radio: Keane y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/927_Keane_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/927_Keane_y_Art_Rel_48.mp3
+
+	Radio: Lenny Kravitz y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/872_Lenny_Kravitz_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/872_Lenny_Kravitz_y_Art_Rel_48.mp3
+
+	Radio: Lentos
+	ACC: http://buecrplb01.cienradios.com.ar/794_Lentos_32000.aac
+	MP3: http://s_mobile.cienradios.com/794_Lentos_48.mp3
+
+	Radio: Maroon 5 y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1008_Maroon_5_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1008_Maroon_5_y_Art_Rel_48.mp3
+
+	Radio: New Order y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/915_New_Order_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/915_New_Order_y_Art_Rel_48.mp3
+
+	Radio: No Doubt y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1010_No_Doubt_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1010_No_Doubt_y_Art_Rel_48.mp3
+
+	Radio: Nuevos Clásicos Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/590_Nuevos_Clasicos_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/590_Nuevos_Clasicos_Internacional_48.mp3
+
+	Radio: Paul McCartney y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/735_Paul_McCartney_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/735_Paul_McCartney_y_Artistas_Relacionados_48.mp3
+
+	Radio: Power Ballads
+	ACC: http://buecrplb01.cienradios.com.ar/738_Power_Ballads_32000.aac
+	MP3: http://s_mobile.cienradios.com/738_Power_Ballads_48.mp3
+
+	Radio: Prince y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/740_Prince_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/740_Prince_y_Artistas_Relacionados_48.mp3
+
+	Radio: Radio Cerfoglio
+	ACC: http://buecrplb01.cienradios.com.ar/1220_Radio_Cerfoglio_32000.aac
+	MP3: http://s_mobile.cienradios.com/1220_Radio_Cerfoglio_48.mp3
+
+	Radio: Radio Lalo
+	ACC: http://buecrplb01.cienradios.com.ar/688_Radio_Lalo_32000.aac
+	MP3: http://s_mobile.cienradios.com/688_Radio_Lalo_48.mp3
+
+	Radio: Rock Alternativo
+	ACC: http://buecrplb01.cienradios.com.ar/816_Rock_Alternativo_32000.aac
+	MP3: http://s_mobile.cienradios.com/816_Rock_Alternativo_48.mp3
+
+	Radio: Rod Stewart y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/874_Rod_Stewart_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/874_Rod_Stewart_y_Art_Rel_48.mp3
+
+	Radio: Roxette y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/917_Roxette_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/917_Roxette_y_Art_Rel_48.mp3
+
+	Radio: Sting y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/962_Sting_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/962_Sting_y_Art_Rel_48.mp3
+
+	Radio: Target
+	ACC: http://buecrplb01.cienradios.com.ar/630_Target_32000.aac
+	MP3: http://s_mobile.cienradios.com/630_Target_48.mp3
+
+	Radio: Tears For Fears y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/888_Tears_For_Fears_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/888_Tears_For_Fears_y_Art_Rel_48.mp3
+
+	Radio: The Killers y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/973_The_Killers_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/973_The_Killers_y_Art_Rel_48.mp3
+
+	Radio: The Police y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/775_The_Police_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/775_The_Police_y_Artistas_Relacionados_48.mp3
+
+	Radio: Tina Turner y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/987_Tina_Turner_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/987_Tina_Turner_y_Art_Rel_48.mp3
+
+	Radio: Trendy
+	ACC: http://buecrplb01.cienradios.com.ar/778_Trendy_32000.aac
+	MP3: http://s_mobile.cienradios.com/778_Trendy_48.mp3
+
+	Radio: U2 y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/805_U2_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/805_U2_y_Artistas_Relacionados_48.mp3
+
+	Radio: Vivo
+	ACC: http://buecrplb01.cienradios.com.ar/756_Vivo_32000.aac
+	MP3: http://s_mobile.cienradios.com/756_Vivo_48.mp3
+
+	Radio: Auténticos Decadentes y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/940_Autenticos_Decadentes_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/940_Autenticos_Decadentes_y_Art_Rel_48.mp3
+
+	Radio: Babasonicos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/859_Babasonicos_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/859_Babasonicos_y_Art_Rel_48.mp3
+
+	Radio: Bersuit Vergarabat y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/614_Bersuit_Vergarabat_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/614_Bersuit_Vergarabat_y_Art_Relac_48.mp3
+
+	Radio: Exito a la Vista
+	ACC: http://buecrplb01.cienradios.com.ar/603_Exito_a_la_Vista_32000.aac
+	MP3: http://s_mobile.cienradios.com/603_Exito_a_la_Vista_48.mp3
+
+	Radio: Gustavo Cerati y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1091_Gustavo_Cerati_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1091_Gustavo_Cerati_y_Art_Rel_48.mp3
+
+	Radio: Hot 100 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/674_Hot_100_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/674_Hot_100_Nacional_48.mp3
+
+	Radio: IKV y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1054_IKV_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1054_IKV_y_Art_Rel_48.mp3
+
+	Radio: Indie Argentino
+	ACC: http://buecrplb01.cienradios.com.ar/1313_Indie_Argentino_32000.aac
+	MP3: http://s_mobile.cienradios.com/1313_Indie_Argentino_48.mp3
+
+	Radio: Ivan Noble y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/680_Ivan_Noble_y_Art_Relac_32000.aac
+	MP3: http://s_mobile.cienradios.com/680_Ivan_Noble_y_Art_Relac_48.mp3
+
+	Radio: Kapanga y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1067_Kapanga_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1067_Kapanga_y_Art_Rel_48.mp3
+
+	Radio: Kevin Johansen y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1018_Kevin_Johansen_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1018_Kevin_Johansen_y_Art_Rel_48.mp3
+
+	Radio: Los Fabulosos Cadillacs y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/653_Los_Fabulosos_Cadillacs_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/653_Los_Fabulosos_Cadillacs_y_Artistas_Relacionados_48.mp3
+
+	Radio: Los Piojos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/707_Los_Piojos_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/707_Los_Piojos_y_Artistas_Relacionados_48.mp3
+
+	Radio: Los Tipitos y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/944_Los_Tipitos_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/944_Los_Tipitos_y_Art_Rel_48.mp3
+
+	Radio: Matador
+	ACC: http://buecrplb01.cienradios.com.ar/1042_Matador_32000.aac
+	MP3: http://s_mobile.cienradios.com/1042_Matador_48.mp3
+
+	Radio: Miranda y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/920_Miranda_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/920_Miranda_y_Art_Rel_48.mp3
+
+	Radio: Nuevos Clásicos Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/726_Nuevos_Clasicos_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/726_Nuevos_Clasicos_Nacional_48.mp3
+
+	Radio: Radio El Pelado
+	ACC: http://buecrplb01.cienradios.com.ar/754_Radio_El_Pelado_32000.aac
+	MP3: http://s_mobile.cienradios.com/754_Radio_El_Pelado_48.mp3
+
+	Radio: Radio Olé
+	ACC: http://buecrplb01.cienradios.com.ar/993_radiole_32000.aac
+	MP3: http://s_mobile.cienradios.com/993_radiole_48.mp3
+
+	Radio: Rock Alternativo Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/826_Rock_Alternativo_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/826_Rock_Alternativo_Nacional_48.mp3
+
+	Radio: Rock Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/597_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/597_Nacional_48.mp3
+
+	Radio: Soda Stereo y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/772_Soda_Stereo_y_Artistas_Relacionados_32000.aac
+	MP3: http://s_mobile.cienradios.com/772_Soda_Stereo_y_Artistas_Relacionados_48.mp3
+
+	Radio: Tan Bionica y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1087_Tan_Bionica_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1087_Tan_Bionica_y_Art_Rel_48.mp3
+
+	Radio: ViaRosario
+	ACC: http://buecrplb01.cienradios.com.ar/1404_ViaRosario_32000.aac
+	MP3: http://s_mobile.cienradios.com/1404_ViaRosario_48.mp3
+
+	Radio: Vicentico y Artistas Relacionados
+	ACC: http://buecrplb01.cienradios.com.ar/1044_Vicentico_y_Art_Rel_32000.aac
+	MP3: http://s_mobile.cienradios.com/1044_Vicentico_y_Art_Rel_48.mp3
+
+	Radio: Vivo Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/953_Vivo_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/953_Vivo_Nacional_48.mp3
+
+	Radio: Nuevos Clásicos Nacional E Internacional
+	ACC: http://buecrplb01.cienradios.com.ar/725_Nuevos_Clasicos_Nacional_E_Internacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/725_Nuevos_Clasicos_Nacional_E_Internacional_48.mp3
+
+	Radio: Radio Covers
+	ACC: http://buecrplb01.cienradios.com.ar/749_Radio_Covers_32000.aac
+	MP3: http://s_mobile.cienradios.com/749_Radio_Covers_48.mp3
+
+	Radio: Radio X
+	ACC: http://buecrplb01.cienradios.com.ar/602_Radio_X_32000.aac
+	MP3: http://s_mobile.cienradios.com/602_Radio_X_48.mp3
+
+	Radio: Teen
+	ACC: http://buecrplb01.cienradios.com.ar/643_Teen_32000.aac
+	MP3: http://s_mobile.cienradios.com/643_Teen_48.mp3
+
+Categoria: Éxitos
+	Radio: Hot 100
+	ACC: http://buecrplb01.cienradios.com.ar/667_Hot_100_32000.aac
+	MP3: http://s_mobile.cienradios.com/667_Hot_100_48.mp3
+
+	Radio: Hot 100 Adulto Contemporáneo
+	ACC: http://buecrplb01.cienradios.com.ar/668_Hot_100_Adulto_Contemporaneo_32000.aac
+	MP3: http://s_mobile.cienradios.com/668_Hot_100_Adulto_Contemporaneo_48.mp3
+
+	Radio: Hot 100 Alemania
+	ACC: http://buecrplb01.cienradios.com.ar/669_Hot_100_Alemania_32000.aac
+	MP3: http://s_mobile.cienradios.com/669_Hot_100_Alemania_48.mp3
+
+	Radio: Hot 100 Canadá
+	ACC: http://buecrplb01.cienradios.com.ar/893_Hot_100_Canada_32000.aac
+	MP3: http://s_mobile.cienradios.com/893_Hot_100_Canada_48.mp3
+
+	Radio: Hot 100 Country
+	ACC: http://buecrplb01.cienradios.com.ar/670_Hot_100_Country_32000.aac
+	MP3: http://s_mobile.cienradios.com/670_Hot_100_Country_48.mp3
+
+	Radio: Hot 100 Dance
+	ACC: http://buecrplb01.cienradios.com.ar/671_Hot_100_Dance_32000.aac
+	MP3: http://s_mobile.cienradios.com/671_Hot_100_Dance_48.mp3
+
+	Radio: Hot 100 España
+	ACC: http://buecrplb01.cienradios.com.ar/672_Hot_100_Espana_32000.aac
+	MP3: http://s_mobile.cienradios.com/672_Hot_100_Espana_48.mp3
+
+	Radio: Hot 100 Europa
+	ACC: http://buecrplb01.cienradios.com.ar/898_Hot_100_Europa_32000.aac
+	MP3: http://s_mobile.cienradios.com/898_Hot_100_Europa_48.mp3
+
+	Radio: Hot 100 Hip Hop
+	ACC: http://buecrplb01.cienradios.com.ar/673_Hot_100_Hip_Hop_32000.aac
+	MP3: http://s_mobile.cienradios.com/673_Hot_100_Hip_Hop_48.mp3
+
+	Radio: Hot 100 J Pop
+	ACC: http://buecrplb01.cienradios.com.ar/894_Hot_100_J_Pop_32000.aac
+	MP3: http://s_mobile.cienradios.com/894_Hot_100_J_Pop_48.mp3
+
+	Radio: Hot 100 Latino
+	ACC: http://buecrplb01.cienradios.com.ar/931_Hot_100_Latino_32000.aac
+	MP3: http://s_mobile.cienradios.com/931_Hot_100_Latino_48.mp3
+
+	Radio: Hot 100 México
+	ACC: http://buecrplb01.cienradios.com.ar/882_Hot_100_Mexico_32000.aac
+	MP3: http://s_mobile.cienradios.com/882_Hot_100_Mexico_48.mp3
+
+	Radio: Hot 100 Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/674_Hot_100_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/674_Hot_100_Nacional_48.mp3
+
+	Radio: Hot 100 Navidad
+	ACC: http://buecrplb01.cienradios.com.ar/919_Hot_100_Navidad_32000.aac
+	MP3: http://s_mobile.cienradios.com/919_Hot_100_Navidad_48.mp3
+
+	Radio: Hot 100 Reggaetón
+	ACC: http://buecrplb01.cienradios.com.ar/675_Hot_100_Reggaeton_32000.aac
+	MP3: http://s_mobile.cienradios.com/675_Hot_100_Reggaeton_48.mp3
+
+	Radio: Hot 100 Rock
+	ACC: http://buecrplb01.cienradios.com.ar/676_Hot_100_Rock_32000.aac
+	MP3: http://s_mobile.cienradios.com/676_Hot_100_Rock_48.mp3
+
+	Radio: Hot 100 Romántica
+	ACC: http://buecrplb01.cienradios.com.ar/677_Hot_100_Romantica_32000.aac
+	MP3: http://s_mobile.cienradios.com/677_Hot_100_Romantica_48.mp3
+
+	Radio: Hot 100 Salsa y Bachata
+	ACC: http://buecrplb01.cienradios.com.ar/910_Hot_100_Salsa_y_Bachata_32000.aac
+	MP3: http://s_mobile.cienradios.com/910_Hot_100_Salsa_y_Bachata_48.mp3
+
+	Radio: Hot 100 Teen
+	ACC: http://buecrplb01.cienradios.com.ar/679_Hot_100_Teen_32000.aac
+	MP3: http://s_mobile.cienradios.com/679_Hot_100_Teen_48.mp3
+
+	Radio: Hot 100 UK
+	ACC: http://buecrplb01.cienradios.com.ar/891_Hot_100_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/891_Hot_100_UK_48.mp3
+
+	Radio: Hot 100 USA
+	ACC: http://buecrplb01.cienradios.com.ar/896_Hot_100_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/896_Hot_100_USA_48.mp3
+
+	Radio: Campus 21
+	ACC: http://buecrplb01.cienradios.com.ar/871_Campus_21_32000.aac
+	MP3: http://s_mobile.cienradios.com/871_Campus_21_48.mp3
+
+	Radio: Estrenos
+	ACC: http://buecrplb01.cienradios.com.ar/751_Estrenos_32000.aac
+	MP3: http://s_mobile.cienradios.com/751_Estrenos_48.mp3
+
+	Radio: Exito a la Vista
+	ACC: http://buecrplb01.cienradios.com.ar/603_Exito_a_la_Vista_32000.aac
+	MP3: http://s_mobile.cienradios.com/603_Exito_a_la_Vista_48.mp3
+
+	Radio: Fiesta Dance
+	ACC: http://buecrplb01.cienradios.com.ar/1041_Fiesta_Dance_32000.aac
+	MP3: http://s_mobile.cienradios.com/1041_Fiesta_Dance_48.mp3
+
+	Radio: Hottest DJs
+	ACC: http://buecrplb01.cienradios.com.ar/1029_Hottest_DJs_32000.aac
+	MP3: http://s_mobile.cienradios.com/1029_Hottest_DJs_48.mp3
+
+	Radio: Los Numero 1 de los 70 USA
+	ACC: http://buecrplb01.cienradios.com.ar/1076_Los_Numero_1_de_los_70_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/1076_Los_Numero_1_de_los_70_USA_48.mp3
+
+	Radio: Los Numero 1 de los 80 UK
+	ACC: http://buecrplb01.cienradios.com.ar/1034_Los_Numero_1_de_los_80_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/1034_Los_Numero_1_de_los_80_UK_48.mp3
+
+	Radio: Los Numero 1 de los 80 USA
+	ACC: http://buecrplb01.cienradios.com.ar/1025_Los_Numero_1_de_los_80_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/1025_Los_Numero_1_de_los_80_USA_48.mp3
+
+	Radio: Los Numero 1 de los 90 UK
+	ACC: http://buecrplb01.cienradios.com.ar/1047_Los_Numero_1_de_los_90_UK_32000.aac
+	MP3: http://s_mobile.cienradios.com/1047_Los_Numero_1_de_los_90_UK_48.mp3
+
+	Radio: Los Numero 1 de los 90 USA
+	ACC: http://buecrplb01.cienradios.com.ar/1030_Los_Numero_1_de_los_90_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/1030_Los_Numero_1_de_los_90_USA_48.mp3
+
+	Radio: Pop
+	ACC: http://buecrplb01.cienradios.com.ar/1225_Pop_32000.aac
+	MP3: http://s_mobile.cienradios.com/1225_Pop_48.mp3
+
+	Radio: Primer Éxito
+	ACC: http://buecrplb01.cienradios.com.ar/739_Primer_Exito_32000.aac
+	MP3: http://s_mobile.cienradios.com/739_Primer_Exito_48.mp3
+
+	Radio: Reggaetón
+	ACC: http://buecrplb01.cienradios.com.ar/759_Reggaeton_32000.aac
+	MP3: http://s_mobile.cienradios.com/759_Reggaeton_48.mp3
+
+	Radio: Rock Hits
+	ACC: http://buecrplb01.cienradios.com.ar/764_Rock_Hits_32000.aac
+	MP3: http://s_mobile.cienradios.com/764_Rock_Hits_48.mp3
+
+	Radio: Rumbos
+	ACC: http://buecrplb01.cienradios.com.ar/1412_Rumbos_32000.aac
+	MP3: http://s_mobile.cienradios.com/1412_Rumbos_48.mp3
+
+	Radio: Selfie Radio
+	ACC: http://buecrplb01.cienradios.com.ar/1086_Selfie_Radio_32000.aac
+	MP3: http://s_mobile.cienradios.com/1086_Selfie_Radio_48.mp3
+
+	Radio: Teen
+	ACC: http://buecrplb01.cienradios.com.ar/643_Teen_32000.aac
+	MP3: http://s_mobile.cienradios.com/643_Teen_48.mp3
+
+	Radio: Top 40
+	ACC: http://buecrplb01.cienradios.com.ar/1083_Top_40_32000.aac
+	MP3: http://s_mobile.cienradios.com/1083_Top_40_48.mp3
+
+	Radio: Top Europa
+	ACC: http://buecrplb01.cienradios.com.ar/776_Top_Europa_32000.aac
+	MP3: http://s_mobile.cienradios.com/776_Top_Europa_48.mp3
+
+	Radio: Top Uk
+	ACC: http://buecrplb01.cienradios.com.ar/781_Top_Uk_32000.aac
+	MP3: http://s_mobile.cienradios.com/781_Top_Uk_48.mp3
+
+	Radio: Top USA
+	ACC: http://buecrplb01.cienradios.com.ar/777_Top_USA_32000.aac
+	MP3: http://s_mobile.cienradios.com/777_Top_USA_48.mp3
+
+	Radio: Trendy
+	ACC: http://buecrplb01.cienradios.com.ar/778_Trendy_32000.aac
+	MP3: http://s_mobile.cienradios.com/778_Trendy_48.mp3
+
+	Radio: Un Sólo Éxito
+	ACC: http://buecrplb01.cienradios.com.ar/782_Un_Solo_Exito_32000.aac
+	MP3: http://s_mobile.cienradios.com/782_Un_Solo_Exito_48.mp3
+
+	Radio: Vivo
+	ACC: http://buecrplb01.cienradios.com.ar/756_Vivo_32000.aac
+	MP3: http://s_mobile.cienradios.com/756_Vivo_48.mp3
+
+	Radio: Vivo Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/953_Vivo_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/953_Vivo_Nacional_48.mp3
+
+	Radio: Covers Nacional
+	ACC: http://buecrplb01.cienradios.com.ar/932_Covers_Nacional_32000.aac
+	MP3: http://s_mobile.cienradios.com/932_Covers_Nacional_48.mp3
+
+	Radio: Radio Covers
+	ACC: http://buecrplb01.cienradios.com.ar/749_Radio_Covers_32000.aac
+	MP3: http://s_mobile.cienradios.com/749_Radio_Covers_48.mp3
