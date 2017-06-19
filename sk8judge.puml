@@ -1,0 +1,20 @@
+@startuml
+Cliente -> Servidor: .
+Cliente <- Servidor: .WHO?
+
+Cliente -> Servidor: .ID-JUDGE3.
+Cliente <- Servidor: CLEAR2.
+
+Cliente -> Servidor: .CLEARED.
+Cliente <- Servidor: SKATER1.EVENT4.PING,1248.
+
+Cliente -> Servidor: .PONG,1248,32768.LOCKED,AMARK2.3,BMARK6.5.
+
+Cliente <- Servidor: .PING,1249.
+Cliente -> Servidor: .PONG,1249,32768.
+
+Cliente <- Servidor: .PING,1250.
+Cliente -> Servidor: .PONG,1249,32768.
+
+
+@enduml
