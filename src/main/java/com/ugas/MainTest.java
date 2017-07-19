@@ -29,8 +29,8 @@ public class MainTest {
 
     UgasCommands.in().async().onSuccess(System.out::println);
 
-    UgasCommands.in().async().onSuccess(System.out::println).onError(this::handleUgasErrors).onTimeout(null).send();
-    UgasCommands.dwa().blocking().send("");
+    UgasCommands.in().async().onSuccess(System.out::println).onError(this::handleUgasErrors).onTimeout(null).send(null);
+    Integer value = UgasCommands.dwa().blocking().send("");
 
   }
 

@@ -26,7 +26,7 @@ public final class Command<PARAMETER_TYPE, RESPONSE_TYPE> {
   }
 
   public BlockingCommand<PARAMETER_TYPE, RESPONSE_TYPE> blocking() {
-    return new BlockingCommand();
+    return new BlockingCommand(null);
   }
 
 }
