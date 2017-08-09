@@ -1,0 +1,8 @@
+# EditorConfig is awesome: http://EditorConfig.org
+
+# Matches multiple files with brace expansion notation
+# Set default charset
+[*.{java,xml,html,properties,yaml,gradle}]
+charset = utf-8
+indent_style = space
+indent_size = 2
