@@ -12,13 +12,15 @@ public final class Command<PARAMETER_TYPE, RESPONSE_TYPE> {
 
   private final int timeout;
 
-  public Command(final String code, final int timeout) {
-    checkNotNull(code);
-    checkArgument(!code.isEmpty(), "The code cannot be empty");
-    checkArgument(timeout >= 0, "The timeout for the command " + code + " is " + timeout
+  public Command(final String aCode, final int aTimeout) {
+    checkNotNull(aCode);
+    checkArgument(!aCode.isEmpty(), "The code cannot be empty");
+    checkArgument(aTimeout >= 0, "The timeout for the command " + aCode + " is " + aTimeout
       + ". It cannot be negative");
-    this.code = code;
-    this.timeout = timeout;
+
+    code = aCode;
+
+    timeout = aTimeout;
   }
 
   public AsyncCommand<PARAMETER_TYPE, RESPONSE_TYPE> async() {
