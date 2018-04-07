@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="621.0" prefWidth="892.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.javafx.CropImage">
+    <children>
+        <ImageView fx:id="imageView" fitHeight="306.0" fitWidth="753.0" layoutX="21.0" layoutY="21.0" pickOnBounds="true" style="-fx-border-color: red;">
+            <image>
+                <Image url="@pexels-photo-236047.jpeg" />
+            </image>
+        </ImageView>
+        <Slider fx:id="widthSlider" blockIncrement="1.0" layoutX="117.0" layoutY="469.0" max="1000.0" />
+        <Slider fx:id="heightSlider" blockIncrement="1.0" layoutX="117.0" layoutY="500.0" max="1000.0" />
+        <Slider fx:id="vXSlider" blockIncrement="1.0" layoutX="439.0" layoutY="469.0" max="1500.0" />
+        <Slider fx:id="vYSlider" blockIncrement="1.0" layoutX="439.0" layoutY="500.0" max="1000.0" />
+        <Label fx:id="widthLabel" layoutX="21.0" layoutY="469.0" text="Width" />
+        <Label fx:id="heightLabel" layoutX="21.0" layoutY="500.0" text="Height" />
+        <Label fx:id="vxLabel" layoutX="347.0" layoutY="469.0" text="vX: " />
+        <Label fx:id="vyLabel" layoutX="347.0" layoutY="500.0" text="vY: " />
+        <Label fx:id="vwLabel" layoutX="347.0" layoutY="531.0" text="vW: " />
+        <Label fx:id="vhLabel" layoutX="346.0" layoutY="559.0" text="vH: " />
+        <Slider fx:id="vWidthSlider" blockIncrement="1.0" layoutX="439.0" layoutY="531.0" max="3000.0" />
+        <Slider fx:id="vHeightSlider" blockIncrement="1.0" layoutX="439.0" layoutY="559.0" max="2000.0" />
+        <CheckBox fx:id="preserveRatioCheckBox" layoutX="73.0" layoutY="550.0" mnemonicParsing="false" text="Preserve  Ratio" />
+    </children>
+</AnchorPane>
