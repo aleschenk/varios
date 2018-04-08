@@ -11,11 +11,11 @@
   <dependencies>
 
     <!-- SCALA -->
-    <dependency>
-      <groupId>org.scala-lang</groupId>
-      <artifactId>scala-library</artifactId>
-      <version>2.12.0</version>
-    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>org.scala-lang</groupId>-->
+      <!--<artifactId>scala-library</artifactId>-->
+      <!--<version>2.12.0</version>-->
+    <!--</dependency>-->
 
     <!-- GROOVY -->
     <dependency>
@@ -160,6 +160,32 @@
   </dependencyManagement>
 
   <build>
+    <resources>
+      <resource>
+        <directory>src/main/java</directory>
+        <includes>
+          <include>**/*.fxml</include>
+          <include>**/*.css</include>
+          <include>**/*.png</include>
+          <include>**/*.template</include>
+          <include>**/*.twig</include>
+        </includes>
+      </resource>
+      <resource>
+        <directory>src/main/resources</directory>
+        <!--<filtering>true</filtering>-->
+        <includes>
+          <include>**/*.fxml</include>
+          <include>**/*.css</include>
+          <include>**/*.png</include>
+          <include>**/*.properties</include>
+          <include>**/*.xml</include>
+          <include>**/*.template</include>
+          <include>**/*.twig</include>
+        </includes>
+      </resource>
+    </resources>
+
     <!--<sourceDirectory>src/main/scala</sourceDirectory>-->
     <!--<testSourceDirectory>src/test/scala</testSourceDirectory>-->
     <plugins>
@@ -171,20 +197,6 @@
           <source>1.8</source>
           <target>1.8</target>
         </configuration>
-      </plugin>
-
-      <plugin>
-        <groupId>net.alchim31.maven</groupId>
-        <artifactId>scala-maven-plugin</artifactId>
-        <version>3.2.1</version>
-        <executions>
-          <execution>
-            <goals>
-              <goal>compile</goal>
-              <goal>testCompile</goal>
-            </goals>
-          </execution>
-        </executions>
       </plugin>
 
       <!-- MAVEN ASSEMBLY PLUGIN -->
