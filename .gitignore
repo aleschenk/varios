@@ -78,3 +78,8 @@ fabric.properties
 *.iml
 out
 gen
+
+.classpath
+.project
+.settings/*
+.vscode/
