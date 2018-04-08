@@ -1,18 +1,15 @@
 package com.javafx;
 
 import com.github.sarxos.webcam.Webcam;
-import com.github.sarxos.webcam.WebcamImageTransformer;
 import com.github.sarxos.webcam.ds.v4l4j.V4l4jDriver;
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.beans.property.ObjectProperty;
 import javafx.beans.property.SimpleObjectProperty;
 import javafx.concurrent.Task;
-import javafx.embed.swing.SwingFXUtils;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
-import javafx.geometry.Rectangle2D;
 import javafx.scene.Scene;
 import javafx.scene.control.CheckBox;
 import javafx.scene.control.Label;
@@ -23,10 +20,8 @@ import javafx.scene.image.ImageView;
 import javafx.scene.image.WritableImage;
 import javafx.stage.Stage;
 
-import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.net.URL;
-import java.nio.Buffer;
 import java.util.ResourceBundle;
 import java.util.concurrent.atomic.AtomicReference;
 
@@ -241,7 +236,7 @@ public class CropWebCam extends Application implements Initializable {
                   (int) vWidthSlider.getValue() + 1,
                   (int) vHeightSlider.getValue() + 1
                 );
-                ref.set(SwingFXUtils.toFXImage(subImg, ref.get()));
+                ref.set(Util.toFXImage(subImg, ref.get()));
 //              ref.set(SwingFXUtils.toFXImage(img, ref.get()));
                 img.flush();
 
