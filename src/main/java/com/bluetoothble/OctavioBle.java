@@ -24,12 +24,14 @@ import org.slf4j.LoggerFactory;
 import tinyb.BluetoothDevice;
 import tinyb.BluetoothException;
 import tinyb.BluetoothGattCharacteristic;
+import tinyb.BluetoothGattDescriptor;
 import tinyb.BluetoothGattService;
 import tinyb.BluetoothManager;
 
 import java.io.IOException;
 import java.net.URL;
 import java.util.List;
+import java.util.Optional;
 import java.util.ResourceBundle;
 
 import static com.bluetoothble.Colors.ANSI_BLUE;
@@ -45,6 +47,9 @@ public class OctavioBle extends Application implements Initializable {
   private GridPane pane;
 
   @FXML
+  private Button connectButton;
+
+  @FXML
   private Button getEnergyButton;
 
   @FXML
@@ -55,6 +60,9 @@ public class OctavioBle extends Application implements Initializable {
 
   @FXML
   private Gauge energyGauge;
+
+  @FXML
+  private Label statusLabel;
 
   @Override
   public void start(final Stage stage) throws IOException {
@@ -68,13 +76,15 @@ public class OctavioBle extends Application implements Initializable {
     energyGauge.setUnit("ENERGY");
     energyGauge.setSkinType(Gauge.SkinType.SLIM);
     energyGauge.setDecimals(0);
-    energyGauge.setValue(200);
+    energyGauge.setMaxValue(1000);
     energyGauge.setValue(1);
 
     VBox stepsBox = getTopicBox("ENERGY", Color.rgb(77, 208, 225), energyGauge);
     rootPane.setBackground(new Background(new BackgroundFill(Color.rgb(39, 44, 50), CornerRadii.EMPTY, Insets.EMPTY)));
 //    rootPane.add(stepsBox, 0, 0);
     rootPane.getChildren().add(stepsBox);
+
+    connectButton.setOnAction(event -> connect());
     getEnergyButton.setOnAction(event -> getEnergy());
     consumeEnergyButton.setOnAction(event -> consumeEnergy());
     disconnectButton.setOnAction(evenet -> disconnect());
@@ -84,9 +94,13 @@ public class OctavioBle extends Application implements Initializable {
 
   BluetoothDevice sensor;
 
+  BluetoothGattCharacteristic energyCharcteristic;
+
   boolean discoveryStarted;
 
-  private void getEnergy() {
+  private void connect() {
+    statusLabel.setText("Status: Connecting, please wait.");
+
     if (sensor == null || !sensor.getConnected()) {
       log.info("Sensor not connected");
 
@@ -99,7 +113,9 @@ public class OctavioBle extends Application implements Initializable {
        * After we find the device we can stop looking for other devices.
        */
       try {
-        manager.stopDiscovery();
+        if (!manager.getDiscovering()) {
+          manager.stopDiscovery();
+        }
       } catch (BluetoothException e) {
         log.error("Discovery could not be stopped.", e);
       }
@@ -110,7 +126,7 @@ public class OctavioBle extends Application implements Initializable {
       }
 
       log.info("Found device: ");
-//    printDevice(sensor);
+      printDevice(sensor);
 
       if (sensor.connect()) {
         log.info("Sensor with the provided address connected");
@@ -127,18 +143,33 @@ public class OctavioBle extends Application implements Initializable {
       sensor.disconnect();
       System.exit(-1);
     }
-    System.out.println("Found service " + octavioSensor.getUUID());
+    log.info("Found service {}", octavioSensor.getUUID());
 
-    BluetoothGattCharacteristic tempValue = getCharacteristic(octavioSensor, "0000ffe1-0000-1000-8000-00805f9b34fb");
-    tempValue.writeValue("GE\n".getBytes());
+    energyCharcteristic = getCharacteristic(octavioSensor, "0000ffe1-0000-1000-8000-00805f9b34fb").get();
 
-    byte[] a = tempValue.readValue();
+    energyCharcteristic.enableValueNotifications(bytes -> {
+      if (bytes != null && bytes.length > 0) {
+        String value = new String(bytes);
+        try {
+          int energy = Integer.valueOf(value);
+          log.info("Energy: {}", energy);
+          energyGauge.setValue(energy);
+        } catch (final NumberFormatException e) {
+          log.error("Invalid response. Value {} is not a number.", value);
+        }
+      }
+    });
 
-    for (byte d : a) {
-      log.info("d: {}", (int) d);
-    }
+    connectButton.setDisable(true);
+    getEnergyButton.setDisable(false);
+    consumeEnergyButton.setDisable(false);
+    disconnectButton.setDisable(false);
+    statusLabel.setText("Status: Connected");
+  }
 
-    log.info("VALUE: {}", new String(a));
+  public void getEnergy() {
+//    energyCharcteristic.writeValue("GE\r".getBytes());
+    energyCharcteristic.writeValue("A".getBytes());
   }
 
   private void consumeEnergy() {
@@ -146,20 +177,14 @@ public class OctavioBle extends Application implements Initializable {
   }
 
   private void disconnect() {
+    log.info("Disconnecting");
     sensor.disconnect();
+    connectButton.setDisable(false);
+    getEnergyButton.setDisable(true);
+    consumeEnergyButton.setDisable(true);
+    disconnectButton.setDisable(true);
+    statusLabel.setText("Status: Disconnected");
   }
-
-//  @Override
-//  public void init() {
-//    VBox stepsBox = getTopicBox("ENERGY", Color.rgb(77, 208, 225), energyGauge);
-//
-//    pane = new GridPane();
-//    pane.setPadding(new Insets(20));
-//    pane.setHgap(10);
-//    pane.setVgap(15);
-//    pane.setBackground(new Background(new BackgroundFill(Color.rgb(39, 44, 50), CornerRadii.EMPTY, Insets.EMPTY)));
-//    pane.add(stepsBox, 0, 0);
-//  }
 
   @Override
   public void stop() {
@@ -194,7 +219,7 @@ public class OctavioBle extends Application implements Initializable {
    * getDevices method. We can the look through the list of devices to find the device with the MAC which we provided
    * as a parameter. We continue looking until we find it, or we try 15 times (1 minutes).
    */
-  static BluetoothDevice getDevice(String address) {
+  static BluetoothDevice getDevice(final String address) {
     BluetoothManager manager = BluetoothManager.getBluetoothManager();
     BluetoothDevice sensor = null;
     for (int i = 0; (i < 15) && running; ++i) {
@@ -216,8 +241,8 @@ public class OctavioBle extends Application implements Initializable {
       }
       try {
         Thread.sleep(4000);
-      } catch (InterruptedException e) {
-        e.printStackTrace();
+      } catch (final InterruptedException e) {
+        log.error("", e);
       }
     }
     return null;
@@ -252,18 +277,17 @@ public class OctavioBle extends Application implements Initializable {
     return tempService;
   }
 
-  private static BluetoothGattCharacteristic getCharacteristic(BluetoothGattService service, String UUID) {
-    List<BluetoothGattCharacteristic> characteristics = service.getCharacteristics();
-    if (characteristics == null)
-      return null;
-
-    for (BluetoothGattCharacteristic characteristic : characteristics) {
-      if (characteristic.getUUID().equals(UUID))
-        return characteristic;
-    }
-    return null;
+  private static Optional<BluetoothGattCharacteristic> getCharacteristic(final BluetoothGattService service, final String UUID) {
+    return service.getCharacteristics().stream()
+      .filter(bluetoothGattCharacteristic -> bluetoothGattCharacteristic.getUUID().equals(UUID))
+      .findFirst();
   }
 
+  private static Optional<BluetoothGattDescriptor> getDescriptor(final BluetoothGattCharacteristic characteristic, final String UUID) {
+    return characteristic.getDescriptors().stream()
+      .filter(bluetoothGattDescriptor -> bluetoothGattDescriptor.getUUID().equals(UUID))
+      .findFirst();
+  }
 
   static void printDevice(BluetoothDevice device) {
     log.info("Name: {}", device.getName());
